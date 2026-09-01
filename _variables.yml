@@ -1,9 +1,9 @@
 student:
-  name: "Nama Mahasiswa"
-  id: "NIM"
-  program: "Program Studi"
-  cohort: "Angkatan"
-  email: "nama@kampus.ac.id"
+  name: "Aqila Zahra Athaya"
+  id: "18225077"
+  program: "Sistem dan Teknologi Informasi"
+  cohort: "2025"
+  email: "18225077@mahasiswa.itb.ac.id"
 
 course:
   code: "KIPP-2"
