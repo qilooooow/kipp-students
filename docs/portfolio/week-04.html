@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="id" xml:lang="id"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.31">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -13,10 +13,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -43,10 +46,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7c69b197886ae2a34062761d21e44731.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-42db6082498c64b8158b8611e7fb4138.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-795ae1ca5c1dbc58ec319c3e1f3f461f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -269,15 +272,21 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#kompetensi-target" id="toc-kompetensi-target" class="nav-link active" data-scroll-target="#kompetensi-target">Kompetensi target</a></li>
   <li><a href="#evidence-wajib" id="toc-evidence-wajib" class="nav-link" data-scroll-target="#evidence-wajib">Evidence wajib</a></li>
-  <li><a href="#konteks-performance" id="toc-konteks-performance" class="nav-link" data-scroll-target="#konteks-performance">Konteks performance</a></li>
-  <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a></li>
-  <li><a href="#analisis-komunikasi" id="toc-analisis-komunikasi" class="nav-link" data-scroll-target="#analisis-komunikasi">Analisis komunikasi</a></li>
-  <li><a href="#penggunaan-ai" id="toc-penggunaan-ai" class="nav-link" data-scroll-target="#penggunaan-ai">Penggunaan AI</a></li>
-  <li><a href="#feedback-dan-tindak-lanjut" id="toc-feedback-dan-tindak-lanjut" class="nav-link" data-scroll-target="#feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</a></li>
-  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a>
+  <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a>
   <ul class="collapse">
-  <li><a href="#assessment-dosen" id="toc-assessment-dosen" class="nav-link" data-scroll-target="#assessment-dosen">Assessment dosen</a></li>
+  <li><a href="#situasi-dan-core-meaning" id="toc-situasi-dan-core-meaning" class="nav-link" data-scroll-target="#situasi-dan-core-meaning">Situasi dan Core Meaning</a></li>
   </ul></li>
+  <li><a href="#friend" id="toc-friend" class="nav-link" data-scroll-target="#friend">1. Friend</a></li>
+  <li><a href="#technical-peer" id="toc-technical-peer" class="nav-link" data-scroll-target="#technical-peer">2. Technical Peer</a></li>
+  <li><a href="#manager" id="toc-manager" class="nav-link" data-scroll-target="#manager">3. Manager</a></li>
+  <li><a href="#customer" id="toc-customer" class="nav-link" data-scroll-target="#customer">4. Customer</a></li>
+  <li><a href="#public" id="toc-public" class="nav-link" data-scroll-target="#public">5. Public</a></li>
+  <li><a href="#perbandingan-kelima-versi" id="toc-perbandingan-kelima-versi" class="nav-link" data-scroll-target="#perbandingan-kelima-versi">Perbandingan Kelima Versi</a></li>
+  <li><a href="#evidence-understanding" id="toc-evidence-understanding" class="nav-link" data-scroll-target="#evidence-understanding">Evidence Understanding</a></li>
+  <li><a href="#analisis" id="toc-analisis" class="nav-link" data-scroll-target="#analisis">Analisis</a></li>
+  <li><a href="#reflection" id="toc-reflection" class="nav-link" data-scroll-target="#reflection">Reflection</a></li>
+  <li><a href="#prioritas-perbaikan" id="toc-prioritas-perbaikan" class="nav-link" data-scroll-target="#prioritas-perbaikan">Prioritas Perbaikan</a></li>
+  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-Assessment</a></li>
   </ul>
 </nav>
     </div>
@@ -337,118 +346,222 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="konteks-performance" class="level2">
-<h2 class="anchored" data-anchor-id="konteks-performance">Konteks performance</h2>
-<p><strong>Tanggal dan setting:</strong> Ganti dengan tanggal, tempat, dan bentuk kegiatan.</p>
-<p><strong>Persons dan relationship:</strong> Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.</p>
-<p><strong>Objective dan initial state:</strong> Nyatakan perubahan yang ingin dicapai serta evidence state awal.</p>
-</section>
 <section id="evidence" class="level2">
 <h2 class="anchored" data-anchor-id="evidence">Evidence</h2>
-<div class="evidence-block">
-<p>Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.</p>
-</div>
+<section id="situasi-dan-core-meaning" class="level3">
+<h3 class="anchored" data-anchor-id="situasi-dan-core-meaning">Situasi dan Core Meaning</h3>
+<p>Saya menggunakan situasi saat mengerjakan tugas kelompok. Dalam tugas kelompok, setiap anggota mengerjakan bagian masing-masing sebelum akhirnya digabungkan menjadi satu tugas.</p>
+<p>Ketika bagian saya sudah selesai, saya perlu menyampaikan informasi tersebut kepada orang lain. Walaupun informasi dasarnya sama, cara menyampaikannya perlu disesuaikan dengan siapa yang menerima pesan.</p>
+<p><strong>Core meaning yang ingin saya pertahankan adalah:</strong></p>
+<blockquote class="blockquote">
+<p>“Bagian tugas saya sudah selesai dan akan saya kirim hari ini supaya bisa digunakan untuk proses selanjutnya.”</p>
+</blockquote>
+<p>Tiga informasi utama yang tidak saya ubah adalah:</p>
+<ul>
+<li>bagian saya sudah selesai;</li>
+<li>saya akan mengirimkannya hari ini;</li>
+<li>bagian tersebut akan digunakan untuk proses selanjutnya.</li>
+</ul>
+<p>Yang berubah hanya <strong>language</strong> dan <strong>repertoire</strong> sesuai dengan target komunikasi.</p>
+<hr>
 </section>
-<section id="analisis-komunikasi" class="level2">
-<h2 class="anchored" data-anchor-id="analisis-komunikasi">Analisis komunikasi</h2>
+</section>
+<section id="friend" class="level2">
+<h2 class="anchored" data-anchor-id="friend">1. Friend</h2>
+<p>Untuk teman dekat yang sudah terbiasa bekerja bersama saya, saya menggunakan bahasa yang lebih santai.</p>
+<p><strong>Pesan:</strong></p>
+<blockquote class="blockquote">
+<p>“Bagian tugasku udah selesai. Nanti aku kirim hari ini ya, biar bisa langsung digabung sama yang lain.”</p>
+</blockquote>
+<p>Saya menggunakan kata seperti “udah”, “nanti”, dan “biar” karena lebih natural ketika berbicara dengan teman.</p>
+<p>Repertoire yang saya gunakan berupa chat singkat dan langsung karena teman sudah mengetahui konteks tugas kelompok.</p>
+<p><strong>Tujuan komunikasi:</strong> memberi tahu bahwa bagian saya sudah selesai dan akan segera dikirim.</p>
+<hr>
+</section>
+<section id="technical-peer" class="level2">
+<h2 class="anchored" data-anchor-id="technical-peer">2. Technical Peer</h2>
+<p>Untuk teman yang mengerjakan bagian teknis dari tugas, saya tetap menggunakan bahasa yang cukup santai, tetapi lebih spesifik terhadap proses pekerjaan.</p>
+<p><strong>Pesan:</strong></p>
+<blockquote class="blockquote">
+<p>“Bagian yang aku kerjakan sudah selesai. Aku kirim hari ini supaya bisa langsung diintegrasikan ke bagian yang kamu kerjakan.”</p>
+</blockquote>
+<p>Saya menggunakan istilah “diintegrasikan” karena target sudah memahami konteks teknis dari tugas tersebut.</p>
+<p>Saya tidak perlu menjelaskan kembali seluruh proses karena target sudah mengetahui pekerjaannya sendiri.</p>
+<p><strong>Repertoire:</strong> progress update dengan istilah yang sesuai dengan pekerjaan.</p>
+<p><strong>Tujuan komunikasi:</strong> memberi informasi bahwa bagian saya sudah siap digunakan untuk proses berikutnya.</p>
+<hr>
+</section>
+<section id="manager" class="level2">
+<h2 class="anchored" data-anchor-id="manager">3. Manager</h2>
+<p>Untuk orang yang berperan sebagai manager atau koordinator kelompok, saya menggunakan bahasa yang lebih formal.</p>
+<p><strong>Pesan:</strong></p>
+<blockquote class="blockquote">
+<p>“Bagian yang menjadi tanggung jawab saya sudah selesai. Saya akan mengirimkannya hari ini agar dapat dilanjutkan ke tahap berikutnya.”</p>
+</blockquote>
+<p>Saya menggunakan frasa “menjadi tanggung jawab saya” untuk menunjukkan bahwa saya memahami bagian pekerjaan yang diberikan kepada saya.</p>
+<p>Saya juga menghindari kata-kata yang terlalu santai seperti “udah” atau “biar”.</p>
+<p><strong>Repertoire:</strong> progress report atau update pekerjaan.</p>
+<p><strong>Tujuan komunikasi:</strong> memberikan informasi mengenai status pekerjaan secara jelas kepada pihak yang mengoordinasikan tugas.</p>
+<hr>
+</section>
+<section id="customer" class="level2">
+<h2 class="anchored" data-anchor-id="customer">4. Customer</h2>
+<p>Untuk customer, saya tidak perlu menjelaskan pembagian tugas internal kelompok karena informasi tersebut tidak terlalu relevan bagi mereka.</p>
+<p><strong>Pesan:</strong></p>
+<blockquote class="blockquote">
+<p>“Bagian yang kami kerjakan sudah selesai. Kami akan mengirimkannya hari ini agar proses selanjutnya dapat segera dilakukan.”</p>
+</blockquote>
+<p>Saya lebih fokus pada status pekerjaan dan proses berikutnya.</p>
+<p>Saya menggunakan bahasa yang sederhana dan profesional agar customer tidak perlu memahami bagaimana pekerjaan tersebut dibagi di dalam kelompok.</p>
+<p><strong>Repertoire:</strong> service update.</p>
+<p><strong>Tujuan komunikasi:</strong> memberikan informasi mengenai status pekerjaan dan apa yang akan dilakukan selanjutnya.</p>
+<hr>
+</section>
+<section id="public" class="level2">
+<h2 class="anchored" data-anchor-id="public">5. Public</h2>
+<p>Jika informasi tersebut disampaikan kepada publik, saya menggunakan bahasa yang lebih umum karena audiens tidak mengetahui konteks internal pekerjaan kami.</p>
+<p><strong>Pesan:</strong></p>
+<blockquote class="blockquote">
+<p>“Bagian pekerjaan kami telah selesai dan akan kami kirimkan hari ini agar proses berikutnya dapat segera dilanjutkan.”</p>
+</blockquote>
+<p>Saya menghindari istilah internal atau penjelasan mengenai pembagian tugas.</p>
+<p>Bahasa dibuat lebih umum agar orang yang tidak mengetahui konteks pekerjaan tetap dapat memahami informasi utama.</p>
+<p><strong>Repertoire:</strong> pengumuman atau informasi publik.</p>
+<p><strong>Tujuan komunikasi:</strong> menyampaikan status pekerjaan dengan cara yang mudah dipahami oleh audiens yang lebih luas.</p>
+<hr>
+</section>
+<section id="perbandingan-kelima-versi" class="level2">
+<h2 class="anchored" data-anchor-id="perbandingan-kelima-versi">Perbandingan Kelima Versi</h2>
+<p>Walaupun cara penyampaiannya berbeda, core meaning dari kelima pesan tetap sama.</p>
 <table class="caption-top table">
 <thead>
 <tr class="header">
-<th>Elemen</th>
-<th>Evidence dan analisis</th>
+<th>Target</th>
+<th>Adaptasi Language dan Repertoire</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Person &amp; character</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Friend</td>
+<td>Santai, personal, dan menggunakan bahasa percakapan</td>
 </tr>
 <tr class="even">
-<td>Objective &amp; state</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Technical peer</td>
+<td>Lebih spesifik dan menggunakan istilah pekerjaan</td>
 </tr>
 <tr class="odd">
-<td>Repertoire &amp; language</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Manager</td>
+<td>Formal dan menekankan tanggung jawab</td>
 </tr>
 <tr class="even">
-<td>Response &amp; adaptation</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Customer</td>
+<td>Fokus pada status dan informasi yang dibutuhkan</td>
 </tr>
 <tr class="odd">
-<td>Agreement/action</td>
-<td>Ganti dengan analisis Anda.</td>
-</tr>
-<tr class="even">
-<td>Relationship outcome</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Public</td>
+<td>Umum, sederhana, dan menghindari konteks internal</td>
 </tr>
 </tbody>
 </table>
+<p>Perubahan tersebut menunjukkan bahwa <strong>language dapat berubah sesuai target tanpa mengubah meaning utama</strong>.</p>
+<p>Saya tetap menyampaikan bahwa bagian pekerjaan sudah selesai dan akan dikirim hari itu. Yang berubah adalah cara penyampaian dan tingkat informasi yang diberikan.</p>
+<hr>
 </section>
-<section id="penggunaan-ai" class="level2">
-<h2 class="anchored" data-anchor-id="penggunaan-ai">Penggunaan AI</h2>
-<p>Nyatakan <code>Tidak menggunakan AI</code> atau jelaskan:</p>
-<ul>
-<li>alat dan peran AI;</li>
-<li>prompt atau instruksi penting;</li>
-<li>bagian output yang digunakan, diubah, atau ditolak;</li>
-<li>pemeriksaan accuracy, privacy, dan authority;</li>
-<li>apa yang tetap Anda pelajari sebagai manusia.</li>
-</ul>
+<section id="evidence-understanding" class="level2">
+<h2 class="anchored" data-anchor-id="evidence-understanding">Evidence Understanding</h2>
+<p>Saya mencoba menggunakan versi friend dalam komunikasi mengenai tugas kelompok.</p>
+<p>Saya menyampaikan:</p>
+<blockquote class="blockquote">
+<p>“Bagian tugasku udah selesai. Nanti aku kirim hari ini ya, biar bisa langsung digabung sama yang lain.”</p>
+</blockquote>
+<p>Setelah menyampaikan pesan tersebut, saya memastikan kembali apakah maksud saya sudah jelas dengan bertanya:</p>
+<blockquote class="blockquote">
+<p>“Jadi bagian aku sudah selesai dan nanti aku kirim hari ini. Udah jelas ya?”</p>
+</blockquote>
+<p>Teman memahami bahwa bagian saya sudah selesai dan akan dikirim pada hari yang sama untuk kemudian digabungkan dengan bagian lainnya.</p>
+<p>Dari respons tersebut, saya melihat bahwa bahasa yang lebih santai tetap dapat mempertahankan core meaning selama informasi utamanya tetap jelas.</p>
+<hr>
 </section>
-<section id="feedback-dan-tindak-lanjut" class="level2">
-<h2 class="anchored" data-anchor-id="feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</h2>
-<p><strong>Feedback yang diterima:</strong> Ganti dengan kutipan atau ringkasan berbasis evidence.</p>
-<p><strong>Adaptation/replay:</strong> Jelaskan apa yang Anda ubah dan response setelah perubahan.</p>
-<p><strong>Next practice:</strong> Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.</p>
+<section id="analisis" class="level2">
+<h2 class="anchored" data-anchor-id="analisis">Analisis</h2>
+<p>Dalam latihan ini, saya melihat bahwa perubahan language juga diikuti oleh perubahan repertoire.</p>
+<p>Pada friend, saya menggunakan percakapan santai.</p>
+<p>Pada technical peer, saya menggunakan progress update yang lebih spesifik.</p>
+<p>Pada manager, saya menggunakan gaya komunikasi yang lebih formal.</p>
+<p>Pada customer, saya menggunakan service update yang berfokus pada kebutuhan penerima.</p>
+<p>Pada public, saya menggunakan bahasa yang lebih umum karena targetnya memiliki latar belakang yang beragam.</p>
+<p>Saya juga perlu memastikan bahwa perubahan tersebut tidak membuat meaning utama berubah.</p>
+<p>Misalnya, saya tidak boleh menambahkan informasi bahwa pekerjaan sudah diperiksa atau sudah disetujui jika hal tersebut sebenarnya belum terjadi.</p>
+<p>Jadi, adaptasi bukan berarti menambahkan informasi baru, tetapi menyesuaikan cara menyampaikan informasi yang memang benar.</p>
+<hr>
+</section>
+<section id="reflection" class="level2">
+<h2 class="anchored" data-anchor-id="reflection">Reflection</h2>
+<p>Dari latihan ini saya menjadi lebih sadar bahwa saya sering menggunakan gaya komunikasi yang hampir sama ketika berbicara dengan orang yang berbeda.</p>
+<p>Padahal, target komunikasi memiliki kebutuhan informasi dan konteks yang berbeda.</p>
+<p>Saya belajar bahwa sebelum menyampaikan pesan, saya perlu memikirkan siapa yang menerima pesan tersebut.</p>
+<p>Saya juga belajar bahwa mengubah language bukan berarti mengubah isi pesan. Core meaning harus tetap dipertahankan, sedangkan cara penyampaian dapat disesuaikan dengan target.</p>
+<p>Bagi saya, latihan ini menunjukkan bahwa satu meaning dapat memiliki beberapa bentuk language dan repertoire.</p>
+<hr>
+</section>
+<section id="prioritas-perbaikan" class="level2">
+<h2 class="anchored" data-anchor-id="prioritas-perbaikan">Prioritas Perbaikan</h2>
+<p>Prioritas perbaikan saya adalah membiasakan diri untuk menentukan target komunikasi sebelum memilih cara menyampaikan pesan.</p>
+<p>Saya ingin membiasakan tiga langkah:</p>
+<ol type="1">
+<li>Menentukan siapa target komunikasi.</li>
+<li>Menentukan informasi yang paling dibutuhkan target.</li>
+<li>Menyesuaikan language dan repertoire tanpa mengubah core meaning.</li>
+</ol>
+<p>Saya juga ingin lebih sering mengecek apakah pesan saya benar-benar dipahami oleh penerima, bukan hanya menganggap bahwa pesan tersebut sudah jelas menurut saya.</p>
+<hr>
 </section>
 <section id="self-assessment" class="level2">
-<h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
+<h2 class="anchored" data-anchor-id="self-assessment">Self-Assessment</h2>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Dimensi</th>
-<th style="text-align: right;">Skor 1–4</th>
+<th style="text-align: right;">Skor</th>
 <th>Evidence singkat</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Person &amp; Character</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Lima target dibedakan berdasarkan kebutuhan dan konteks komunikasinya.</td>
 </tr>
 <tr class="even">
-<td>Objective &amp; State</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td>Core Meaning</td>
+<td style="text-align: right;">4</td>
+<td>Informasi utama tetap sama pada kelima versi.</td>
 </tr>
 <tr class="odd">
-<td>Repertoire, Language &amp; AI</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td>Repertoire &amp; Language</td>
+<td style="text-align: right;">4</td>
+<td>Setiap target memiliki pilihan kata, tingkat formalitas, dan repertoire yang berbeda.</td>
 </tr>
 <tr class="even">
 <td>Response &amp; Adaptation</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">3</td>
+<td>Saya menggunakan feedback dari teman untuk memastikan meaning tetap dipahami, tetapi belum menguji semua versi secara langsung.</td>
 </tr>
 <tr class="odd">
-<td>Agreement, Action &amp; Relationship</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td>Reflection</td>
+<td style="text-align: right;">4</td>
+<td>Saya dapat menjelaskan hubungan antara target, language, repertoire, dan core meaning.</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Total:</strong> — / 20</p>
-<section id="assessment-dosen" class="level3 assessor-only">
-<h3 class="anchored" data-anchor-id="assessment-dosen">Assessment dosen</h3>
-<p><strong>Skor:</strong> — / 20<br>
-<strong>Evidence yang mendukung:</strong> —<br>
-<strong>Prioritas perbaikan:</strong> —<br>
-<strong>Keputusan:</strong> Belum dinilai / Perlu revisi / Tercapai</p>
-</section>
+<p><strong>Self-score: 4</strong></p>
+<p>Saya memberikan skor 4 karena saya sudah dapat menunjukkan satu core meaning dalam lima bentuk komunikasi yang berbeda. Saya juga dapat menjelaskan alasan perubahan language dan repertoire serta menggunakan feedback dari teman untuk memastikan bahwa meaning utama tetap dipahami.</p>
+<p>Namun, saya masih perlu berlatih melakukan feedback dan adaptation secara lebih langsung pada berbagai target komunikasi.</p>
 
 
 </section>
@@ -870,7 +983,7 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Portfolio KIPP-2 · Nama Mahasiswa</p>
+<p>Portfolio KIPP-2 · Aqila Zahra Athaya</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

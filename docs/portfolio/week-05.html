@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="id" xml:lang="id"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.31">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -13,10 +13,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -43,10 +46,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7c69b197886ae2a34062761d21e44731.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-42db6082498c64b8158b8611e7fb4138.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-795ae1ca5c1dbc58ec319c3e1f3f461f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -269,15 +272,21 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#kompetensi-target" id="toc-kompetensi-target" class="nav-link active" data-scroll-target="#kompetensi-target">Kompetensi target</a></li>
   <li><a href="#evidence-wajib" id="toc-evidence-wajib" class="nav-link" data-scroll-target="#evidence-wajib">Evidence wajib</a></li>
-  <li><a href="#konteks-performance" id="toc-konteks-performance" class="nav-link" data-scroll-target="#konteks-performance">Konteks performance</a></li>
-  <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a></li>
-  <li><a href="#analisis-komunikasi" id="toc-analisis-komunikasi" class="nav-link" data-scroll-target="#analisis-komunikasi">Analisis komunikasi</a></li>
-  <li><a href="#penggunaan-ai" id="toc-penggunaan-ai" class="nav-link" data-scroll-target="#penggunaan-ai">Penggunaan AI</a></li>
-  <li><a href="#feedback-dan-tindak-lanjut" id="toc-feedback-dan-tindak-lanjut" class="nav-link" data-scroll-target="#feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</a></li>
-  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a>
+  <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a>
   <ul class="collapse">
-  <li><a href="#assessment-dosen" id="toc-assessment-dosen" class="nav-link" data-scroll-target="#assessment-dosen">Assessment dosen</a></li>
+  <li><a href="#konteks-discovery" id="toc-konteks-discovery" class="nav-link" data-scroll-target="#konteks-discovery">Konteks Discovery</a></li>
   </ul></li>
+  <li><a href="#initial-assumption" id="toc-initial-assumption" class="nav-link" data-scroll-target="#initial-assumption">Initial Assumption</a></li>
+  <li><a href="#discovery-questions" id="toc-discovery-questions" class="nav-link" data-scroll-target="#discovery-questions">Discovery Questions</a></li>
+  <li><a href="#transcript-paraphrase" id="toc-transcript-paraphrase" class="nav-link" data-scroll-target="#transcript-paraphrase">Transcript / Paraphrase</a></li>
+  <li><a href="#pembaruan-pemahaman" id="toc-pembaruan-pemahaman" class="nav-link" data-scroll-target="#pembaruan-pemahaman">Pembaruan Pemahaman</a></li>
+  <li><a href="#problem-impact" id="toc-problem-impact" class="nav-link" data-scroll-target="#problem-impact">Problem Impact</a></li>
+  <li><a href="#constraint" id="toc-constraint" class="nav-link" data-scroll-target="#constraint">Constraint</a></li>
+  <li><a href="#shared-problem-statement" id="toc-shared-problem-statement" class="nav-link" data-scroll-target="#shared-problem-statement">Shared Problem Statement</a></li>
+  <li><a href="#evidence-response-dan-adaptation" id="toc-evidence-response-dan-adaptation" class="nav-link" data-scroll-target="#evidence-response-dan-adaptation">Evidence Response dan Adaptation</a></li>
+  <li><a href="#reflection" id="toc-reflection" class="nav-link" data-scroll-target="#reflection">Reflection</a></li>
+  <li><a href="#prioritas-perbaikan" id="toc-prioritas-perbaikan" class="nav-link" data-scroll-target="#prioritas-perbaikan">Prioritas Perbaikan</a></li>
+  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-Assessment</a></li>
   </ul>
 </nav>
     </div>
@@ -337,118 +346,182 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="konteks-performance" class="level2">
-<h2 class="anchored" data-anchor-id="konteks-performance">Konteks performance</h2>
-<p><strong>Tanggal dan setting:</strong> Ganti dengan tanggal, tempat, dan bentuk kegiatan.</p>
-<p><strong>Persons dan relationship:</strong> Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.</p>
-<p><strong>Objective dan initial state:</strong> Nyatakan perubahan yang ingin dicapai serta evidence state awal.</p>
-</section>
 <section id="evidence" class="level2">
 <h2 class="anchored" data-anchor-id="evidence">Evidence</h2>
-<div class="evidence-block">
-<p>Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.</p>
-</div>
+<section id="konteks-discovery" class="level3">
+<h3 class="anchored" data-anchor-id="konteks-discovery">Konteks Discovery</h3>
+<p>Saya melakukan percakapan dengan seorang teman mengenai kesulitan dalam mengerjakan tugas kelompok.</p>
+<p>Awalnya saya melihat teman saya beberapa kali mengatakan bahwa tugas kelompoknya belum selesai. Dari situ saya memiliki asumsi awal bahwa masalahnya mungkin karena pembagian tugas yang kurang jelas.</p>
+<p>Namun, saya mencoba untuk tidak langsung menyimpulkan bahwa masalahnya memang pembagian tugas. Saya ingin mengetahui terlebih dahulu apa yang sebenarnya membuat tugas tersebut sulit diselesaikan.</p>
+<hr>
 </section>
-<section id="analisis-komunikasi" class="level2">
-<h2 class="anchored" data-anchor-id="analisis-komunikasi">Analisis komunikasi</h2>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Elemen</th>
-<th>Evidence dan analisis</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Person &amp; character</td>
-<td>Ganti dengan analisis Anda.</td>
-</tr>
-<tr class="even">
-<td>Objective &amp; state</td>
-<td>Ganti dengan analisis Anda.</td>
-</tr>
-<tr class="odd">
-<td>Repertoire &amp; language</td>
-<td>Ganti dengan analisis Anda.</td>
-</tr>
-<tr class="even">
-<td>Response &amp; adaptation</td>
-<td>Ganti dengan analisis Anda.</td>
-</tr>
-<tr class="odd">
-<td>Agreement/action</td>
-<td>Ganti dengan analisis Anda.</td>
-</tr>
-<tr class="even">
-<td>Relationship outcome</td>
-<td>Ganti dengan analisis Anda.</td>
-</tr>
-</tbody>
-</table>
 </section>
-<section id="penggunaan-ai" class="level2">
-<h2 class="anchored" data-anchor-id="penggunaan-ai">Penggunaan AI</h2>
-<p>Nyatakan <code>Tidak menggunakan AI</code> atau jelaskan:</p>
+<section id="initial-assumption" class="level2">
+<h2 class="anchored" data-anchor-id="initial-assumption">Initial Assumption</h2>
+<p>Asumsi awal saya:</p>
+<blockquote class="blockquote">
+<p>“Kemungkinan masalahnya adalah pembagian tugas dalam kelompok kurang jelas sehingga pekerjaan menjadi terlambat.”</p>
+</blockquote>
+<p>Saya menyadari bahwa ini baru asumsi dari sudut pandang saya. Karena itu, saya tidak langsung memberikan solusi sebelum mengetahui kondisi yang sebenarnya dialami oleh teman saya.</p>
+<hr>
+</section>
+<section id="discovery-questions" class="level2">
+<h2 class="anchored" data-anchor-id="discovery-questions">Discovery Questions</h2>
+<p>Saya menggunakan beberapa pertanyaan untuk memahami situasinya:</p>
+<ol type="1">
+<li>“Bagian mana yang paling bikin kamu kesulitan?”</li>
+<li>“Sejak awal pembagian tugasnya sudah jelas atau masih berubah-ubah?”</li>
+<li>“Biasanya bagian mana yang paling lama dikerjakan?”</li>
+<li>“Apa yang terjadi kalau bagian kamu belum selesai?”</li>
+<li>“Menurut kamu, hal apa yang paling menghambat tugasnya?”</li>
+<li>“Kalau masalah itu tidak diselesaikan, dampaknya ke kelompok apa?”</li>
+</ol>
+<p>Saya mencoba menggunakan pertanyaan yang memungkinkan teman saya menjelaskan masalah dari sudut pandangnya sendiri, bukan langsung mengarahkan kepada solusi tertentu.</p>
+<hr>
+</section>
+<section id="transcript-paraphrase" class="level2">
+<h2 class="anchored" data-anchor-id="transcript-paraphrase">Transcript / Paraphrase</h2>
+<blockquote class="blockquote">
+<p><strong>Saya:</strong> “Kalau dari tugas yang sekarang, bagian mana yang paling bikin kamu kesulitan?”</p>
+<p><strong>Teman:</strong> “Sebenernya pembagian tugasnya udah ada. Cuma aku sering bingung karena bagian yang aku dapat ternyata bergantung sama bagian teman yang lain.”</p>
+<p><strong>Saya:</strong> “Berarti bukan pembagian tugasnya yang belum jelas, tapi ada bagian yang saling bergantung?”</p>
+<p><strong>Teman:</strong> “Iya. Misalnya aku mau lanjut, tapi harus nunggu bagian mereka selesai dulu.”</p>
+<p><strong>Saya:</strong> “Kalau harus menunggu, biasanya dampaknya apa?”</p>
+<p><strong>Teman:</strong> “Jadinya aku juga ikut telat. Terus kalau sudah dekat deadline baru semuanya dikerjakan buru-buru.”</p>
+<p><strong>Saya:</strong> “Kalau menurut kamu, yang paling mengganggu berarti bukan jumlah tugasnya, tapi ketergantungan antarbagian yang bikin kamu nggak bisa lanjut?”</p>
+<p><strong>Teman:</strong> “Iya, itu lebih tepat.”</p>
+</blockquote>
+<p>Dari percakapan tersebut, saya menyadari bahwa asumsi awal saya ternyata tidak sepenuhnya tepat.</p>
+<p>Masalahnya bukan karena pembagian tugas tidak jelas, tetapi karena beberapa bagian pekerjaan saling bergantung dan membuat anggota harus menunggu pekerjaan anggota lain sebelum dapat melanjutkan.</p>
+<hr>
+</section>
+<section id="pembaruan-pemahaman" class="level2">
+<h2 class="anchored" data-anchor-id="pembaruan-pemahaman">Pembaruan Pemahaman</h2>
+<p><strong>Initial assumption:</strong></p>
+<blockquote class="blockquote">
+<p>Pembagian tugas kurang jelas sehingga pekerjaan menjadi terlambat.</p>
+</blockquote>
+<p><strong>Setelah discovery:</strong></p>
+<blockquote class="blockquote">
+<p>Beberapa bagian tugas saling bergantung sehingga anggota tertentu harus menunggu bagian lain selesai sebelum dapat melanjutkan pekerjaannya.</p>
+</blockquote>
+<p>Perubahan ini menunjukkan bahwa saya perlu memisahkan antara asumsi saya dengan fakta yang diperoleh dari person.</p>
+<p>Saya awalnya melihat masalah dari hasil akhirnya, yaitu tugas yang terlambat. Setelah bertanya lebih lanjut, saya mendapatkan informasi mengenai proses yang menyebabkan keterlambatan tersebut.</p>
+<hr>
+</section>
+<section id="problem-impact" class="level2">
+<h2 class="anchored" data-anchor-id="problem-impact">Problem Impact</h2>
+<p>Dari percakapan tersebut, saya menemukan beberapa dampak.</p>
+<p>Pertama, teman saya tidak dapat melanjutkan pekerjaannya meskipun bagian yang menjadi tanggung jawabnya sendiri sudah siap dikerjakan.</p>
+<p>Kedua, pekerjaan menjadi menumpuk ketika sudah mendekati deadline.</p>
+<p>Ketiga, anggota kelompok menjadi lebih mudah merasa terburu-buru karena beberapa pekerjaan baru dapat dilakukan setelah pekerjaan lain selesai.</p>
+<p>Jadi, masalah tersebut tidak hanya berdampak pada satu bagian pekerjaan, tetapi juga dapat memengaruhi alur kerja kelompok secara keseluruhan.</p>
+<hr>
+</section>
+<section id="constraint" class="level2">
+<h2 class="anchored" data-anchor-id="constraint">Constraint</h2>
+<p>Beberapa constraint yang saya temukan adalah:</p>
 <ul>
-<li>alat dan peran AI;</li>
-<li>prompt atau instruksi penting;</li>
-<li>bagian output yang digunakan, diubah, atau ditolak;</li>
-<li>pemeriksaan accuracy, privacy, dan authority;</li>
-<li>apa yang tetap Anda pelajari sebagai manusia.</li>
+<li>Setiap bagian tugas saling berhubungan.</li>
+<li>Beberapa pekerjaan tidak dapat dimulai sebelum bagian lain selesai.</li>
+<li>Deadline tugas tetap berjalan.</li>
+<li>Anggota kelompok memiliki jadwal dan kesibukan yang berbeda.</li>
 </ul>
+<p>Karena itu, masalahnya tidak cukup diselesaikan hanya dengan meminta anggota untuk bekerja lebih cepat. Ada bagian pekerjaan yang memang memiliki ketergantungan dengan pekerjaan anggota lain.</p>
+<hr>
 </section>
-<section id="feedback-dan-tindak-lanjut" class="level2">
-<h2 class="anchored" data-anchor-id="feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</h2>
-<p><strong>Feedback yang diterima:</strong> Ganti dengan kutipan atau ringkasan berbasis evidence.</p>
-<p><strong>Adaptation/replay:</strong> Jelaskan apa yang Anda ubah dan response setelah perubahan.</p>
-<p><strong>Next practice:</strong> Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.</p>
+<section id="shared-problem-statement" class="level2">
+<h2 class="anchored" data-anchor-id="shared-problem-statement">Shared Problem Statement</h2>
+<p>Setelah memahami masalahnya, saya menyampaikan kembali pemahaman saya kepada teman:</p>
+<blockquote class="blockquote">
+<p>“Berarti masalah yang kita hadapi sebenarnya bukan pembagian tugas yang nggak jelas, tetapi beberapa bagian tugas saling bergantung sehingga kalau satu bagian terlambat, bagian lain ikut tertahan dan akhirnya pekerjaan menumpuk mendekati deadline. Benar begitu?”</p>
+</blockquote>
+<p>Teman saya menyetujui bahwa pernyataan tersebut sesuai dengan masalah yang dia rasakan.</p>
+<p>Berdasarkan konfirmasi tersebut, shared problem statement yang kami sepakati adalah:</p>
+<blockquote class="blockquote">
+<p><strong>“Beberapa bagian tugas kelompok saling bergantung, sehingga keterlambatan satu bagian membuat anggota lain tidak dapat melanjutkan pekerjaannya dan menyebabkan pekerjaan menumpuk mendekati deadline.”</strong></p>
+</blockquote>
+<p>Saya sengaja tidak langsung memasukkan solusi seperti membuat aplikasi, mengubah sistem pembagian tugas, atau menggunakan tools tertentu karena pada tahap ini saya masih berusaha memahami problem sebelum proposing.</p>
+<hr>
+</section>
+<section id="evidence-response-dan-adaptation" class="level2">
+<h2 class="anchored" data-anchor-id="evidence-response-dan-adaptation">Evidence Response dan Adaptation</h2>
+<p>Response dari teman membuat saya mengubah pemahaman awal.</p>
+<p>Awalnya saya mengira masalahnya adalah <strong>pembagian tugas yang kurang jelas</strong>. Setelah teman menjelaskan bahwa pembagian tugas sebenarnya sudah ada, saya mengubah pertanyaan dan fokus discovery menjadi <strong>ketergantungan antarbagian pekerjaan</strong>.</p>
+<p>Saya kemudian menggunakan paraphrase untuk memastikan apakah pemahaman tersebut benar.</p>
+<p>Dengan demikian, respons dari person tidak hanya menjadi jawaban atas pertanyaan saya, tetapi juga mengubah cara saya membaca masalah.</p>
+<hr>
+</section>
+<section id="reflection" class="level2">
+<h2 class="anchored" data-anchor-id="reflection">Reflection</h2>
+<p>Dari discovery ini saya belajar bahwa saya tidak seharusnya langsung percaya pada asumsi awal saya.</p>
+<p>Awalnya saya mengira masalahnya adalah pembagian tugas. Kalau saya langsung memberikan solusi seperti “pembagian tugasnya harus dibuat lebih jelas”, kemungkinan solusi tersebut belum tentu menyelesaikan masalah yang sebenarnya.</p>
+<p>Dengan bertanya dan mendengarkan terlebih dahulu, saya mendapatkan masalah yang lebih spesifik.</p>
+<p>Saya juga belajar bahwa discovery bukan hanya mengumpulkan jawaban dari orang lain. Saya perlu memastikan kembali apakah pemahaman saya tentang masalah tersebut memang sesuai dengan pengalaman person.</p>
+<p>Hal lain yang saya pelajari adalah bahwa <strong>problem statement sebaiknya dibuat bersama</strong>, bukan hanya berdasarkan interpretasi saya sendiri. Karena itu, saya melakukan konfirmasi sebelum menetapkan shared problem statement.</p>
+<hr>
+</section>
+<section id="prioritas-perbaikan" class="level2">
+<h2 class="anchored" data-anchor-id="prioritas-perbaikan">Prioritas Perbaikan</h2>
+<p>Prioritas perbaikan saya adalah <strong>menahan diri untuk tidak langsung proposing sebelum masalahnya benar-benar dipahami.</strong></p>
+<p>Dalam percakapan berikutnya, saya akan mencoba:</p>
+<ol type="1">
+<li>Menuliskan asumsi awal sebelum melakukan discovery.</li>
+<li>Mengajukan pertanyaan terbuka.</li>
+<li>Menggali impact dan constraint.</li>
+<li>Melakukan paraphrase untuk memastikan pemahaman.</li>
+<li>Meminta konfirmasi person terhadap problem statement.</li>
+<li>Baru membahas kemungkinan solusi setelah masalahnya sudah disepakati.</li>
+</ol>
+<p>Saya juga ingin lebih memperhatikan apakah pertanyaan saya terlalu mengarahkan jawaban. Dengan begitu, informasi yang saya dapatkan lebih banyak berasal dari pengalaman person daripada asumsi saya sendiri.</p>
+<hr>
 </section>
 <section id="self-assessment" class="level2">
-<h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
+<h2 class="anchored" data-anchor-id="self-assessment">Self-Assessment</h2>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Dimensi</th>
-<th style="text-align: right;">Skor 1–4</th>
+<th style="text-align: right;">Skor</th>
 <th>Evidence singkat</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Person &amp; Character</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Saya menggali pengalaman teman dan memahami masalah dari perspektif person.</td>
 </tr>
 <tr class="even">
 <td>Objective &amp; State</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Saya memiliki asumsi awal dan memperbarui pemahaman setelah mendapatkan informasi baru.</td>
 </tr>
 <tr class="odd">
 <td>Repertoire, Language &amp; AI</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Saya menggunakan pertanyaan terbuka, paraphrase, dan klarifikasi sebelum proposing.</td>
 </tr>
 <tr class="even">
 <td>Response &amp; Adaptation</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Jawaban teman membuat saya mengubah fokus dari pembagian tugas menjadi ketergantungan antarbagian.</td>
 </tr>
 <tr class="odd">
 <td>Agreement, Action &amp; Relationship</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Shared problem statement dikonfirmasi oleh teman sebelum saya menetapkan hasil discovery.</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Total:</strong> — / 20</p>
-<section id="assessment-dosen" class="level3 assessor-only">
-<h3 class="anchored" data-anchor-id="assessment-dosen">Assessment dosen</h3>
-<p><strong>Skor:</strong> — / 20<br>
-<strong>Evidence yang mendukung:</strong> —<br>
-<strong>Prioritas perbaikan:</strong> —<br>
-<strong>Keputusan:</strong> Belum dinilai / Perlu revisi / Tercapai</p>
-</section>
+<p><strong>Self-score: 4</strong></p>
+<p>Saya memberikan skor 4 karena saya sudah menunjukkan proses discovery dari initial assumption, pertanyaan, listening, paraphrase, identifikasi impact dan constraint, sampai shared problem statement yang dikonfirmasi oleh partner.</p>
+<p>Saya juga tidak langsung memberikan solusi sebelum memahami masalah. Namun, saya masih perlu berlatih melakukan discovery dengan lebih banyak person agar tidak hanya bergantung pada satu perspektif.</p>
 
 
 </section>
@@ -870,7 +943,7 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Portfolio KIPP-2 · Nama Mahasiswa</p>
+<p>Portfolio KIPP-2 · Aqila Zahra Athaya</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="id" xml:lang="id"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.31">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -13,10 +13,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -43,10 +46,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7c69b197886ae2a34062761d21e44731.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-42db6082498c64b8158b8611e7fb4138.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-795ae1ca5c1dbc58ec319c3e1f3f461f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -269,14 +272,22 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#kompetensi-target" id="toc-kompetensi-target" class="nav-link active" data-scroll-target="#kompetensi-target">Kompetensi target</a></li>
   <li><a href="#evidence-wajib" id="toc-evidence-wajib" class="nav-link" data-scroll-target="#evidence-wajib">Evidence wajib</a></li>
-  <li><a href="#konteks-performance" id="toc-konteks-performance" class="nav-link" data-scroll-target="#konteks-performance">Konteks performance</a></li>
-  <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a></li>
-  <li><a href="#analisis-komunikasi" id="toc-analisis-komunikasi" class="nav-link" data-scroll-target="#analisis-komunikasi">Analisis komunikasi</a></li>
-  <li><a href="#penggunaan-ai" id="toc-penggunaan-ai" class="nav-link" data-scroll-target="#penggunaan-ai">Penggunaan AI</a></li>
-  <li><a href="#feedback-dan-tindak-lanjut" id="toc-feedback-dan-tindak-lanjut" class="nav-link" data-scroll-target="#feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</a></li>
-  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a>
+  <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a>
   <ul class="collapse">
-  <li><a href="#assessment-dosen" id="toc-assessment-dosen" class="nav-link" data-scroll-target="#assessment-dosen">Assessment dosen</a></li>
+  <li><a href="#episode-komunikasi-dengan-diri-sendiri" id="toc-episode-komunikasi-dengan-diri-sendiri" class="nav-link" data-scroll-target="#episode-komunikasi-dengan-diri-sendiri">Episode Komunikasi dengan Diri Sendiri</a></li>
+  <li><a href="#event-dan-fact" id="toc-event-dan-fact" class="nav-link" data-scroll-target="#event-dan-fact">Event dan Fact</a></li>
+  <li><a href="#initial-story" id="toc-initial-story" class="nav-link" data-scroll-target="#initial-story">Initial Story</a></li>
+  <li><a href="#emotion" id="toc-emotion" class="nav-link" data-scroll-target="#emotion">Emotion</a></li>
+  <li><a href="#internal-character" id="toc-internal-character" class="nav-link" data-scroll-target="#internal-character">Internal Character</a></li>
+  <li><a href="#alternative-narratives" id="toc-alternative-narratives" class="nav-link" data-scroll-target="#alternative-narratives">Alternative Narratives</a></li>
+  <li><a href="#internal-conversation" id="toc-internal-conversation" class="nav-link" data-scroll-target="#internal-conversation">Internal Conversation</a></li>
+  <li><a href="#choice" id="toc-choice" class="nav-link" data-scroll-target="#choice">Choice</a></li>
+  <li><a href="#internal-agreement" id="toc-internal-agreement" class="nav-link" data-scroll-target="#internal-agreement">Internal Agreement</a></li>
+  <li><a href="#action" id="toc-action" class="nav-link" data-scroll-target="#action">Action</a></li>
+  <li><a href="#perubahan-dari-reaction-ke-response" id="toc-perubahan-dari-reaction-ke-response" class="nav-link" data-scroll-target="#perubahan-dari-reaction-ke-response">Perubahan dari Reaction ke Response</a></li>
+  <li><a href="#reflection" id="toc-reflection" class="nav-link" data-scroll-target="#reflection">Reflection</a></li>
+  <li><a href="#prioritas-perbaikan" id="toc-prioritas-perbaikan" class="nav-link" data-scroll-target="#prioritas-perbaikan">Prioritas Perbaikan</a></li>
+  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-Assessment</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -337,120 +348,182 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="konteks-performance" class="level2">
-<h2 class="anchored" data-anchor-id="konteks-performance">Konteks performance</h2>
-<p><strong>Tanggal dan setting:</strong> Ganti dengan tanggal, tempat, dan bentuk kegiatan.</p>
-<p><strong>Persons dan relationship:</strong> Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.</p>
-<p><strong>Objective dan initial state:</strong> Nyatakan perubahan yang ingin dicapai serta evidence state awal.</p>
-</section>
 <section id="evidence" class="level2">
 <h2 class="anchored" data-anchor-id="evidence">Evidence</h2>
-<div class="evidence-block">
-<p>Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.</p>
-</div>
+<section id="episode-komunikasi-dengan-diri-sendiri" class="level3">
+<h3 class="anchored" data-anchor-id="episode-komunikasi-dengan-diri-sendiri">Episode Komunikasi dengan Diri Sendiri</h3>
+<p>Kejadian yang saya pilih adalah ketika saya mendapatkan nilai yang kurang baik dan setelah itu harus menghadapi presentasi. Setelah mengetahui nilai tersebut, saya merasa kecewa dan menjadi nervous ketika memikirkan presentasi.</p>
+<p>Awalnya saya membawa perasaan kecewa tersebut ke persiapan presentasi. Saya mulai berpikir bahwa kalau hasil sebelumnya kurang baik, kemungkinan saya juga akan melakukan kesalahan lagi ketika presentasi.</p>
 </section>
-<section id="analisis-komunikasi" class="level2">
-<h2 class="anchored" data-anchor-id="analisis-komunikasi">Analisis komunikasi</h2>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Elemen</th>
-<th>Evidence dan analisis</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Person &amp; character</td>
-<td>Ganti dengan analisis Anda.</td>
-</tr>
-<tr class="even">
-<td>Objective &amp; state</td>
-<td>Ganti dengan analisis Anda.</td>
-</tr>
-<tr class="odd">
-<td>Repertoire &amp; language</td>
-<td>Ganti dengan analisis Anda.</td>
-</tr>
-<tr class="even">
-<td>Response &amp; adaptation</td>
-<td>Ganti dengan analisis Anda.</td>
-</tr>
-<tr class="odd">
-<td>Agreement/action</td>
-<td>Ganti dengan analisis Anda.</td>
-</tr>
-<tr class="even">
-<td>Relationship outcome</td>
-<td>Ganti dengan analisis Anda.</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="penggunaan-ai" class="level2">
-<h2 class="anchored" data-anchor-id="penggunaan-ai">Penggunaan AI</h2>
-<p>Nyatakan <code>Tidak menggunakan AI</code> atau jelaskan:</p>
+<section id="event-dan-fact" class="level3">
+<h3 class="anchored" data-anchor-id="event-dan-fact">Event dan Fact</h3>
+<p><strong>Event:</strong><br>
+Saya mendapatkan nilai yang kurang baik dan setelah itu harus mempersiapkan diri untuk presentasi.</p>
+<p><strong>Fact:</strong></p>
 <ul>
-<li>alat dan peran AI;</li>
-<li>prompt atau instruksi penting;</li>
-<li>bagian output yang digunakan, diubah, atau ditolak;</li>
-<li>pemeriksaan accuracy, privacy, dan authority;</li>
-<li>apa yang tetap Anda pelajari sebagai manusia.</li>
+<li>Saya mendapatkan nilai yang kurang baik.</li>
+<li>Saya tetap memiliki presentasi yang harus dipersiapkan.</li>
+<li>Saya merasa sedih setelah mengetahui hasil tersebut.</li>
+<li>Saya merasa nervous ketika memikirkan presentasi.</li>
 </ul>
+<p>Dari fakta tersebut, saya menyadari bahwa belum ada fakta yang membuktikan bahwa saya pasti akan gagal dalam presentasi.</p>
 </section>
-<section id="feedback-dan-tindak-lanjut" class="level2">
-<h2 class="anchored" data-anchor-id="feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</h2>
-<p><strong>Feedback yang diterima:</strong> Ganti dengan kutipan atau ringkasan berbasis evidence.</p>
-<p><strong>Adaptation/replay:</strong> Jelaskan apa yang Anda ubah dan response setelah perubahan.</p>
-<p><strong>Next practice:</strong> Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.</p>
+<section id="initial-story" class="level3">
+<h3 class="anchored" data-anchor-id="initial-story">Initial Story</h3>
+<p>Cerita yang langsung muncul di pikiran saya adalah bahwa hasil tersebut menunjukkan saya belum cukup mampu. Karena sudah kecewa dengan nilai sebelumnya, saya juga mulai berpikir bahwa saya mungkin akan melakukan kesalahan lagi saat presentasi.</p>
+<p>Pada saat itu saya lebih fokus pada kemungkinan hasil yang buruk daripada hal yang masih bisa saya lakukan.</p>
 </section>
-<section id="self-assessment" class="level2">
-<h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
+<section id="emotion" class="level3">
+<h3 class="anchored" data-anchor-id="emotion">Emotion</h3>
+<p>Emosi yang saya rasakan adalah sedih, kecewa, dan nervous.</p>
+<p>Saya merasa kecewa dengan hasil yang saya dapatkan dan menjadi lebih takut ketika memikirkan presentasi. Rasa nervous tersebut membuat saya lebih banyak memikirkan kemungkinan salah daripada memikirkan persiapan yang bisa saya lakukan.</p>
+</section>
+<section id="internal-character" class="level3">
+<h3 class="anchored" data-anchor-id="internal-character">Internal Character</h3>
+<p>Pada situasi tersebut, saya melihat ada dua cara saya merespons keadaan.</p>
+<p><strong>Reactive character — “Penyalah Diri”:</strong><br>
+Langsung melihat nilai yang kurang baik sebagai bukti bahwa saya kurang mampu dan khawatir kesalahan yang sama akan terjadi lagi.</p>
+<p><strong>Desired character — “Pembelajar”:</strong><br>
+Melihat hasil tersebut sebagai informasi tentang bagian yang masih perlu diperbaiki dan mencari tindakan yang bisa dilakukan sebelum presentasi.</p>
+<p>Saya menyadari bahwa kedua cara tersebut tetap berasal dari diri saya yang sama. Perbedaannya adalah cara saya melihat situasi dan tindakan yang saya pilih setelahnya.</p>
+</section>
+<section id="alternative-narratives" class="level3">
+<h3 class="anchored" data-anchor-id="alternative-narratives">Alternative Narratives</h3>
+<p>Setelah mencoba memisahkan fakta dari cerita awal, saya menemukan beberapa cara pandang lain.</p>
+<p><strong>Alternative narrative 1 — Masih ada bagian yang perlu diperbaiki</strong></p>
+<p>Nilai yang kurang baik bisa berarti ada bagian dari pemahaman atau cara belajar saya yang masih perlu diperbaiki. Hal tersebut tidak otomatis berarti saya tidak mampu.</p>
+<p><strong>Alternative narrative 2 — Presentasi adalah kesempatan untuk mencoba lagi</strong></p>
+<p>Hasil sebelumnya memang tidak bisa diubah, tetapi presentasi berikutnya adalah situasi yang berbeda. Saya masih bisa mempersiapkan materi dan berlatih sebelum presentasi.</p>
+<p><strong>Alternative narrative 3 — Nervous tidak berarti saya tidak siap</strong></p>
+<p>Saya bisa tetap merasa nervous walaupun sudah melakukan persiapan. Jadi, tujuan saya bukan menghilangkan rasa nervous sepenuhnya, tetapi memastikan rasa tersebut tidak membuat saya berhenti mempersiapkan diri.</p>
+<p>Dari beberapa kemungkinan tersebut, saya memilih melihat nilai yang kurang baik sebagai informasi untuk memperbaiki persiapan, bukan sebagai kesimpulan tentang kemampuan diri saya.</p>
+</section>
+<section id="internal-conversation" class="level3">
+<h3 class="anchored" data-anchor-id="internal-conversation">Internal Conversation</h3>
+<p>Setelah menyadari cerita awal saya, saya mencoba berbicara dengan diri sendiri:</p>
+<blockquote class="blockquote">
+<p><strong>Penyalah Diri:</strong> “Nilainya aja kurang baik. Nanti presentasi juga pasti banyak salah.”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p><strong>Pembelajar:</strong> “Nilainya memang kurang baik, tapi itu belum berarti presentasi berikutnya akan sama. Apa yang masih bisa saya persiapkan?”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p><strong>Penyalah Diri:</strong> “Tapi saya masih nervous.”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p><strong>Pembelajar:</strong> “Nervous tetap ada, tapi saya masih bisa membaca materi dan latihan supaya lebih siap.”</p>
+</blockquote>
+<p>Dari percakapan tersebut saya mulai mengubah fokus dari memprediksi hasil menjadi menentukan tindakan yang masih bisa saya lakukan.</p>
+</section>
+<section id="choice" class="level3">
+<h3 class="anchored" data-anchor-id="choice">Choice</h3>
+<p>Saya memilih untuk tidak terus menyalahkan diri sendiri karena hasil tersebut.</p>
+<p>Saya tetap mengakui bahwa saya kecewa dan nervous, tetapi saya tidak ingin menggunakan perasaan tersebut sebagai alasan untuk menghindari persiapan presentasi.</p>
+<p>Choice saya adalah menerima bahwa hasil sebelumnya sudah terjadi dan kemudian fokus pada persiapan yang masih bisa saya lakukan.</p>
+</section>
+<section id="internal-agreement" class="level3">
+<h3 class="anchored" data-anchor-id="internal-agreement">Internal Agreement</h3>
+<p>Saya membuat kesepakatan dengan diri sendiri:</p>
+<blockquote class="blockquote">
+<p><strong>Saya tidak harus langsung merasa percaya diri. Yang penting saya tetap mempersiapkan diri walaupun masih merasa nervous.</strong></p>
+</blockquote>
+<p>Saya juga menetapkan bahwa sebelum presentasi saya akan membaca kembali materi dan berlatih menjelaskan bagian yang akan saya sampaikan.</p>
+<p>Dengan begitu, saya tidak menuntut diri sendiri untuk langsung menghilangkan rasa nervous, tetapi mengubahnya menjadi alasan untuk melakukan persiapan.</p>
+</section>
+<section id="action" class="level3">
+<h3 class="anchored" data-anchor-id="action">Action</h3>
+<p>Setelah membuat kesepakatan tersebut, saya melakukan beberapa tindakan:</p>
+<ul>
+<li>Membaca kembali materi yang akan dipresentasikan.</li>
+<li>Mengecek bagian yang masih belum saya pahami.</li>
+<li>Berlatih menjelaskan materi sebelum presentasi.</li>
+<li>Mencoba lebih fokus pada isi yang harus saya sampaikan daripada terus memikirkan nilai sebelumnya.</li>
+</ul>
+<p>Tindakan tersebut menjadi bukti bahwa saya tidak hanya mengubah cara berpikir, tetapi juga melakukan sesuatu setelahnya.</p>
+</section>
+<section id="perubahan-dari-reaction-ke-response" class="level3">
+<h3 class="anchored" data-anchor-id="perubahan-dari-reaction-ke-response">Perubahan dari Reaction ke Response</h3>
+<p><strong>Reaction:</strong></p>
+<p>Mendapatkan nilai kurang baik<br>
+→ Merasa kecewa<br>
+→ Menyalahkan diri sendiri<br>
+→ Berpikir akan melakukan kesalahan lagi<br>
+→ Semakin nervous</p>
+<p><strong>Response:</strong></p>
+<p>Mendapatkan nilai kurang baik<br>
+→ Menyadari rasa kecewa<br>
+→ Memisahkan fact dan story<br>
+→ Mencari alternative narratives<br>
+→ Memilih fokus pada hal yang masih bisa dilakukan<br>
+→ Membuat internal agreement<br>
+→ Membaca materi dan berlatih presentasi</p>
+<p>Menurut saya, perubahan utamanya bukan pada hilangnya emosi. Saya tetap merasa kecewa dan nervous. Perubahannya ada pada apa yang saya lakukan setelah emosi tersebut muncul.</p>
+</section>
+<section id="reflection" class="level3">
+<h3 class="anchored" data-anchor-id="reflection">Reflection</h3>
+<p>Dari kejadian ini saya menyadari bahwa reaksi pertama saya setelah mendapatkan nilai yang kurang baik adalah langsung menyalahkan diri sendiri. Saya kemudian membawa perasaan tersebut ketika memikirkan presentasi sehingga menjadi semakin nervous.</p>
+<p>Setelah memisahkan antara fact dan story, saya menyadari bahwa nilai yang kurang baik adalah fakta, sedangkan pikiran bahwa saya tidak mampu merupakan cerita yang muncul dari diri saya sendiri.</p>
+<p>Saya juga belajar bahwa satu kejadian tidak hanya memiliki satu cara untuk dilihat. Ketika saya mencoba membuat alternative narratives, saya menjadi lebih bisa melihat apa yang masih dapat saya lakukan daripada hanya fokus pada hasil yang sudah terjadi.</p>
+<p>Hal yang paling saya rasakan dari materi ini adalah saya tidak selalu bisa mengontrol emosi yang muncul, tetapi saya masih bisa memilih tindakan setelah emosi tersebut muncul.</p>
+<p>Menurut saya, inilah perbedaan antara reaction dan response. Reaction terjadi lebih spontan berdasarkan emosi dan cerita yang langsung muncul, sedangkan response memberi saya kesempatan untuk berhenti, melihat situasi dengan lebih jelas, lalu menentukan tindakan.</p>
+</section>
+<section id="prioritas-perbaikan" class="level3">
+<h3 class="anchored" data-anchor-id="prioritas-perbaikan">Prioritas Perbaikan</h3>
+<p>Prioritas perbaikan saya adalah <strong>memisahkan fakta dari cerita yang langsung muncul di pikiran saya</strong>.</p>
+<p>Ketika mengalami kejadian yang membuat saya kecewa, saya ingin membiasakan diri untuk berhenti sebentar dan menanyakan:</p>
+<ol type="1">
+<li>Apa yang benar-benar terjadi?</li>
+<li>Cerita apa yang langsung muncul di pikiran saya?</li>
+<li>Emosi apa yang sedang saya rasakan?</li>
+<li>Ada cara lain untuk melihat situasi ini?</li>
+<li>Tindakan apa yang masih bisa saya lakukan?</li>
+</ol>
+<p>Dengan cara tersebut, saya ingin lebih sering memberikan jeda antara reaction dan response sehingga saya tidak langsung membuat kesimpulan tentang diri sendiri berdasarkan satu kejadian.</p>
+</section>
+<section id="self-assessment" class="level3">
+<h3 class="anchored" data-anchor-id="self-assessment">Self-Assessment</h3>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Dimensi</th>
-<th style="text-align: right;">Skor 1–4</th>
-<th>Evidence singkat</th>
+<th style="text-align: right;">Skor</th>
+<th>Alasan</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Person &amp; Character</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td>Event, Fact &amp; Story</td>
+<td style="text-align: right;">4</td>
+<td>Saya dapat memisahkan kejadian dan fakta dari cerita yang langsung muncul setelah mendapatkan nilai yang kurang baik.</td>
 </tr>
 <tr class="even">
-<td>Objective &amp; State</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td>Emotion &amp; Internal Character</td>
+<td style="text-align: right;">4</td>
+<td>Saya dapat mengidentifikasi emosi yang muncul dan membedakan karakter internal yang langsung menyalahkan diri sendiri dengan karakter yang mencoba mencari solusi.</td>
 </tr>
 <tr class="odd">
-<td>Repertoire, Language &amp; AI</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td>Alternative Narratives</td>
+<td style="text-align: right;">4</td>
+<td>Saya dapat membuat beberapa cara pandang lain yang tetap sesuai dengan fakta dan membantu menentukan tindakan.</td>
 </tr>
 <tr class="even">
-<td>Response &amp; Adaptation</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
-</tr>
-<tr class="odd">
-<td>Agreement, Action &amp; Relationship</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td>Choice, Agreement &amp; Action</td>
+<td style="text-align: right;">4</td>
+<td>Saya membuat kesepakatan dengan diri sendiri dan menunjukkan tindakan berikutnya melalui persiapan serta latihan presentasi.</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Total:</strong> — / 20</p>
-<section id="assessment-dosen" class="level3 assessor-only">
-<h3 class="anchored" data-anchor-id="assessment-dosen">Assessment dosen</h3>
-<p><strong>Skor:</strong> — / 20<br>
-<strong>Evidence yang mendukung:</strong> —<br>
-<strong>Prioritas perbaikan:</strong> —<br>
-<strong>Keputusan:</strong> Belum dinilai / Perlu revisi / Tercapai</p>
+<p><strong>Self-score: 4</strong></p>
+<p>Saya memberikan skor 4 karena saya sudah dapat menunjukkan proses dari reaction menuju response dalam satu episode yang konkret. Saya tidak hanya menjelaskan emosi yang muncul, tetapi juga memisahkan fact dan story, membuat alternative narratives, mengenali internal character, menentukan choice, membuat internal agreement, dan melakukan tindakan setelahnya.</p>
+<p>Namun, saya masih perlu melatih proses ini agar tidak hanya dilakukan setelah kejadian, tetapi juga bisa menjadi kebiasaan ketika menghadapi situasi lain yang membuat saya kecewa atau nervous.</p>
+
+
 </section>
-
-
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Kembali ke atas</a></main> <!-- /main -->
@@ -870,7 +943,7 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Portfolio KIPP-2 · Nama Mahasiswa</p>
+<p>Portfolio KIPP-2 · Aqila Zahra Athaya</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

@@ -40,7 +40,7 @@ Asumsi awal saya:
 
 > "Kemungkinan masalahnya adalah pembagian tugas dalam kelompok kurang jelas sehingga pekerjaan menjadi terlambat."
 
-Saya menyadari bahwa ini baru asumsi dari sudut pandang saya. Karena itu, saya tidak langsung menawarkan solusi sebelum mengetahui kondisi sebenarnya.
+Saya menyadari bahwa ini baru asumsi dari sudut pandang saya. Karena itu, saya tidak langsung memberikan solusi sebelum mengetahui kondisi yang sebenarnya dialami oleh teman saya.
 
 ---
 
@@ -55,90 +55,102 @@ Saya menggunakan beberapa pertanyaan untuk memahami situasinya:
 5. "Menurut kamu, hal apa yang paling menghambat tugasnya?"
 6. "Kalau masalah itu tidak diselesaikan, dampaknya ke kelompok apa?"
 
-Saya mencoba menggunakan pertanyaan terbuka supaya teman saya bisa menjelaskan masalah dari sudut pandangnya sendiri.
+Saya mencoba menggunakan pertanyaan yang memungkinkan teman saya menjelaskan masalah dari sudut pandangnya sendiri, bukan langsung mengarahkan kepada solusi tertentu.
 
 ---
 
 ## Transcript / Paraphrase
 
-**Saya:**  
-"Kalau dari tugas yang sekarang, bagian mana yang paling bikin kamu kesulitan?"
-
-**Teman:**  
-"Sebenernya pembagian tugasnya udah ada. Cuma aku sering bingung karena bagian yang aku dapat ternyata bergantung sama bagian teman yang lain."
-
-**Saya:**  
-"Berarti bukan pembagian tugasnya yang belum jelas, tapi ada bagian yang saling bergantung?"
-
-**Teman:**  
-"Iya. Misalnya aku mau lanjut, tapi harus nunggu bagian mereka selesai dulu."
-
-**Saya:**  
-"Kalau harus menunggu, biasanya dampaknya apa?"
-
-**Teman:**  
-"Jadinya aku juga ikut telat. Terus kalau sudah dekat deadline baru semuanya dikerjakan buru-buru."
-
-**Saya:**  
-"Kalau menurut kamu, yang paling mengganggu berarti bukan jumlah tugasnya, tapi ketergantungan antarbagian yang bikin kamu nggak bisa lanjut?"
-
-**Teman:**  
-"Iya, itu lebih tepat."
+> **Saya:** "Kalau dari tugas yang sekarang, bagian mana yang paling bikin kamu kesulitan?"
+>
+> **Teman:** "Sebenernya pembagian tugasnya udah ada. Cuma aku sering bingung karena bagian yang aku dapat ternyata bergantung sama bagian teman yang lain."
+>
+> **Saya:** "Berarti bukan pembagian tugasnya yang belum jelas, tapi ada bagian yang saling bergantung?"
+>
+> **Teman:** "Iya. Misalnya aku mau lanjut, tapi harus nunggu bagian mereka selesai dulu."
+>
+> **Saya:** "Kalau harus menunggu, biasanya dampaknya apa?"
+>
+> **Teman:** "Jadinya aku juga ikut telat. Terus kalau sudah dekat deadline baru semuanya dikerjakan buru-buru."
+>
+> **Saya:** "Kalau menurut kamu, yang paling mengganggu berarti bukan jumlah tugasnya, tapi ketergantungan antarbagian yang bikin kamu nggak bisa lanjut?"
+>
+> **Teman:** "Iya, itu lebih tepat."
 
 Dari percakapan tersebut, saya menyadari bahwa asumsi awal saya ternyata tidak sepenuhnya tepat.
 
-Masalahnya bukan karena pembagian tugas tidak jelas, tetapi karena beberapa bagian pekerjaan saling bergantung dan belum memiliki urutan atau waktu penyelesaian yang jelas.
+Masalahnya bukan karena pembagian tugas tidak jelas, tetapi karena beberapa bagian pekerjaan saling bergantung dan membuat anggota harus menunggu pekerjaan anggota lain sebelum dapat melanjutkan.
+
+---
+
+## Pembaruan Pemahaman
+
+**Initial assumption:**
+
+> Pembagian tugas kurang jelas sehingga pekerjaan menjadi terlambat.
+
+**Setelah discovery:**
+
+> Beberapa bagian tugas saling bergantung sehingga anggota tertentu harus menunggu bagian lain selesai sebelum dapat melanjutkan pekerjaannya.
+
+Perubahan ini menunjukkan bahwa saya perlu memisahkan antara asumsi saya dengan fakta yang diperoleh dari person.
+
+Saya awalnya melihat masalah dari hasil akhirnya, yaitu tugas yang terlambat. Setelah bertanya lebih lanjut, saya mendapatkan informasi mengenai proses yang menyebabkan keterlambatan tersebut.
 
 ---
 
 ## Problem Impact
 
-Masalah tersebut memiliki beberapa dampak.
+Dari percakapan tersebut, saya menemukan beberapa dampak.
 
 Pertama, teman saya tidak dapat melanjutkan pekerjaannya meskipun bagian yang menjadi tanggung jawabnya sendiri sudah siap dikerjakan.
 
-Kedua, pekerjaan menjadi menumpuk mendekati deadline.
+Kedua, pekerjaan menjadi menumpuk ketika sudah mendekati deadline.
 
-Ketiga, anggota kelompok menjadi lebih mudah merasa terburu-buru karena beberapa pekerjaan baru bisa dilakukan setelah pekerjaan lain selesai.
+Ketiga, anggota kelompok menjadi lebih mudah merasa terburu-buru karena beberapa pekerjaan baru dapat dilakukan setelah pekerjaan lain selesai.
 
-Jadi, masalah tersebut tidak hanya berdampak pada satu orang, tetapi juga dapat memengaruhi proses kerja kelompok secara keseluruhan.
+Jadi, masalah tersebut tidak hanya berdampak pada satu bagian pekerjaan, tetapi juga dapat memengaruhi alur kerja kelompok secara keseluruhan.
 
 ---
 
 ## Constraint
 
-Dari percakapan tersebut, saya menemukan beberapa constraint.
+Beberapa constraint yang saya temukan adalah:
 
 - Setiap bagian tugas saling berhubungan.
-- Beberapa pekerjaan tidak bisa dimulai sebelum bagian lain selesai.
+- Beberapa pekerjaan tidak dapat dimulai sebelum bagian lain selesai.
 - Deadline tugas tetap berjalan.
 - Anggota kelompok memiliki jadwal dan kesibukan yang berbeda.
 
-Karena itu, solusi tidak bisa hanya berupa "kerjakan lebih cepat", karena ada bagian tertentu yang memang bergantung pada pekerjaan anggota lain.
-
----
-
-## Perubahan Pemahaman
-
-Sebelum melakukan discovery, saya mengira masalahnya adalah **pembagian tugas yang tidak jelas**.
-
-Setelah mendengarkan dan bertanya lebih lanjut, saya memahami bahwa masalah sebenarnya lebih spesifik, yaitu **ketergantungan antarbagian tugas membuat beberapa anggota harus menunggu sebelum dapat melanjutkan pekerjaannya.**
-
-Hal ini membuat saya sadar bahwa asumsi awal bisa berbeda dengan masalah yang sebenarnya dialami oleh person.
+Karena itu, masalahnya tidak cukup diselesaikan hanya dengan meminta anggota untuk bekerja lebih cepat. Ada bagian pekerjaan yang memang memiliki ketergantungan dengan pekerjaan anggota lain.
 
 ---
 
 ## Shared Problem Statement
 
-Berdasarkan hasil percakapan, saya menyampaikan kembali pemahaman saya kepada teman:
+Setelah memahami masalahnya, saya menyampaikan kembali pemahaman saya kepada teman:
 
 > "Berarti masalah yang kita hadapi sebenarnya bukan pembagian tugas yang nggak jelas, tetapi beberapa bagian tugas saling bergantung sehingga kalau satu bagian terlambat, bagian lain ikut tertahan dan akhirnya pekerjaan menumpuk mendekati deadline. Benar begitu?"
 
-Teman saya menyetujui dan mengatakan bahwa pernyataan tersebut sesuai dengan masalah yang dia rasakan.
+Teman saya menyetujui bahwa pernyataan tersebut sesuai dengan masalah yang dia rasakan.
 
-Jadi, shared problem statement yang kami sepakati adalah:
+Berdasarkan konfirmasi tersebut, shared problem statement yang kami sepakati adalah:
 
 > **"Beberapa bagian tugas kelompok saling bergantung, sehingga keterlambatan satu bagian membuat anggota lain tidak dapat melanjutkan pekerjaannya dan menyebabkan pekerjaan menumpuk mendekati deadline."**
+
+Saya sengaja tidak langsung memasukkan solusi seperti membuat aplikasi, mengubah sistem pembagian tugas, atau menggunakan tools tertentu karena pada tahap ini saya masih berusaha memahami problem sebelum proposing.
+
+---
+
+## Evidence Response dan Adaptation
+
+Response dari teman membuat saya mengubah pemahaman awal.
+
+Awalnya saya mengira masalahnya adalah **pembagian tugas yang kurang jelas**. Setelah teman menjelaskan bahwa pembagian tugas sebenarnya sudah ada, saya mengubah pertanyaan dan fokus discovery menjadi **ketergantungan antarbagian pekerjaan**.
+
+Saya kemudian menggunakan paraphrase untuk memastikan apakah pemahaman tersebut benar.
+
+Dengan demikian, respons dari person tidak hanya menjadi jawaban atas pertanyaan saya, tetapi juga mengubah cara saya membaca masalah.
 
 ---
 
@@ -146,11 +158,13 @@ Jadi, shared problem statement yang kami sepakati adalah:
 
 Dari discovery ini saya belajar bahwa saya tidak seharusnya langsung percaya pada asumsi awal saya.
 
-Awalnya saya mengira masalahnya adalah pembagian tugas. Kalau saya langsung memberikan solusi seperti "pembagian tugasnya harus dibuat lebih jelas", kemungkinan solusi tersebut tidak benar-benar menyelesaikan masalah.
+Awalnya saya mengira masalahnya adalah pembagian tugas. Kalau saya langsung memberikan solusi seperti "pembagian tugasnya harus dibuat lebih jelas", kemungkinan solusi tersebut belum tentu menyelesaikan masalah yang sebenarnya.
 
 Dengan bertanya dan mendengarkan terlebih dahulu, saya mendapatkan masalah yang lebih spesifik.
 
-Saya juga belajar bahwa discovery bukan hanya mengumpulkan jawaban dari orang lain. Saya perlu memastikan kembali apakah pemahaman saya tentang masalah tersebut memang sesuai dengan yang dialami oleh orang tersebut.
+Saya juga belajar bahwa discovery bukan hanya mengumpulkan jawaban dari orang lain. Saya perlu memastikan kembali apakah pemahaman saya tentang masalah tersebut memang sesuai dengan pengalaman person.
+
+Hal lain yang saya pelajari adalah bahwa **problem statement sebaiknya dibuat bersama**, bukan hanya berdasarkan interpretasi saya sendiri. Karena itu, saya melakukan konfirmasi sebelum menetapkan shared problem statement.
 
 ---
 
@@ -160,14 +174,29 @@ Prioritas perbaikan saya adalah **menahan diri untuk tidak langsung proposing se
 
 Dalam percakapan berikutnya, saya akan mencoba:
 
-1. Menuliskan asumsi awal.
-2. Mengajukan beberapa pertanyaan discovery.
+1. Menuliskan asumsi awal sebelum melakukan discovery.
+2. Mengajukan pertanyaan terbuka.
 3. Menggali impact dan constraint.
-4. Mengulang kembali pemahaman saya.
-5. Memastikan person menyetujui problem statement sebelum membahas solusi.
+4. Melakukan paraphrase untuk memastikan pemahaman.
+5. Meminta konfirmasi person terhadap problem statement.
+6. Baru membahas kemungkinan solusi setelah masalahnya sudah disepakati.
+
+Saya juga ingin lebih memperhatikan apakah pertanyaan saya terlalu mengarahkan jawaban. Dengan begitu, informasi yang saya dapatkan lebih banyak berasal dari pengalaman person daripada asumsi saya sendiri.
 
 ---
 
 ## Self-Assessment
 
-Saya menilai evidence ini pada **Level 4** karena saya memulai dengan initial assumption, melakukan discovery melalui pertanyaan terbuka, menggali problem impact dan constraint, menemukan bahwa asumsi awal saya perlu diperbaiki, kemudian menyusun shared problem statement dan mengonfirmasikannya kepada partner.
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Saya menggali pengalaman teman dan memahami masalah dari perspektif person. |
+| Objective & State | 4 | Saya memiliki asumsi awal dan memperbarui pemahaman setelah mendapatkan informasi baru. |
+| Repertoire, Language & AI | 4 | Saya menggunakan pertanyaan terbuka, paraphrase, dan klarifikasi sebelum proposing. |
+| Response & Adaptation | 4 | Jawaban teman membuat saya mengubah fokus dari pembagian tugas menjadi ketergantungan antarbagian. |
+| Agreement, Action & Relationship | 4 | Shared problem statement dikonfirmasi oleh teman sebelum saya menetapkan hasil discovery. |
+
+**Self-score: 4**
+
+Saya memberikan skor 4 karena saya sudah menunjukkan proses discovery dari initial assumption, pertanyaan, listening, paraphrase, identifikasi impact dan constraint, sampai shared problem statement yang dikonfirmasi oleh partner.
+
+Saya juga tidak langsung memberikan solusi sebelum memahami masalah. Namun, saya masih perlu berlatih melakukan discovery dengan lebih banyak person agar tidak hanya bergantung pada satu perspektif.

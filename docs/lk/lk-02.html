@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="id" xml:lang="id"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.31">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -40,10 +43,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7c69b197886ae2a34062761d21e44731.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-42db6082498c64b8158b8611e7fb4138.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-795ae1ca5c1dbc58ec319c3e1f3f461f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -74,7 +77,7 @@ ul.task-list li input[type="checkbox"] {
 <style>html{ scroll-behavior: smooth; }</style>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 const typesetMath = (el) => {
@@ -200,7 +203,13 @@ window.Quarto = {
   <li><a href="#pilihan-respons-terbaik" id="toc-pilihan-respons-terbaik" class="nav-link" data-scroll-target="#pilihan-respons-terbaik"><strong>1. Pilihan Respons Terbaik</strong></a></li>
   <li><a href="#dukungan-yang-diperlukan" id="toc-dukungan-yang-diperlukan" class="nav-link" data-scroll-target="#dukungan-yang-diperlukan"><strong>2. Dukungan yang Diperlukan</strong></a></li>
   </ul></li>
-  <li><a href="#panduan-evaluasi-mandiri-rubrik-portofolio" id="toc-panduan-evaluasi-mandiri-rubrik-portofolio" class="nav-link" data-scroll-target="#panduan-evaluasi-mandiri-rubrik-portofolio"><strong>Panduan Evaluasi Mandiri (Rubrik Portofolio)</strong></a></li>
+  <li><a href="#panduan-evaluasi-mandiri" id="toc-panduan-evaluasi-mandiri" class="nav-link" data-scroll-target="#panduan-evaluasi-mandiri"><strong>Panduan Evaluasi Mandiri</strong></a>
+  <ul class="collapse">
+  <li><a href="#pemisahan-fakta-vs-cerita" id="toc-pemisahan-fakta-vs-cerita" class="nav-link" data-scroll-target="#pemisahan-fakta-vs-cerita"><strong>1. Pemisahan Fakta vs Cerita</strong></a></li>
+  <li><a href="#kekayaan-alternatif" id="toc-kekayaan-alternatif" class="nav-link" data-scroll-target="#kekayaan-alternatif"><strong>2. Kekayaan Alternatif</strong></a></li>
+  <li><a href="#kematangan-emosional" id="toc-kematangan-emosional" class="nav-link" data-scroll-target="#kematangan-emosional"><strong>3. Kematangan Emosional</strong></a></li>
+  <li><a href="#kepemilikan-tindakan" id="toc-kepemilikan-tindakan" class="nav-link" data-scroll-target="#kepemilikan-tindakan"><strong>4. Kepemilikan Tindakan</strong></a></li>
+  </ul></li>
   </ul></li>
   </ul>
 </nav>
@@ -230,53 +239,70 @@ window.Quarto = {
 <section id="lembar-kerja-praktis-tiga-narasi-atas-satu-peristiwa" class="level1">
 <h1>Lembar Kerja Praktis: Tiga Narasi atas Satu Peristiwa</h1>
 <p><em>(Bahan Aktivitas Mandiri &amp; Portofolio Kuliah 2: Percakapan dengan Diri Sendiri)</em></p>
-<p>Lembar kerja ini dirancang untuk melatih kemampuan <strong>kejernihan batin (intrapersonal communication)</strong> Anda. Tujuannya adalah membantu Anda memisahkan fakta objektif dari cerita batin, mengenali emosi, dan merumuskan respons yang disengaja (<em>chosen response</em>) alih-alih bereaksi secara otomatis (<em>autopilot</em>) atas peristiwa sulit dalam kehidupan sehari-hari [10, 13].</p>
+<p>Lembar kerja ini dirancang untuk melatih kemampuan <strong>kejernihan batin (intrapersonal communication)</strong> Anda. Tujuannya adalah membantu Anda memisahkan fakta objektif dari cerita batin, mengenali emosi, dan merumuskan respons yang disengaja (<em>chosen response</em>) alih-alih bereaksi secara otomatis (<em>autopilot</em>) atas peristiwa sulit dalam kehidupan sehari-hari.</p>
 <hr>
 <section id="siklus-pemikiran-dari-rangsangan-menuju-respons" class="level2">
 <h2 class="anchored" data-anchor-id="siklus-pemikiran-dari-rangsangan-menuju-respons"><strong>Siklus Pemikiran: Dari Rangsangan Menuju Respons</strong></h2>
-<p>Sebelum mengisi lembar kerja, ingatlah alur pembentukan makna batin berikut [13]: <span class="math display">\[\text{Peristiwa (Fakta)} \longrightarrow \text{Interpretasi (Asumsi)} \longrightarrow \text{Narasi (Identitas)} \longrightarrow \text{Emosi} \longrightarrow \text{Pilihan} \longrightarrow \text{Tindakan}\]</span></p>
+<p>Sebelum mengisi lembar kerja, ingatlah alur pembentukan makna batin berikut:</p>
+<p><span class="math display">\[\text{Peristiwa (Fakta)} \longrightarrow \text{Interpretasi (Asumsi)} \longrightarrow \text{Narasi (Identitas)} \longrightarrow \text{Emosi} \longrightarrow \text{Pilihan} \longrightarrow \text{Tindakan}\]</span></p>
 <hr>
 </section>
 <section id="bagian-1-identifikasi-kasus-bahan-mentah" class="level2">
 <h2 class="anchored" data-anchor-id="bagian-1-identifikasi-kasus-bahan-mentah"><strong>Bagian 1: Identifikasi Kasus (Bahan Mentah)</strong></h2>
-<p>Pilihlah satu peristiwa sulit, menantang, atau kurang menyenangkan yang baru-baru ini Anda alami (misalnya: pesan tidak dibalas, kritik dari dosen, tugas kelompok terhambat, atau rencana yang batal) [11, 13]. <em>Catatan Etis: Pilih kasus yang cukup aman untuk dipelajari secara akademis. Jangan memilih situasi kekerasan atau trauma berat yang membutuhkan bantuan profesional [13].</em></p>
 <section id="peristiwa-yang-dapat-diamati-fakta-objektif" class="level3">
 <h3 class="anchored" data-anchor-id="peristiwa-yang-dapat-diamati-fakta-objektif"><strong>1. Peristiwa yang Dapat Diamati (Fakta Objektif)</strong></h3>
-<p><em>Tuliskan apa yang benar-benar terjadi tanpa penilaian karakter, generalisasi (hindari kata “selalu” atau “pasti”), atau dugaan niat. Bayangkan apa yang terekam oleh kamera video [13, 145].</em> &gt; <strong>Contoh Kurang Tepat:</strong> <em>“Rekan kelompok saya malas dan sengaja mengabaikan tugas kelompok.”</em><br>
-&gt; <strong>Contoh Tepat:</strong> <em>“Dua tugas yang disepakati di WhatsApp grup belum dikirimkan oleh Rekan X hingga batas waktu tanggal 30 Agustus pukul 23.59.”</em> * <strong>Tuliskan Fakta Anda di sini:</strong> __________________________________________________________________________________________</p>
+<p><strong>Tuliskan Fakta Anda di sini:</strong></p>
+<p>Saya mendapatkan nilai yang lebih rendah dari yang saya harapkan pada salah satu penilaian.</p>
 </section>
 <section id="interpretasi-pertama-asumsi-otomatis" class="level3">
 <h3 class="anchored" data-anchor-id="interpretasi-pertama-asumsi-otomatis"><strong>2. Interpretasi Pertama (Asumsi Otomatis)</strong></h3>
-<p><em>Tuliskan pemikiran atau kesimpulan pertama yang langsung melompat di kepala Anda ketika peristiwa itu terjadi [13, 145].</em> * <strong>Tuliskan Interpretasi Pertama Anda di sini:</strong> __________________________________________________________________________________________</p>
+<p><strong>Tuliskan Interpretasi Pertama Anda di sini:</strong></p>
+<p>Pikiran pertama saya adalah <strong>“berarti saya memang kurang mampu dan tidak cukup bagus dalam memahami materi.”</strong> Saya juga berpikir bahwa karena hasil saya kurang baik, kemungkinan saya akan melakukan kesalahan lagi saat presentasi.</p>
 </section>
 <section id="emosi-sensasi-tubuh" class="level3">
 <h3 class="anchored" data-anchor-id="emosi-sensasi-tubuh"><strong>3. Emosi &amp; Sensasi Tubuh</strong></h3>
-<p><em>Identifikasi emosi konkret yang Anda rasakan (marah, cemas, malu, kecewa, sedih) dan tandai intensitasnya dari skala 0–10. Catat juga reaksi fisik yang Anda rasakan (napas pendek, rahang menegang, dada sesak) [13, 147].</em> * <strong>Emosi yang Dirasakan (dan skala 0-10):</strong> _______________________________________________ * <strong>Sensasi Tubuh yang Muncul:</strong> ___________________________________________________________</p>
+<p><strong>Emosi yang Dirasakan (dan skala 0-10):</strong></p>
+<p>Saya merasa <strong>sedih 8/10, kecewa 8/10, dan nervous/cemas 7/10</strong>.</p>
+<p><strong>Sensasi Tubuh yang Muncul:</strong></p>
+<p>Saya merasa tubuh lebih tegang dan sulit merasa tenang ketika memikirkan presentasi. Saya juga merasa lebih gugup ketika membayangkan harus menjelaskan materi di depan orang lain.</p>
 <hr>
 </section>
 </section>
 <section id="bagian-2-membedah-tiga-narasi" class="level2">
 <h2 class="anchored" data-anchor-id="bagian-2-membedah-tiga-narasi"><strong>Bagian 2: Membedah Tiga Narasi</strong></h2>
-<p>Kini, mari kita bawa peristiwa di atas ke dalam tiga kacamata cerita batin yang berbeda untuk melihat bagaimana narasi tersebut mengarahkan pilihan hidup Anda [13, 157].</p>
-<pre><code>+---------------------------------------------------------------------------------+
-|                                 TIGA KACAMATA                                   |
-|                                                                                 |
-|  1. NARASI KORBAN          2. NARASI ANALITIS          3. NARASI PERTUMBUHAN    |
-|  "Semua kendali di luar    "Membedah fakta,            "Mengakui kesulitan,     |
-|  diri saya, saya lumpuh    asumsi, dan hal yang        menemukan pelajaran,     |
-|  tanpa pilihan tindakan."  bisa saya kendalikan."      dan bertindak."          |
-+---------------------------------------------------------------------------------+</code></pre>
 <section id="versi-a-narasi-korban-victim-narrative" class="level3">
 <h3 class="anchored" data-anchor-id="versi-a-narasi-korban-victim-narrative"><strong>Versi A: Narasi Korban (Victim Narrative)</strong></h3>
-<p><em>Tempatkan diri Anda sepenuhnya sebagai korban keadaan. Tuliskan narasi di mana semua kendali berada di luar diri Anda, orang lain sepenuhnya bersalah, dan Anda tidak memiliki pilihan selain pasrah, menyalahkan diri sendiri, atau membalas secara pasif [13, 157].</em> * <strong>Isi Narasi Korban Anda:</strong> __________________________________________________________________________________________ __________________________________________________________________________________________ * <strong>Pilihan Tindakan Otomatis (Reaktif) dari Narasi ini:</strong> <em>(Contoh: mendiamkan balik, keluar grup proyek tanpa kabar, atau mengeluh di media sosial)</em> __________________________________________________________________________________________</p>
+<p><strong>Isi Narasi Korban Anda:</strong></p>
+<p>Nilai yang saya dapatkan sudah kurang baik, jadi saya merasa saya memang tidak mampu memahami materi. Saya merasa hasil tersebut sudah menunjukkan bahwa saya kurang bagus dan saya takut presentasi berikutnya juga akan gagal. Karena sudah terlanjur mendapatkan hasil yang kurang baik, saya merasa tidak banyak yang bisa saya lakukan selain kecewa dan takut membuat kesalahan lagi.</p>
+<p><strong>Pilihan Tindakan Otomatis (Reaktif) dari Narasi ini:</strong></p>
+<p>Saya cenderung <strong>menyalahkan diri sendiri, menjadi kurang percaya diri, dan menghindari untuk terlalu aktif berbicara karena takut melakukan kesalahan</strong>.</p>
+<hr>
 </section>
 <section id="versi-b-narasi-analitis-analytical-narrative" class="level3">
 <h3 class="anchored" data-anchor-id="versi-b-narasi-analitis-analytical-narrative"><strong>Versi B: Narasi Analitis (Analytical Narrative)</strong></h3>
-<p><em>Gunakan kacamata yang objektif dan rasional. Pisahkan dengan tegas antara fakta yang diketahui, hal-hal yang masih berupa dugaan (belum diketahui), serta faktor-faktor yang berada di bawah kendali Anda langsung [13, 157, 158].</em> * <strong>Apa fakta yang benar-benar telah terbukti?</strong> __________________________________________________________________________________________ * <strong>Apa penjelasan lain (alternatif asumsi) yang masuk akal namun belum saya periksa?</strong> __________________________________________________________________________________________ * <strong>Faktor apa dalam situasi ini yang berada di bawah kendali saya langsung?</strong> __________________________________________________________________________________________</p>
+<p><strong>Apa fakta yang benar-benar telah terbukti?</strong></p>
+<p>Fakta yang terbukti adalah saya mendapatkan nilai yang lebih rendah dari harapan saya. Saya merasa sedih dan nervous setelah mengetahui hasil tersebut.</p>
+<p>Namun, nilai tersebut <strong>belum membuktikan bahwa saya tidak mampu memahami materi secara keseluruhan</strong> dan belum membuktikan bahwa presentasi berikutnya akan gagal.</p>
+<p><strong>Apa penjelasan lain (alternatif asumsi) yang masuk akal namun belum saya periksa?</strong></p>
+<p>Ada beberapa kemungkinan lain yang belum saya periksa:</p>
+<ol type="1">
+<li>Cara belajar atau persiapan saya mungkin belum sesuai dengan bentuk penilaiannya.</li>
+<li>Ada bagian tertentu dari materi yang belum saya pahami dengan baik sehingga perlu dipelajari kembali.</li>
+<li>Satu hasil penilaian belum tentu menggambarkan kemampuan saya secara keseluruhan.</li>
+</ol>
+<p><strong>Faktor apa dalam situasi ini yang berada di bawah kendali saya langsung?</strong></p>
+<p>Saya tidak dapat mengubah nilai yang sudah diberikan. Namun, saya masih dapat mengendalikan cara saya belajar, materi yang saya pelajari kembali, persiapan sebelum presentasi, latihan menjelaskan materi, dan cara saya merespons rasa nervous.</p>
+<hr>
 </section>
 <section id="versi-c-narasi-pertumbuhan-growth-narrative" class="level3">
 <h3 class="anchored" data-anchor-id="versi-c-narasi-pertumbuhan-growth-narrative"><strong>Versi C: Narasi Pertumbuhan (Growth Narrative)</strong></h3>
-<p><em>Gunakan kacamata belas kasih (</em>compassion<em>) dan pola pikir bertumbuh (</em>growth mindset<em>). Akui bahwa situasinya sulit dan emosi Anda valid, namun arahkan batin Anda untuk menemukan hikmah/pelajaran serta memilih tindakan yang selaras dengan nilai jangka panjang Anda [13, 151, 157].</em> * <strong>Isi Narasi Pertumbuhan Anda:</strong> __________________________________________________________________________________________ __________________________________________________________________________________________ * <strong>Pelajaran apa yang dapat saya ambil dari situasi ini?</strong> __________________________________________________________________________________________</p>
+<p><strong>Isi Narasi Pertumbuhan Anda:</strong></p>
+<p>Saya memang merasa sedih dan kecewa karena mendapatkan nilai yang tidak sesuai dengan harapan. Saya juga merasa nervous ketika harus menghadapi presentasi.</p>
+<p>Perasaan tersebut tetap valid, tetapi saya tidak perlu menjadikan satu nilai sebagai kesimpulan bahwa saya tidak mampu.</p>
+<p>Saya masih bisa melihat apa yang kurang, memperbaiki cara belajar, dan mempersiapkan presentasi dengan lebih baik. Saya mungkin masih merasa nervous, tetapi saya tetap bisa memilih untuk mempersiapkan diri dan mencoba memberikan hasil yang lebih baik.</p>
+<p><strong>Pelajaran apa yang dapat saya ambil dari situasi ini?</strong></p>
+<p>Saya belajar bahwa <strong>nilai yang kurang baik tidak langsung berarti saya tidak mampu</strong>. Saya perlu membedakan fakta dengan cerita yang muncul di kepala saya.</p>
+<p>Saya juga belajar bahwa ketika merasa nervous, saya tetap mempunyai pilihan untuk melakukan persiapan dan memperbaiki hal-hal yang masih berada dalam kendali saya.</p>
 <hr>
 </section>
 </section>
@@ -284,25 +310,43 @@ window.Quarto = {
 <h2 class="anchored" data-anchor-id="bagian-3-merancang-respons-action-support"><strong>Bagian 3: Merancang Respons (Action &amp; Support)</strong></h2>
 <section id="pilihan-respons-terbaik" class="level3">
 <h3 class="anchored" data-anchor-id="pilihan-respons-terbaik"><strong>1. Pilihan Respons Terbaik</strong></h3>
-<p><em>Berdasarkan Narasi Pertumbuhan Anda, tuliskan tindakan kecil, konkret, dan asertif yang akan Anda lakukan sekarang untuk merespons situasi tersebut [13, 157, 158].</em> * <strong>Langkah nyata yang saya pilih:</strong> __________________________________________________________________________________________ __________________________________________________________________________________________</p>
+<p><strong>Langkah nyata yang saya pilih:</strong></p>
+<p>Saya akan <strong>mempelajari kembali bagian materi yang belum saya pahami dan berlatih menjelaskan materi sebelum presentasi</strong>.</p>
+<p>Saya tidak memaksa diri untuk langsung menghilangkan rasa nervous, tetapi saya akan fokus pada persiapan yang masih bisa saya kendalikan.</p>
+<p>Sebelum presentasi, saya akan mencoba menjelaskan materi dengan bahasa saya sendiri agar lebih terbiasa dengan materi dan alur penjelasannya.</p>
 </section>
 <section id="dukungan-yang-diperlukan" class="level3">
 <h3 class="anchored" data-anchor-id="dukungan-yang-diperlukan"><strong>2. Dukungan yang Diperlukan</strong></h3>
-<p><em>Siapa orang tepercaya (teman, keluarga, dosen) yang dapat Anda mintai umpan balik jujur atau bantuan untuk mendampingi Anda menjalankan pilihan ini? [13, 158]</em> * <strong>Nama rekan/pendamping:</strong> ______________________________________________________________</p>
+<p><strong>Nama rekan/pendamping:</strong></p>
+<p><strong>Teman satu kelompok.</strong></p>
+<p>Saya dapat meminta teman satu kelompok untuk mendengarkan penjelasan saya dan memberikan feedback apakah materi yang saya jelaskan sudah cukup jelas atau masih ada bagian yang perlu saya perbaiki.</p>
 <hr>
 </section>
 </section>
-<section id="panduan-evaluasi-mandiri-rubrik-portofolio" class="level2">
-<h2 class="anchored" data-anchor-id="panduan-evaluasi-mandiri-rubrik-portofolio"><strong>Panduan Evaluasi Mandiri (Rubrik Portofolio)</strong></h2>
-<p>Simpan lembar kerja ini ke dalam <strong>Portofolio Komunikasi</strong> Anda [3, 134]. Evaluasi kualitas pengerjaan Anda menggunakan kriteria berikut sebelum diserahkan kepada dosen [13, 159]:</p>
-<ol type="1">
-<li><strong>Pemisahan Fakta vs Cerita:</strong> Apakah fakta yang Anda tulis di Bagian 1 benar-benar bebas dari asumsi, penilaian moral, dan dramatisasi? [13, 159]</li>
-<li><strong>Kekayaan Alternatif:</strong> Apakah Narasi Analitis Anda berhasil menawarkan minimal 2 alternatif penjelasan rasional yang berbeda dari interpretasi pertama Anda? [13, 159]</li>
-<li><strong>Kematangan Emosional:</strong> Apakah emosi Anda diakui secara jujur tanpa dikuasai sepenuhnya oleh reaksi impulsif batin? [13, 159]</li>
-<li><strong>Kepemilikan Tindakan:</strong> Apakah tindakan akhir yang Anda pilih di Bagian 3 bersifat spesifik, realistis, dan berorientasi pada penyelesaian masalah, bukan sekadar menghindari ketidaknyamanan? [13, 159]</li>
-</ol>
+<section id="panduan-evaluasi-mandiri" class="level2">
+<h2 class="anchored" data-anchor-id="panduan-evaluasi-mandiri"><strong>Panduan Evaluasi Mandiri</strong></h2>
+<section id="pemisahan-fakta-vs-cerita" class="level3">
+<h3 class="anchored" data-anchor-id="pemisahan-fakta-vs-cerita"><strong>1. Pemisahan Fakta vs Cerita</strong></h3>
+<p><strong>Evaluasi: Ya.</strong></p>
+<p>Saya menuliskan fakta berupa hasil penilaian dan memisahkannya dari pikiran bahwa saya tidak mampu. Pemikiran bahwa saya kurang mampu saya tempatkan sebagai interpretasi atau cerita, bukan sebagai fakta.</p>
+</section>
+<section id="kekayaan-alternatif" class="level3">
+<h3 class="anchored" data-anchor-id="kekayaan-alternatif"><strong>2. Kekayaan Alternatif</strong></h3>
+<p><strong>Evaluasi: Ya.</strong></p>
+<p>Saya memberikan tiga alternatif penjelasan yang berbeda dari asumsi awal saya, yaitu kemungkinan cara belajar yang belum sesuai, adanya materi yang belum dipahami, dan kemungkinan bahwa satu hasil penilaian belum menggambarkan kemampuan saya secara keseluruhan.</p>
+</section>
+<section id="kematangan-emosional" class="level3">
+<h3 class="anchored" data-anchor-id="kematangan-emosional"><strong>3. Kematangan Emosional</strong></h3>
+<p><strong>Evaluasi: Ya.</strong></p>
+<p>Saya mengakui rasa sedih, kecewa, dan nervous yang muncul. Namun, saya tidak menjadikan emosi tersebut sebagai alasan untuk berhenti memperbaiki diri.</p>
+</section>
+<section id="kepemilikan-tindakan" class="level3">
+<h3 class="anchored" data-anchor-id="kepemilikan-tindakan"><strong>4. Kepemilikan Tindakan</strong></h3>
+<p><strong>Evaluasi: Ya.</strong></p>
+<p>Saya memilih tindakan yang spesifik dan masih berada dalam kendali saya, yaitu mempelajari kembali materi dan berlatih menjelaskan sebelum presentasi. Tindakan tersebut berfokus pada persiapan dan perbaikan, bukan hanya menghindari rasa nervous.</p>
 
 
+</section>
 </section>
 </section>
 
@@ -711,7 +755,7 @@ window.Quarto = {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Portfolio KIPP-2 · Nama Mahasiswa</p>
+<p>Portfolio KIPP-2 · Aqila Zahra Athaya</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

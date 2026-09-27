@@ -11,110 +11,185 @@ title: "Lembar Kerja Bab 04"
 ---
 
 ## **A. Deskripsi Tugas**
-Salah satu rintangan komunikasi terbesar bagi seorang calon profesional adalah **"Kutukan Pengetahuan" (*Curse of Knowledge*)**—situasi di mana Anda sangat memahami sebuah konsep rumit, hingga Anda lupa rasanya menjadi orang yang belum mengetahuinya. Akibatnya, Anda cenderung menggunakan istilah teknis (jargon) kaku yang justru menjauhkan gagasan Anda dari pendengar.
 
-Dalam tugas ini, Anda ditantang untuk melatih **kelenturan register dan alih ragam bahasa (*code-switching*)**. Anda akan memilih satu konsep teknis dari bidang keilmuan atau program studi Anda, meruntuhkan jargon di dalamnya, lalu menerjemahkan makna inti konsep tersebut ke dalam **lima versi bahasa komunikasi** yang berbeda tanpa mengubah esensi kebenarannya.
+Salah satu rintangan komunikasi adalah **"Kutukan Pengetahuan" (*Curse of Knowledge*)**, yaitu ketika seseorang sudah terlalu memahami suatu konsep sehingga lupa bahwa orang lain mungkin belum memahami konsep tersebut.
+
+Dalam tugas ini, saya memilih satu konsep dari bidang yang saya pelajari dan mencoba menjelaskan konsep tersebut kepada lima jenis audiens yang berbeda. Tujuannya bukan mengubah isi konsep, tetapi menyesuaikan cara penyampaiannya agar tetap benar dan mudah dipahami oleh masing-masing audiens.
 
 ---
 
 ## **B. Identitas Mahasiswa**
-*   **Nama Lengkap:** ______________________________________
-*   **NIM:** ______________________________________
-*   **Program Studi:** ______________________________________
-*   **Tanggal Pengisian:** ______________________________________
+
+* **Nama Lengkap:** Aqila Zahra Athaya
+* **NIM:** 18225077
+* **Program Studi:**Sistem dan Teknologi Informasi
+* **Tanggal Pengisian:** 20 September 2026
 
 ---
 
 ## **C. Tahap 1: Detoks Jargon (Dekonstruksi Konsep)**
-Sebelum membagikan gagasan Anda, Anda harus mengupas kulit jargon untuk menemukan "sumsum" atau kebenaran inti dari pesan Anda.
 
-1. **Konsep Teknis yang Dipilih:**
-   *(Contoh: Enkripsi Kunci Publik, Inflasi Moneter, Replikasi Database, Fotosintesis, dll.)*
-   *Jawab:*
-   
-2. **Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah):**
-   *(Tuliskan definisi asli lengkap dengan jargon teknisnya)*
-   *Jawab:*
-   
-3. **Daftar Jargon Teknis & Artian Sederhananya:**
-   *Identifikasi minimal 3 istilah rumit dari definisi di atas dan terjemahkan maknanya secara mandiri.*
-   *   **Jargon 1:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 2:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 3:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
+### 1. **Konsep Teknis yang Dipilih**
 
-4. **Kebenaran Inti (*Marrow of the Message*):**
-   *(Tuliskan 1 kalimat sangat sederhana yang merangkum apa sebenarnya esensi atau manfaat utama dari konsep ini bagi kehidupan manusia)*
-   *Jawab:*
-   
----
+**Jawab:**
 
-## **D. Tahap 2: Matriks Terjemahan Lima Bahasa**
-Sekarang, bawa kebenaran inti di atas menggunakan "kendaraan" bahasa yang sesuai bagi masing-masing dari lima audiens berikut.
+**Replikasi Basis Data (*Database Replication*)**
 
-### **1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)**
-*   **Karakteristik Pendengar:** Menggunakan pemikiran konkret, menyukai imajinasi, memiliki rentang perhatian pendek, dan belum mengenal istilah akademis.
-*   **Strategi:** Gunakan **analogi fisik atau cerita** yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).
-*   *Draf Terjemahan Anda:*
-   
-   
-### **2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)**
-*   **Karakteristik Pendengar:** Setara dengan Anda secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.
-*   **Strategi:** Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.
-*   *Draf Terjemahan Anda:*
-   
-   
-### **3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)**
-*   **Karakteristik Pendengar:** Rekan sejawat yang menuntut efisiensi, akurasi tinggi, serta pembuktian logis atau matematis.
-*   **Strategi:** Gunakan jargon teknis yang presisi, singkatan standar industri, parameter spesifik, dan data pendukung.
-*   *Draf Terjemahan Anda:*
-   
-   
-### **4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)**
-*   **Karakteristik Pendengar:** Berorientasi pada hasil, efisiensi alokasi sumber daya (waktu, tenaga, biaya), manajemen risiko, dan dampak terhadap tujuan organisasi.
-*   **Strategi:** Tekankan **nilai tambah (*value proposition*)**, biaya (*cost*), efisiensi, serta konsekuensi logis jika gagasan ini diterapkan atau diabaikan.
-*   *Draf Terjemahan Anda:*
-   
-   
-### **5. Ragam Bahasa: Publik Umum (Masyarakat Luas)**
-*   **Karakteristik Pendengar:** Masyarakat heterogen yang ingin mengetahui apa dampak langsung atau tidak langsung dari teknologi/konsep ini bagi keselamatan, kemaslahatan, dompet, atau kehidupan sehari-hari mereka.
-*   **Strategi:** Hubungkan konsep dengan nilai-nilai sosial, keadilan, keamanan, kemudahan hidup, dan gunakan bahasa yang inklusif serta mudah dipahami seketika.
-*   *Draf Terjemahan Anda:*
-   
-   
+Saya memilih konsep ini karena berkaitan dengan materi basis data yang sedang saya pelajari. Konsep ini juga cukup mudah ditemukan dalam kehidupan teknologi sehari-hari, tetapi memiliki beberapa istilah teknis yang perlu disederhanakan ketika dijelaskan kepada orang yang belum mempelajari basis data.
+
+### 2. **Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah)**
+
+**Jawab:**
+
+Replikasi basis data adalah proses menyalin dan memelihara data dari satu basis data ke satu atau lebih basis data lain sehingga beberapa salinan data dapat tetap tersedia dan diperbarui sesuai mekanisme replikasi yang digunakan. Replikasi dapat digunakan untuk meningkatkan ketersediaan data, mendukung pembagian beban akses, serta membantu pemulihan ketika terjadi kegagalan pada salah satu sistem.
+
+### 3. **Daftar Jargon Teknis & Artian Sederhananya**
+
+* **Jargon 1:** `Replikasi` $\rightarrow$ **Arti Sederhana:** Proses membuat dan menjaga salinan data di tempat lain.
+* **Jargon 2:** `Ketersediaan data` $\rightarrow$ **Arti Sederhana:** Data tetap dapat diakses ketika dibutuhkan.
+* **Jargon 3:** `Pembagian beban` $\rightarrow$ **Arti Sederhana:** Membagi permintaan akses agar tidak semuanya ditangani oleh satu sistem saja.
+
+### 4. **Kebenaran Inti (*Marrow of the Message*)**
+
+**Jawab:**
+
+Replikasi basis data membuat salinan data di beberapa tempat agar data tetap tersedia dan sistem dapat terus berjalan ketika salah satu tempat mengalami masalah.
 
 ---
 
-## **E. Tahap 3: Refleksi Pembelajaran (Intrapribadi)**
-*Evaluasi diri Anda setelah melakukan proses alih ragam bahasa di atas.*
+# **D. Tahap 2: Matriks Terjemahan Lima Bahasa**
 
-1. **Ragam bahasa mana yang paling sulit Anda buat? Mengapa?**
-   *Jawab:*
-   
-2. **Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?**
-   *Jawab:*
-   
-3. **Catatan Penggunaan AI Kopilot (Jika Ada):**
-   *Jika Anda menggunakan AI untuk menguji kelenturan bahasa Anda (misal: meminta AI berperan sebagai anak berusia 10 tahun untuk mengkritik draf Anda), tuliskan instruksi/prompt yang Anda gunakan dan umpan balik berharga apa yang diberikan AI.*
-   *Jawab:*
-   
+## **1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)**
+
+**Draf Terjemahan:**
+
+Bayangkan kamu punya satu buku gambar yang sangat penting. Kamu takut kalau buku itu hilang atau terkena air, semua gambarmu ikut hilang.
+
+Jadi, kamu membuat beberapa salinan buku gambar dan menyimpannya di tempat yang berbeda. Kalau satu buku rusak, kamu masih punya buku lain yang isinya sama dan bisa melanjutkan menggambar.
+
+Nah, komputer juga bisa melakukan hal seperti itu pada data. Data disalin ke tempat lain supaya kalau salah satu komputer mengalami masalah, datanya masih tersedia di komputer lainnya.
 
 ---
 
-## **F. Rubrik Evaluasi Mandiri & Penilaian Portofolio**
-Gunakan rubrik ini untuk menguji kualitas draf Anda sebelum dimasukkan ke dalam Portofolio Komunikasi akhir semester Anda.
+## **2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)**
+
+**Draf Terjemahan:**
+
+Sederhananya, replikasi database itu seperti punya cadangan data di beberapa tempat.
+
+Misalnya ada database yang menyimpan data mahasiswa. Data tersebut bisa disalin ke database lain supaya kalau database utama sedang bermasalah, masih ada salinan yang bisa digunakan.
+
+Jadi intinya bukan cuma bikin backup sekali, tapi membuat salinan data yang bisa terus diperbarui sesuai sistem replikasinya. Tujuannya supaya data lebih mudah tersedia dan sistem tidak terlalu bergantung pada satu tempat saja.
+
+---
+
+## **3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)**
+
+**Draf Terjemahan:**
+
+Database replication merupakan mekanisme untuk mempertahankan salinan data pada beberapa database node. Data dari source atau primary database direplikasi ke replica node berdasarkan mekanisme yang digunakan, misalnya secara synchronous atau asynchronous.
+
+Replikasi dapat digunakan untuk meningkatkan availability, mendukung read scaling dengan mendistribusikan read workload ke replica, serta menyediakan redundansi ketika terjadi failure pada node utama.
+
+Namun, implementasinya tetap perlu mempertimbangkan replication lag, konsistensi data, network latency, dan kemungkinan failure pada proses sinkronisasi.
+
+---
+
+## **4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)**
+
+**Draf Terjemahan:**
+
+Replikasi basis data dapat digunakan untuk mengurangi ketergantungan sistem pada satu server penyimpanan data.
+
+Dengan memiliki salinan data pada sistem lain, organisasi memiliki alternatif ketika terjadi gangguan pada database utama. Hal ini dapat membantu menjaga kelangsungan layanan dan mengurangi risiko berhentinya proses bisnis yang bergantung pada akses data.
+
+Namun, penerapannya juga membutuhkan sumber daya tambahan, seperti infrastruktur penyimpanan, jaringan, pemeliharaan, dan pengelolaan sinkronisasi data. Karena itu, manfaat peningkatan ketersediaan data perlu dibandingkan dengan biaya dan kompleksitas penerapannya.
+
+---
+
+## **5. Ragam Bahasa: Publik Umum (Masyarakat Luas)**
+
+**Draf Terjemahan:**
+
+Pernahkah kamu menggunakan sebuah aplikasi lalu berharap data kamu tidak hilang ketika sistem sedang mengalami masalah?
+
+Salah satu cara untuk mengurangi risiko tersebut adalah dengan menyimpan salinan data di lebih dari satu tempat.
+
+Dalam sistem digital, data dapat dibuatkan salinan dan diperbarui di tempat lain sehingga ketika salah satu sistem mengalami gangguan, masih terdapat salinan data yang dapat digunakan. Teknologi seperti ini membantu berbagai layanan digital tetap menyediakan data yang dibutuhkan penggunanya.
+
+---
+
+# **E. Tahap 3: Refleksi Pembelajaran (Intrapribadi)**
+
+### 1. **Ragam bahasa mana yang paling sulit Anda buat? Mengapa?**
+
+**Jawab:**
+
+Ragam bahasa yang paling sulit bagi saya adalah **ragam bahasa untuk anak-anak**.
+
+Awalnya saya berpikir bahwa membuat penjelasan untuk anak-anak hanya berarti mengganti istilah teknis dengan kata yang lebih sederhana. Setelah mencoba, saya menyadari bahwa saya juga harus mencari contoh yang dekat dengan kehidupan mereka tanpa membuat konsepnya menjadi salah.
+
+Saya akhirnya menggunakan contoh buku gambar dan membuat beberapa salinan untuk menjelaskan ide tentang data yang disimpan di beberapa tempat. Dari sini saya belajar bahwa menjelaskan sesuatu dengan sederhana justru membutuhkan pemahaman yang cukup baik terhadap konsep tersebut.
+
+### 2. **Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?**
+
+**Jawab:**
+
+Sebelumnya saya cenderung berpikir bahwa memahami suatu materi berarti mampu menjelaskan definisinya dengan istilah yang digunakan di dalam materi tersebut.
+
+Setelah mengerjakan tugas ini, saya menyadari bahwa memahami konsep juga berarti mampu menjelaskan konsep yang sama dengan cara yang berbeda sesuai dengan orang yang mendengarkan.
+
+Misalnya, istilah seperti *replication*, *availability*, dan *replication lag* memang penting ketika berbicara dengan rekan teknis. Namun, istilah tersebut belum tentu membantu ketika saya menjelaskan konsep yang sama kepada teman dari bidang lain atau masyarakat umum.
+
+Jadi, saya belajar bahwa kemampuan komunikasi bukan hanya tentang seberapa banyak istilah yang saya kuasai, tetapi juga tentang apakah orang lain bisa memahami inti dari apa yang saya sampaikan.
+
+### 3. **Catatan Penggunaan AI Kopilot (Jika Ada)**
+
+**Jawab:**
+
+Dalam pengerjaan tugas ini saya **tidak menggunakan AI sebagai penentu isi utama jawaban**. Saya menyusun konsep, kebenaran inti, dan lima versi penjelasan berdasarkan pemahaman saya sendiri.
+
+Saya menggunakan proses perbandingan antarversi untuk melihat apakah cara penyampaian saya sudah benar-benar berbeda sesuai dengan audiens. Dari proses tersebut, saya menyadari bahwa perubahan bahasa tidak cukup hanya dengan mengganti beberapa kata, tetapi harus mengubah cara menjelaskan sesuai kebutuhan pendengar.
+
+---
+
+# **F. Rubrik Evaluasi Mandiri & Penilaian Portofolio**
 
 | Kriteria | Skor 4 (Sangat Baik) | Skor 3 (Baik) | Skor 2 (Cukup) | Skor 1 (Kurang) | Skor Mandiri |
 | :--- | :--- | :--- | :--- | :--- | :---: |
-| **Keutuhan Makna** *(Fidelity)* | Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa. | Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak. | Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa. | Makna inti rusak atau berubah total di berbagai ragam bahasa. | |
-| **Kelenturan Register** *(Code-switching)* | Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing. | Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens. | Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan). | Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama. | |
-| **Kualitas Analogi & Penjelasan** | Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika. | Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya. | Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens. | Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik). | |
-| **Kedalaman Refleksi** | Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas. | Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut. | Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda. | Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat). | |
-| **Total Skor (Maksimal 16)** | | | | | **___ / 16** |
+| **Keutuhan Makna** *(Fidelity)* | Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa. | Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak. | Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa. | Makna inti rusak atau berubah total di berbagai ragam bahasa. | **4** |
+| **Kelenturan Register** *(Code-switching)* | Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing. | Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens. | Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis. | Tidak ada upaya menyesuaikan gaya bahasa. | **4** |
+| **Kualitas Analogi & Penjelasan** | Analogi sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami. | Analogi cukup baik dan relevan, meski masih membutuhkan sedikit penjelasan tambahan. | Analogi kurang pas atau berisiko membingungkan. | Tidak menggunakan analogi pada ragam yang membutuhkan. | **4** |
+| **Kedalaman Refleksi** | Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas. | Refleksi cukup deskriptif tetapi belum menggali alasan personal secara mendalam. | Refleksi sangat singkat dan normatif. | Bagian refleksi tidak diisi atau hanya sekadarnya. | **4** |
 
----
+### **Alasan Penilaian Mandiri**
 
-### **G. Contoh Pengisian Singkat (Sebagai Inspirasi)**
-*   **Konsep:** *Database Replication (Replikasi Basis Data)*
-*   **Kebenaran Inti:** Menyalin dan menyimpan data yang sama di beberapa komputer berbeda secara otomatis agar jika satu komputer rusak, data kita tetap aman dan aplikasi tidak mati.
-*   **Terjemahan Ragam Anak-Anak:** *"Bayangkan kamu punya buku gambar kesayangan. Karena takut bukunya hilang atau ketumpahan air, kamu meminta mesin ajaib untuk menyalin gambar yang sama ke buku gambar teman-temanmu secara otomatis. Jadi, kalau buku gambarmu basah, kamu tinggal pinjam buku milik temanmu dan bisa lanjut mewarnai tanpa sedih!"*
-*   **Terjemahan Ragam Manajer:** *"Untuk menjamin kelangsungan operasional bisnis dan meminimalkan risiko downtime akibat kegagalan server tunggal, kita menerapkan replikasi data ke wilayah sekunder. Hal ini memastikan pemulihan bencana (disaster recovery) berjalan instan dengan toleransi kehilangan data mendekati nol, sehingga transaksi pelanggan tidak terganggu."*
+**1. Keutuhan Makna — Skor 4**
+
+Saya mempertahankan gagasan utama bahwa replikasi basis data membuat salinan data di beberapa tempat untuk membantu menjaga ketersediaan data dan mengurangi ketergantungan pada satu sistem. Walaupun cara menjelaskannya berbeda, inti konsep tersebut tetap dipertahankan dari versi anak-anak sampai versi teknis.
+
+**2. Kelenturan Register — Skor 4**
+
+Saya membedakan cara penyampaian berdasarkan audiens. Pada anak-anak saya menggunakan analogi buku gambar, kepada sahabat saya menggunakan bahasa percakapan yang lebih santai, kepada rekan teknis saya menggunakan istilah seperti *node*, *synchronous*, *asynchronous*, dan *replication lag*, sedangkan kepada manajer saya lebih menekankan risiko, manfaat, biaya, dan kelangsungan layanan.
+
+**3. Kualitas Analogi & Penjelasan — Skor 4**
+
+Saya menggunakan analogi buku gambar untuk menjelaskan konsep kepada anak-anak. Analogi tersebut tetap mempertahankan ide utama tentang adanya salinan data di tempat berbeda tanpa memasukkan istilah teknis yang sulit dipahami. Pada versi publik, saya menggunakan contoh gangguan pada aplikasi agar konsep lebih dekat dengan pengalaman sehari-hari.
+
+**4. Kedalaman Refleksi — Skor 4**
+
+Melalui tugas ini saya tidak hanya melihat kesulitan dalam memilih kata, tetapi juga menyadari bahwa saya sebelumnya cenderung menganggap pemahaman materi sama dengan kemampuan menggunakan istilah teknisnya. Saya belajar bahwa kemampuan menjelaskan konsep kepada orang dengan latar belakang berbeda merupakan bagian dari pemahaman itu sendiri.
+
+### **Total Skor**
+
+$$
+\text{Total Skor}
+=
+4+4+4+4
+=
+16/16
+$$
+
+**Skor Mandiri: 16 / 16**
+
+**Nilai Konversi: 100 / 100**

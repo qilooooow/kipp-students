@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="id" xml:lang="id"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.31">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -13,10 +13,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -43,10 +46,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7c69b197886ae2a34062761d21e44731.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-42db6082498c64b8158b8611e7fb4138.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-795ae1ca5c1dbc58ec319c3e1f3f461f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -269,14 +272,17 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#kompetensi-target" id="toc-kompetensi-target" class="nav-link active" data-scroll-target="#kompetensi-target">Kompetensi target</a></li>
   <li><a href="#evidence-wajib" id="toc-evidence-wajib" class="nav-link" data-scroll-target="#evidence-wajib">Evidence wajib</a></li>
-  <li><a href="#konteks-performance" id="toc-konteks-performance" class="nav-link" data-scroll-target="#konteks-performance">Konteks performance</a></li>
-  <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a></li>
-  <li><a href="#analisis-komunikasi" id="toc-analisis-komunikasi" class="nav-link" data-scroll-target="#analisis-komunikasi">Analisis komunikasi</a></li>
-  <li><a href="#penggunaan-ai" id="toc-penggunaan-ai" class="nav-link" data-scroll-target="#penggunaan-ai">Penggunaan AI</a></li>
-  <li><a href="#feedback-dan-tindak-lanjut" id="toc-feedback-dan-tindak-lanjut" class="nav-link" data-scroll-target="#feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</a></li>
-  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a>
+  <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a>
   <ul class="collapse">
-  <li><a href="#assessment-dosen" id="toc-assessment-dosen" class="nav-link" data-scroll-target="#assessment-dosen">Assessment dosen</a></li>
+  <li><a href="#character-map" id="toc-character-map" class="nav-link" data-scroll-target="#character-map">Character Map</a></li>
+  <li><a href="#analisis-person-personality-dan-character" id="toc-analisis-person-personality-dan-character" class="nav-link" data-scroll-target="#analisis-person-personality-dan-character">Analisis Person, Personality, dan Character</a></li>
+  <li><a href="#episode-yang-dianalisis" id="toc-episode-yang-dianalisis" class="nav-link" data-scroll-target="#episode-yang-dianalisis">Episode yang Dianalisis</a></li>
+  <li><a href="#hubungan-objective-repertoire-language-action-dan-relationship" id="toc-hubungan-objective-repertoire-language-action-dan-relationship" class="nav-link" data-scroll-target="#hubungan-objective-repertoire-language-action-dan-relationship">Hubungan Objective, Repertoire, Language, Action, dan Relationship</a></li>
+  <li><a href="#perubahan-language" id="toc-perubahan-language" class="nav-link" data-scroll-target="#perubahan-language">Perubahan Language</a></li>
+  <li><a href="#refleksi" id="toc-refleksi" class="nav-link" data-scroll-target="#refleksi">Refleksi</a></li>
+  <li><a href="#evidence-dan-pembelajaran" id="toc-evidence-dan-pembelajaran" class="nav-link" data-scroll-target="#evidence-dan-pembelajaran">Evidence dan Pembelajaran</a></li>
+  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-Assessment</a></li>
+  <li><a href="#prioritas-perbaikan" id="toc-prioritas-perbaikan" class="nav-link" data-scroll-target="#prioritas-perbaikan">Prioritas Perbaikan</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -337,120 +343,209 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="konteks-performance" class="level2">
-<h2 class="anchored" data-anchor-id="konteks-performance">Konteks performance</h2>
-<p><strong>Tanggal dan setting:</strong> Ganti dengan tanggal, tempat, dan bentuk kegiatan.</p>
-<p><strong>Persons dan relationship:</strong> Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.</p>
-<p><strong>Objective dan initial state:</strong> Nyatakan perubahan yang ingin dicapai serta evidence state awal.</p>
-</section>
 <section id="evidence" class="level2">
 <h2 class="anchored" data-anchor-id="evidence">Evidence</h2>
-<div class="evidence-block">
-<p>Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.</p>
-</div>
-</section>
-<section id="analisis-komunikasi" class="level2">
-<h2 class="anchored" data-anchor-id="analisis-komunikasi">Analisis komunikasi</h2>
+<section id="character-map" class="level3">
+<h3 class="anchored" data-anchor-id="character-map">Character Map</h3>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+</colgroup>
 <thead>
 <tr class="header">
-<th>Elemen</th>
-<th>Evidence dan analisis</th>
+<th>Domain</th>
+<th>Character</th>
+<th>Personality yang relevan</th>
+<th>Objective</th>
+<th>Responsibility</th>
+<th>Repertoire</th>
+<th>Risiko komunikasi</th>
+<th>Relationship yang dijaga</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Person &amp; character</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Diri sendiri</td>
+<td>Mahasiswa</td>
+<td>Saya biasanya ingin tugas selesai dengan baik dan cukup sulit kalau merasa belum memahami materinya</td>
+<td>Memahami materi dan menyelesaikan tugas dengan baik</td>
+<td>Mengatur waktu, belajar, dan mengecek kembali apakah saya sudah paham</td>
+<td>Membaca materi, mencatat, mencari contoh, bertanya, dan latihan</td>
+<td>Kadang terlalu fokus supaya tugas cepat selesai sehingga kurang memperhatikan apakah saya benar-benar paham</td>
+<td>Hubungan dengan diri sendiri dan proses belajar</td>
 </tr>
 <tr class="even">
-<td>Objective &amp; state</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Keluarga</td>
+<td>Anak</td>
+<td>Saya lebih nyaman ngobrol dengan keluarga dengan cara yang santai</td>
+<td>Tetap menjaga komunikasi dengan keluarga walaupun sedang sibuk</td>
+<td>Memberi kabar, mendengarkan, dan merespons ketika diajak bicara</td>
+<td>Mengobrol, bercerita, mendengarkan, dan menjelaskan keadaan</td>
+<td>Kalau sedang banyak tugas, saya kadang menjawab terlalu singkat sehingga bisa terlihat seperti tidak memperhatikan</td>
+<td>Kedekatan dan kepercayaan dengan keluarga</td>
 </tr>
 <tr class="odd">
-<td>Repertoire &amp; language</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Pertemanan</td>
+<td>Teman</td>
+<td>Saya cukup sering mencoba membantu ketika teman sedang punya masalah</td>
+<td>Membantu teman sesuai dengan apa yang sebenarnya mereka butuhkan</td>
+<td>Mendengarkan dulu sebelum memberikan pendapat</td>
+<td>Bertanya, mendengarkan, berdiskusi, dan memberi pendapat</td>
+<td>Saya kadang terlalu cepat memberikan solusi padahal teman mungkin hanya ingin didengarkan</td>
+<td>Kepercayaan dan keterbukaan dalam pertemanan</td>
 </tr>
 <tr class="even">
-<td>Response &amp; adaptation</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Akademik</td>
+<td>Anggota kelompok</td>
+<td>Saya lebih suka kalau pembagian tugas dan pekerjaan kelompok jelas</td>
+<td>Menyelesaikan bagian saya sekaligus memastikan bagian tersebut bisa dipakai oleh anggota lain</td>
+<td>Mengerjakan bagian sendiri, memberi update, dan berdiskusi jika ada masalah</td>
+<td>Chat, diskusi, membagi tugas, memberi update, bertanya, dan menerima masukan</td>
+<td>Kalau saya merasa bagian saya sudah selesai tetapi tidak memberi update, anggota lain bisa tidak tahu perkembangan pekerjaan saya</td>
+<td>Kepercayaan dan kerja sama dalam kelompok</td>
 </tr>
 <tr class="odd">
-<td>Agreement/action</td>
-<td>Ganti dengan analisis Anda.</td>
-</tr>
-<tr class="even">
-<td>Relationship outcome</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Publik</td>
+<td>Presenter mahasiswa</td>
+<td>Saat presentasi saya biasanya lebih fokus pada isi materi dan takut ada bagian yang terlewat</td>
+<td>Membuat orang lain memahami bagian yang saya jelaskan</td>
+<td>Menjelaskan materi dengan jelas dan merespons pertanyaan</td>
+<td>Presentasi, memberi contoh, menjelaskan dengan bahasa sederhana, dan menjawab pertanyaan</td>
+<td>Karena terlalu fokus pada materi, saya kadang kurang memperhatikan apakah orang yang mendengarkan sudah paham atau belum</td>
+<td>Kepercayaan pendengar terhadap apa yang saya sampaikan</td>
 </tr>
 </tbody>
 </table>
 </section>
-<section id="penggunaan-ai" class="level2">
-<h2 class="anchored" data-anchor-id="penggunaan-ai">Penggunaan AI</h2>
-<p>Nyatakan <code>Tidak menggunakan AI</code> atau jelaskan:</p>
-<ul>
-<li>alat dan peran AI;</li>
-<li>prompt atau instruksi penting;</li>
-<li>bagian output yang digunakan, diubah, atau ditolak;</li>
-<li>pemeriksaan accuracy, privacy, dan authority;</li>
-<li>apa yang tetap Anda pelajari sebagai manusia.</li>
-</ul>
+<section id="analisis-person-personality-dan-character" class="level3">
+<h3 class="anchored" data-anchor-id="analisis-person-personality-dan-character">Analisis Person, Personality, dan Character</h3>
+<p>Setelah mempelajari materi Week 1, saya mulai menyadari bahwa person, personality, dan character ternyata berbeda.</p>
+<p><strong>Person</strong> menurut saya adalah diri seseorang secara keseluruhan. Jadi, saya tidak bisa langsung menyimpulkan seseorang hanya karena dia seorang mahasiswa, teman, atau anggota kelompok. Ada pengalaman dan kondisi lain yang juga memengaruhi cara seseorang bertindak.</p>
+<p><strong>Personality</strong> lebih terlihat dari kecenderungan atau kebiasaan saya. Misalnya, saya cenderung ingin menyelesaikan tugas dengan baik dan kadang ingin mencoba menyelesaikan sesuatu sendiri terlebih dahulu sebelum meminta bantuan. Tetapi hal tersebut tidak berarti saya akan selalu bertindak dengan cara yang sama dalam semua situasi.</p>
+<p>Sedangkan <strong>character</strong> lebih berkaitan dengan peran yang sedang saya jalankan. Orangnya tetap saya, tetapi perannya bisa berbeda. Ketika belajar saya menjadi mahasiswa, ketika di rumah saya menjadi anak, ketika bersama teman saya menjadi teman, dan ketika mengerjakan tugas kelompok saya menjadi anggota kelompok.</p>
+<p>Dari sini saya memahami bahwa ketika character berubah, cara saya berkomunikasi juga bisa berubah. Objective, responsibility, repertoire, dan language yang digunakan tidak selalu sama karena situasinya juga berbeda.</p>
 </section>
-<section id="feedback-dan-tindak-lanjut" class="level2">
-<h2 class="anchored" data-anchor-id="feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</h2>
-<p><strong>Feedback yang diterima:</strong> Ganti dengan kutipan atau ringkasan berbasis evidence.</p>
-<p><strong>Adaptation/replay:</strong> Jelaskan apa yang Anda ubah dan response setelah perubahan.</p>
-<p><strong>Next practice:</strong> Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.</p>
+<section id="episode-yang-dianalisis" class="level3">
+<h3 class="anchored" data-anchor-id="episode-yang-dianalisis">Episode yang Dianalisis</h3>
+<p><strong>Konteks:</strong> Saat mengerjakan tugas kelompok, saya pernah merasa bahwa bagian yang menjadi tanggung jawab saya sudah selesai. Awalnya saya berpikir bahwa setelah bagian saya selesai, saya tinggal mengirim hasilnya kepada anggota kelompok. Namun, setelah melihat pekerjaan kelompok secara keseluruhan, saya menyadari bahwa anggota lain juga perlu mengetahui perkembangan bagian saya supaya pekerjaan mereka bisa disesuaikan.</p>
+<p><strong>Objective awal:</strong> Menyelesaikan bagian tugas yang menjadi tanggung jawab saya.</p>
+<p><strong>Objective setelah melihat kebutuhan kelompok:</strong> Memastikan bagian saya tidak hanya selesai, tetapi juga bisa digunakan dan terhubung dengan bagian anggota lain.</p>
+<p><strong>Responsibility:</strong> Mengerjakan bagian sendiri, memberi informasi mengenai progres, dan memastikan tidak ada bagian yang bertabrakan atau tidak nyambung dengan pekerjaan anggota lain.</p>
+<p><strong>Repertoire:</strong> Memberi update, berdiskusi, bertanya, menerima masukan, dan mengecek kembali hasil pekerjaan.</p>
+<p>Saya kemudian menggunakan komunikasi seperti:</p>
+<blockquote class="blockquote">
+<p>“Bagian saya sudah selesai. Coba nanti kita cek lagi apakah bagian ini sudah nyambung sama yang kamu kerjakan.”</p>
+</blockquote>
+<p>Kalimat tersebut tidak hanya memberi informasi bahwa pekerjaan saya sudah selesai. Saya juga membuka kesempatan untuk mengecek dan memperbaiki bagian yang mungkin belum sesuai.</p>
+<p><strong>Action:</strong> Setelah mendapat respons dari anggota lain, saya perlu mengecek kembali bagian yang berhubungan dengan pekerjaan mereka dan melakukan perubahan jika diperlukan.</p>
+<p><strong>Relationship:</strong> Komunikasi tersebut juga membantu menjaga kerja sama karena anggota kelompok tidak perlu menebak perkembangan pekerjaan saya dan bisa langsung menyesuaikan bagian mereka.</p>
+<p>Dari situ saya memahami bahwa objective tidak selalu berhenti pada “bagian saya selesai”. Dalam situasi kelompok, objective yang lebih besar adalah memastikan pekerjaan bersama dapat berjalan dengan baik.</p>
 </section>
-<section id="self-assessment" class="level2">
-<h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
+<section id="hubungan-objective-repertoire-language-action-dan-relationship" class="level3">
+<h3 class="anchored" data-anchor-id="hubungan-objective-repertoire-language-action-dan-relationship">Hubungan Objective, Repertoire, Language, Action, dan Relationship</h3>
+<p>Sebelumnya saya sering langsung memikirkan apa yang mau saya katakan ketika berkomunikasi. Setelah mempelajari materi ini, saya mencoba melihat objective-nya terlebih dahulu.</p>
+<p>Contohnya pada tugas kelompok tadi. Kalau objective saya hanya menyelesaikan bagian sendiri, repertoire saya mungkin hanya mengerjakan tugas dan mengirimkannya. Tetapi kalau objective saya adalah membantu menyelesaikan tugas kelompok, repertoire saya menjadi lebih luas, seperti memberi update, berdiskusi, bertanya, dan menerima masukan.</p>
+<p>Menurut saya, perubahan objective tersebut juga memengaruhi language yang saya gunakan. Saya tidak hanya mengatakan:</p>
+<blockquote class="blockquote">
+<p>“Bagian saya sudah selesai.”</p>
+</blockquote>
+<p>Tetapi saya bisa mengatakan:</p>
+<blockquote class="blockquote">
+<p>“Bagian saya sudah selesai. Coba nanti kita cek lagi apakah bagian ini sudah nyambung sama yang kamu kerjakan.”</p>
+</blockquote>
+<p>Ada perbedaan karena kalimat kedua menunjukkan adanya action yang diharapkan setelah komunikasi, yaitu melakukan pengecekan bersama.</p>
+<p>Dari sini saya mulai melihat bahwa komunikasi bukan hanya tentang apakah pesan sudah dikirim. Respons orang lain, tindakan setelah komunikasi, dan relationship yang tetap terjaga juga menjadi bagian dari proses komunikasi.</p>
+</section>
+<section id="perubahan-language" class="level3">
+<h3 class="anchored" data-anchor-id="perubahan-language">Perubahan Language</h3>
+<p>Saya menemukan bahwa maksud yang sama bisa saya sampaikan dengan cara yang berbeda tergantung siapa yang saya ajak bicara.</p>
+<p>Misalnya saya ingin memastikan suatu bagian tugas sudah sesuai.</p>
+<p>Kalau berbicara dengan teman, saya mungkin mengatakan:</p>
+<blockquote class="blockquote">
+<p>“Bagian ini udah selesai belum? Kalau belum, nanti kita bahas bareng.”</p>
+</blockquote>
+<p>Tetapi kalau berbicara dengan dosen, saya akan menggunakan bahasa yang berbeda:</p>
+<blockquote class="blockquote">
+<p>“Bu/Pak, saya ingin memastikan apakah bagian ini sudah sesuai dengan yang dimaksud. Jika masih ada yang kurang tepat, saya ingin memperbaikinya.”</p>
+</blockquote>
+<p>Maksud dasarnya sama, yaitu memastikan sesuatu sudah sesuai dan membuka kesempatan untuk memperbaikinya. Tetapi cara menyampaikannya berbeda karena relationship dan character dalam situasinya berbeda.</p>
+<p>Dengan teman saya bisa menggunakan bahasa yang lebih santai karena sudah dekat. Sedangkan dengan dosen saya perlu menggunakan bahasa yang lebih formal dan sopan.</p>
+<p>Jadi, menurut saya menyesuaikan language bukan berarti menjadi orang yang berbeda. Saya tetap menyampaikan maksud yang sama, tetapi menyesuaikan cara menyampaikannya dengan situasi dan orang yang saya ajak bicara.</p>
+</section>
+<section id="refleksi" class="level3">
+<h3 class="anchored" data-anchor-id="refleksi">Refleksi</h3>
+<p>Sebelum mempelajari Week 1, saya lebih sering menganggap komunikasi sebagai kegiatan menyampaikan pesan kepada orang lain. Yang penting bagi saya biasanya adalah pesan tersebut sudah disampaikan.</p>
+<p>Setelah mempelajari materi ini, saya mulai menyadari bahwa ternyata respons orang lain juga penting.</p>
+<p>Hal ini paling terasa ketika mengerjakan tugas kelompok. Saya bisa saja merasa bahwa bagian saya sudah selesai, tetapi kalau saya tidak memberi tahu anggota lain atau tidak menjelaskan bagian saya dengan cukup jelas, pekerjaan kelompok tetap bisa mengalami masalah.</p>
+<p>Saya juga lebih memperhatikan bahwa satu orang bisa memiliki beberapa character. Saya tetap menjadi orang yang sama, tetapi ketika menjadi mahasiswa, anak, teman, atau anggota kelompok, objective dan cara berkomunikasi saya bisa berbeda.</p>
+</section>
+<section id="evidence-dan-pembelajaran" class="level3">
+<h3 class="anchored" data-anchor-id="evidence-dan-pembelajaran">Evidence dan Pembelajaran</h3>
+<p>Dari episode tugas kelompok tersebut, saya melihat bahwa perubahan cara berkomunikasi saya terjadi setelah saya menyadari bahwa tujuan saya tidak cukup hanya menyelesaikan bagian sendiri.</p>
+<p>Awalnya saya melihat tugas dari sudut pandang tanggung jawab pribadi. Setelah melihat hubungan antara bagian saya dan bagian anggota lain, saya mulai melihatnya sebagai tanggung jawab bersama.</p>
+<p>Hal yang saya pelajari adalah bahwa character tidak hanya menentukan apa yang saya lakukan, tetapi juga memengaruhi bagaimana saya menggunakan repertoire dan language untuk mencapai objective.</p>
+<p>Saya juga belajar bahwa komunikasi yang terlihat sederhana seperti memberi update sebenarnya bisa memengaruhi action orang lain dan kelancaran kerja sama kelompok.</p>
+</section>
+<section id="self-assessment" class="level3">
+<h3 class="anchored" data-anchor-id="self-assessment">Self-Assessment</h3>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Dimensi</th>
-<th style="text-align: right;">Skor 1–4</th>
-<th>Evidence singkat</th>
+<th style="text-align: right;">Skor</th>
+<th>Alasan</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Person &amp; Character</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Saya dapat membedakan person, personality, dan character serta memetakan lima character dari beberapa domain kehidupan.</td>
 </tr>
 <tr class="even">
-<td>Objective &amp; State</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td>Objective &amp; Responsibility</td>
+<td style="text-align: right;">4</td>
+<td>Saya dapat menentukan objective dan responsibility yang berbeda sesuai dengan character yang sedang dijalankan.</td>
 </tr>
 <tr class="odd">
-<td>Repertoire, Language &amp; AI</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td>Repertoire &amp; Language</td>
+<td style="text-align: right;">4</td>
+<td>Saya dapat menunjukkan repertoire yang berbeda dan memberikan contoh perubahan language berdasarkan relationship.</td>
 </tr>
 <tr class="even">
-<td>Response &amp; Adaptation</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
-</tr>
-<tr class="odd">
-<td>Agreement, Action &amp; Relationship</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td>Action &amp; Relationship</td>
+<td style="text-align: right;">3</td>
+<td>Saya sudah memahami bahwa komunikasi perlu menghasilkan action dan tetap menjaga relationship, tetapi saya masih perlu lebih konsisten menerapkannya dalam situasi nyata.</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Total:</strong> — / 20</p>
-<section id="assessment-dosen" class="level3 assessor-only">
-<h3 class="anchored" data-anchor-id="assessment-dosen">Assessment dosen</h3>
-<p><strong>Skor:</strong> — / 20<br>
-<strong>Evidence yang mendukung:</strong> —<br>
-<strong>Prioritas perbaikan:</strong> —<br>
-<strong>Keputusan:</strong> Belum dinilai / Perlu revisi / Tercapai</p>
+<p><strong>Self-score: 4</strong></p>
+<p>Saya memberikan skor tersebut karena saya sudah dapat menghubungkan person, personality, character, objective, repertoire, language, action, dan relationship dalam satu analisis. Namun, saya masih perlu lebih banyak latihan menggunakan konsep tersebut ketika menghadapi situasi komunikasi yang sebenarnya.</p>
 </section>
+<section id="prioritas-perbaikan" class="level3">
+<h3 class="anchored" data-anchor-id="prioritas-perbaikan">Prioritas Perbaikan</h3>
+<p>Hal yang ingin saya perbaiki adalah <strong>menentukan objective sebelum berkomunikasi</strong>.</p>
+<p>Saya ingin membiasakan diri untuk berpikir sebentar sebelum mengirim pesan atau berbicara, terutama ketika sedang mengerjakan tugas kelompok. Saya ingin memastikan apakah saya sedang ingin memberikan informasi, meminta bantuan, mengajak diskusi, atau menyelesaikan masalah.</p>
+<p>Setelah itu, saya akan menyesuaikan cara bicara dengan character dan relationship yang sedang saya jalani. Saya juga ingin lebih memperhatikan respons orang lain supaya saya tidak hanya merasa komunikasi sudah berhasil karena pesan saya sudah disampaikan.</p>
+<p>Target saya untuk latihan berikutnya adalah membiasakan diri untuk berhenti sebentar sebelum berkomunikasi dan menanyakan kepada diri sendiri:</p>
+<blockquote class="blockquote">
+<p>“Apa objective saya, siapa yang sedang saya ajak berkomunikasi, dan action apa yang saya harapkan setelah komunikasi ini?”</p>
+</blockquote>
 
 
+</section>
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Kembali ke atas</a></main> <!-- /main -->
@@ -870,7 +965,7 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Portfolio KIPP-2 · Nama Mahasiswa</p>
+<p>Portfolio KIPP-2 · Aqila Zahra Athaya</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

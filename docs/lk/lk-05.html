@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="id" xml:lang="id"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.31">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -40,10 +43,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7c69b197886ae2a34062761d21e44731.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-42db6082498c64b8158b8611e7fb4138.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-795ae1ca5c1dbc58ec319c3e1f3f461f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,6 +76,35 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -153,24 +185,26 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#lembar-kerja-praktis-wawancara-penemuan-kebutuhan-formula-pernyataan-masalah-pelanggan" id="toc-lembar-kerja-praktis-wawancara-penemuan-kebutuhan-formula-pernyataan-masalah-pelanggan" class="nav-link active" data-scroll-target="#lembar-kerja-praktis-wawancara-penemuan-kebutuhan-formula-pernyataan-masalah-pelanggan">LEMBAR KERJA PRAKTIS: WAWANCARA PENEMUAN KEBUTUHAN &amp; FORMULA PERNYATAAN MASALAH PELANGGAN</a>
   <ul class="collapse">
-  <li><a href="#pengantar-nilai-ada-dalam-pengalaman-penerima" id="toc-pengantar-nilai-ada-dalam-pengalaman-penerima" class="nav-link" data-scroll-target="#pengantar-nilai-ada-dalam-pengalaman-penerima">📌 PENGANTAR: NILAI ADA DALAM PENGALAMAN PENERIMA</a></li>
-  <li><a href="#fase-1-persiapan-wawancara-5-pertanyaan-penemuan" id="toc-fase-1-persiapan-wawancara-5-pertanyaan-penemuan" class="nav-link" data-scroll-target="#fase-1-persiapan-wawancara-5-pertanyaan-penemuan">🛠️ FASE 1: PERSIAPAN &amp; WAWANCARA (5 PERTANYAAN PENEMUAN)</a>
-  <ul class="collapse">
-  <li><a href="#repertoar-pertanyaan-profesional-tambahan" id="toc-repertoar-pertanyaan-profesional-tambahan" class="nav-link" data-scroll-target="#repertoar-pertanyaan-profesional-tambahan">💡 Repertoar Pertanyaan Profesional Tambahan:</a></li>
-  </ul></li>
   <li><a href="#fase-2-lembar-pengerjaan-mahasiswa" id="toc-fase-2-lembar-pengerjaan-mahasiswa" class="nav-link" data-scroll-target="#fase-2-lembar-pengerjaan-mahasiswa">📝 FASE 2: LEMBAR PENGERJAAN MAHASISWA</a>
   <ul class="collapse">
   <li><a href="#profil-narasumber-disamarkan-demi-privasi" id="toc-profil-narasumber-disamarkan-demi-privasi" class="nav-link" data-scroll-target="#profil-narasumber-disamarkan-demi-privasi">👥 1. Profil Narasumber (Disamarkan Demi Privasi)</a></li>
-  <li><a href="#log-catatan-wawancara-gunakan-5-pertanyaan-penemuan" id="toc-log-catatan-wawancara-gunakan-5-pertanyaan-penemuan" class="nav-link" data-scroll-target="#log-catatan-wawancara-gunakan-5-pertanyaan-penemuan">📓 2. Log Catatan Wawancara (Gunakan 5 Pertanyaan Penemuan)</a></li>
+  <li><a href="#log-catatan-wawancara" id="toc-log-catatan-wawancara" class="nav-link" data-scroll-target="#log-catatan-wawancara">📓 2. Log Catatan Wawancara</a></li>
+  </ul></li>
   </ul></li>
   <li><a href="#fase-3-formulasi-pernyataan-masalah-pelanggan" id="toc-fase-3-formulasi-pernyataan-masalah-pelanggan" class="nav-link" data-scroll-target="#fase-3-formulasi-pernyataan-masalah-pelanggan">✒️ FASE 3: FORMULASI PERNYATAAN MASALAH PELANGGAN</a>
   <ul class="collapse">
-  <li><a href="#formula-standar" id="toc-formula-standar" class="nav-link" data-scroll-target="#formula-standar">📐 Formula Standar:</a></li>
   <li><a href="#draft-1-pernyataan-masalah-awal-sebelum-konfirmasi" id="toc-draft-1-pernyataan-masalah-awal-sebelum-konfirmasi" class="nav-link" data-scroll-target="#draft-1-pernyataan-masalah-awal-sebelum-konfirmasi">✍️ Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)</a></li>
   <li><a href="#draft-2-pernyataan-masalah-terkonfirmasi-setelah-konfirmasi" id="toc-draft-2-pernyataan-masalah-terkonfirmasi-setelah-konfirmasi" class="nav-link" data-scroll-target="#draft-2-pernyataan-masalah-terkonfirmasi-setelah-konfirmasi">🔄 Draft 2: Pernyataan Masalah Terkonfirmasi (Setelah Konfirmasi)</a></li>
+  <li><a href="#perubahan-dari-draft-1" id="toc-perubahan-dari-draft-1" class="nav-link" data-scroll-target="#perubahan-dari-draft-1"><strong>Perubahan dari Draft 1</strong></a></li>
   </ul></li>
-  <li><a href="#fase-4-refleksi-intrapribadi" id="toc-fase-4-refleksi-intrapribadi" class="nav-link" data-scroll-target="#fase-4-refleksi-intrapribadi">🎯 FASE 4: REFLEKSI INTRAPRIBADI</a></li>
-  <li><a href="#fase-5-rubrik-penilaian-mandiri-self-assessment" id="toc-fase-5-rubrik-penilaian-mandiri-self-assessment" class="nav-link" data-scroll-target="#fase-5-rubrik-penilaian-mandiri-self-assessment">📊 FASE 5: RUBRIK PENILAIAN MANDIRI (SELF-ASSESSMENT)</a></li>
+  <li><a href="#fase-4-refleksi-intrapribadi" id="toc-fase-4-refleksi-intrapribadi" class="nav-link" data-scroll-target="#fase-4-refleksi-intrapribadi">🎯 FASE 4: REFLEKSI INTRAPRIBADI</a>
+  <ul class="collapse">
+  <li><a href="#jurnal-refleksi" id="toc-jurnal-refleksi" class="nav-link" data-scroll-target="#jurnal-refleksi"><strong>Jurnal Refleksi</strong></a></li>
+  </ul></li>
+  <li><a href="#fase-5-rubrik-penilaian-mandiri" id="toc-fase-5-rubrik-penilaian-mandiri" class="nav-link" data-scroll-target="#fase-5-rubrik-penilaian-mandiri">📊 FASE 5: RUBRIK PENILAIAN MANDIRI</a>
+  <ul class="collapse">
+  <li><a href="#alasan-penilaian-mandiri" id="toc-alasan-penilaian-mandiri" class="nav-link" data-scroll-target="#alasan-penilaian-mandiri"><strong>Alasan Penilaian Mandiri</strong></a></li>
+  <li><a href="#total-skor" id="toc-total-skor" class="nav-link" data-scroll-target="#total-skor"><strong>Total Skor</strong></a></li>
   </ul></li>
   </ul>
 </nav>
@@ -205,118 +239,103 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>“Produk yang canggih belum tentu bernilai. Nilai lahir ketika pengetahuan, pekerjaan, dan layanan sungguh-sungguh menjawab persoalan manusia.”</strong> — <em>Komunikasi Interpersonal dan Publik</em>, Bab 5</p>
 </blockquote>
 <hr>
-<section id="pengantar-nilai-ada-dalam-pengalaman-penerima" class="level2">
-<h2 class="anchored" data-anchor-id="pengantar-nilai-ada-dalam-pengalaman-penerima">📌 PENGANTAR: NILAI ADA DALAM PENGALAMAN PENERIMA</h2>
-<p>Sebagai calon profesional, kesalahan terbesar yang sering kita lakukan adalah <strong>terlalu cepat menyodorkan solusi atau membuat fitur sebelum benar-benar memahami masalahnya</strong>. Permintaan awal dari rekan kerja atau pelanggan (seperti meminta dibuatkan “aplikasi baru”, “pemberitahuan SMS”, atau “sistem pencatatan otomatis”) sering kali bukanlah solusi terbaik. Kebutuhan nyata mereka mungkin hanyalah akses informasi yang lebih cepat, kejelasan pembagian tugas, atau pengurangan waktu tunggu.</p>
-<p>Lembar kerja ini dirancang untuk menuntun Anda melakukan <strong>Wawancara Penemuan Kebutuhan</strong> yang berempati, mendengarkan secara mendalam sebelum menjelaskan, serta merumuskan <strong>Pernyataan Masalah Pelanggan</strong> (<em>Customer Problem Statement</em>) secara presisi.</p>
-<hr>
-</section>
-<section id="fase-1-persiapan-wawancara-5-pertanyaan-penemuan" class="level2">
-<h2 class="anchored" data-anchor-id="fase-1-persiapan-wawancara-5-pertanyaan-penemuan">🛠️ FASE 1: PERSIAPAN &amp; WAWANCARA (5 PERTANYAAN PENEMUAN)</h2>
-<p>Sebelum melakukan wawancara selama 15–20 menit dengan narasumber (rekan kerja, mahasiswa, staf kampus, atau pemilik usaha mikro di sekitar Anda), pelajari <strong>5 Pertanyaan Penemuan</strong> berikut yang berfungsi sebagai kompas penelusuran Anda:</p>
-<ol type="1">
-<li><strong>Apa yang sedang terjadi?</strong> (Minta contoh peristiwa secara konkret, bukan penjelasan umum).</li>
-<li><strong>Mengapa hal itu menjadi masalah?</strong> (Temukan dampak nyata, beban, kerugian, atau hambatan emosionalnya).</li>
-<li><strong>Siapa yang terdampak?</strong> (Kenali pribadi dan peran spesifik mereka dalam sistem tersebut).</li>
-<li><strong>Keadaan yang lebih baik seperti apa?</strong> (Rumuskan hasil akhir yang diharapkan, bukan berupa fitur atau teknologi tertentu).</li>
-<li><strong>Apa kendalanya?</strong> (Periksa batas-batas nyata seperti waktu, biaya, kebijakan, kemampuan teknis, dan risiko).</li>
-</ol>
-<section id="repertoar-pertanyaan-profesional-tambahan" class="level3">
-<h3 class="anchored" data-anchor-id="repertoar-pertanyaan-profesional-tambahan">💡 Repertoar Pertanyaan Profesional Tambahan:</h3>
-<p>Jika narasumber mengalami kebuntuan selama wawancara, gunakan jenis pertanyaan berikut secara proporsional: * <strong>Pertanyaan Tertutup (Memastikan fakta):</strong> <em>“Apakah laporan ini dikirimkan setiap hari Senin?”</em> * <strong>Pertanyaan Klarifikasi (Memeriksa istilah):</strong> <em>“Apa yang Ibu maksud dengan sistem yang ‘siap digunakan’?”</em> * <strong>Pertanyaan Dampak (Memahami akibat):</strong> <em>“Siapa saja yang akan terhambat jika data ini terlambat Anda terima?”</em> * <strong>Pertanyaan Masa Depan (Merumuskan hasil):</strong> <em>“Jika masalah ini selesai, seperti apa alur kerja ideal yang Anda bayangkan?”</em></p>
-<p><em>⚠️ <strong>Pemberitahuan Etis &amp; Privasi:</strong> Pastikan Anda mendapatkan persetujuan lisan/tertulis dari narasumber, jelaskan bahwa data sensitif mereka akan dilindungi/disamarkan, dan wawancara bersifat sukarela.</em></p>
-<hr>
-</section>
-</section>
 <section id="fase-2-lembar-pengerjaan-mahasiswa" class="level2">
 <h2 class="anchored" data-anchor-id="fase-2-lembar-pengerjaan-mahasiswa">📝 FASE 2: LEMBAR PENGERJAAN MAHASISWA</h2>
 <section id="profil-narasumber-disamarkan-demi-privasi" class="level3">
 <h3 class="anchored" data-anchor-id="profil-narasumber-disamarkan-demi-privasi">👥 1. Profil Narasumber (Disamarkan Demi Privasi)</h3>
 <ul>
-<li><strong>Nama Samaran:</strong></li>
-<li><strong>Peran/Pekerjaan Nyata:</strong></li>
-<li><strong>Domain Hubungan:</strong> Rekan Kerja / Pelanggan / Rekan Mahasiswa <em>(Coret yang tidak perlu)</em></li>
-<li><strong>Konteks Lingkungan:</strong> <em>(Misal: Kantin Kampus, Kelompok Proyek Kelas, Administrasi Jurusan)</em></li>
+<li><strong>Nama Samaran:</strong> Teman A</li>
+<li><strong>Peran/Pekerjaan Nyata:</strong> Mahasiswa</li>
+<li><strong>Domain Hubungan:</strong> Rekan Mahasiswa</li>
+<li><strong>Konteks Lingkungan:</strong> Kelompok Proyek/Tugas Kelas</li>
 </ul>
 <hr>
 </section>
-<section id="log-catatan-wawancara-gunakan-5-pertanyaan-penemuan" class="level3">
-<h3 class="anchored" data-anchor-id="log-catatan-wawancara-gunakan-5-pertanyaan-penemuan">📓 2. Log Catatan Wawancara (Gunakan 5 Pertanyaan Penemuan)</h3>
+<section id="log-catatan-wawancara" class="level3">
+<h3 class="anchored" data-anchor-id="log-catatan-wawancara">📓 2. Log Catatan Wawancara</h3>
 <section id="pertanyaan-1-kejadian-nyata-contoh-konkret" class="level4">
 <h4 class="anchored" data-anchor-id="pertanyaan-1-kejadian-nyata-contoh-konkret"><strong>Pertanyaan 1: Kejadian Nyata &amp; Contoh Konkret</strong></h4>
-<ul>
-<li><em>Tuliskan pertanyaan Anda &amp; contoh kasus nyata yang diceritakan narasumber:</em> &gt;</li>
-</ul>
+<p><strong>Pertanyaan yang saya ajukan:</strong></p>
+<blockquote class="blockquote">
+<p>“Biasanya bagian mana yang paling sering membuat pengerjaan tugas kelompok jadi terhambat?”</p>
+</blockquote>
+<p><strong>Jawaban narasumber:</strong></p>
+<p>Narasumber menjelaskan bahwa masalah muncul ketika beberapa bagian tugas saling bergantung. Pembagian tugas antaranggota sebenarnya sudah dilakukan, tetapi beberapa pekerjaan tidak dapat langsung dilanjutkan karena masih menunggu hasil dari anggota lain.</p>
+<p>Sebagai contoh, ketika satu anggota belum menyelesaikan bagian yang dibutuhkan oleh anggota lain, anggota tersebut harus menunggu terlebih dahulu sebelum dapat melanjutkan pekerjaannya. Jadi, walaupun masing-masing anggota sudah mengetahui tugasnya, proses pengerjaan tetap dapat terhambat karena urutan pekerjaannya saling berkaitan.</p>
+<hr>
 </section>
 <section id="pertanyaan-2-dampak-nyata-beban-masalah" class="level4">
 <h4 class="anchored" data-anchor-id="pertanyaan-2-dampak-nyata-beban-masalah"><strong>Pertanyaan 2: Dampak Nyata &amp; Beban Masalah</strong></h4>
-<ul>
-<li><em>Tuliskan dampak langsung dari masalah tersebut terhadap pekerjaan, waktu, atau perasaan mereka:</em> &gt;</li>
-</ul>
+<p>Dampak yang paling terlihat adalah waktu pengerjaan menjadi lebih sempit. Anggota yang pekerjaannya bergantung pada bagian lain tidak dapat menggunakan waktunya secara penuh karena harus menunggu hasil pekerjaan sebelumnya.</p>
+<p>Ketika deadline semakin dekat, pekerjaan yang tertunda akhirnya menumpuk. Kondisi tersebut membuat beberapa anggota harus menyelesaikan pekerjaannya dalam waktu yang lebih singkat dan meningkatkan kebutuhan untuk saling memberi kabar mengenai perkembangan pekerjaan.</p>
+<p>Dengan kata lain, keterlambatan satu bagian tidak hanya berdampak pada anggota yang mengerjakannya, tetapi dapat membuat alur pengerjaan anggota lain ikut bergeser.</p>
+<hr>
 </section>
 <section id="pertanyaan-3-pemetaan-pihak-terdampak" class="level4">
 <h4 class="anchored" data-anchor-id="pertanyaan-3-pemetaan-pihak-terdampak"><strong>Pertanyaan 3: Pemetaan Pihak Terdampak</strong></h4>
-<ul>
-<li><em>Siapa saja pribadi dan peran yang ikut terganggu oleh peristiwa ini?</em> &gt;</li>
-</ul>
+<p>Pihak yang paling terdampak adalah anggota kelompok yang pekerjaannya membutuhkan hasil dari anggota lain.</p>
+<p>Anggota yang belum menyelesaikan bagian awal juga terdampak karena pekerjaannya menjadi semakin dekat dengan deadline. Selain itu, anggota lain yang menunggu hasil tersebut harus menyesuaikan waktu pengerjaannya.</p>
+<p>Pada akhirnya, seluruh kelompok dapat terkena dampaknya karena setiap bagian tidak berdiri sendiri. Keterlambatan pada satu bagian dapat menyebabkan keterlambatan pada bagian berikutnya.</p>
+<hr>
 </section>
 <section id="pertanyaan-4-gambaran-keadaan-yang-lebih-baik-hasil-akhir-bukan-fitur" class="level4">
 <h4 class="anchored" data-anchor-id="pertanyaan-4-gambaran-keadaan-yang-lebih-baik-hasil-akhir-bukan-fitur"><strong>Pertanyaan 4: Gambaran Keadaan yang Lebih Baik (Hasil Akhir, Bukan Fitur)</strong></h4>
-<ul>
-<li><em>Bagaimana situasi ideal yang diharapkan? Ingat: Fokus pada KEMAMPUAN narasumber, bukan teknologi digitalnya.</em> &gt;</li>
-</ul>
+<p>Keadaan yang lebih baik adalah ketika setiap anggota tidak hanya mengetahui bagian tugasnya sendiri, tetapi juga memahami bagian mana yang menjadi prasyarat bagi pekerjaan anggota lain.</p>
+<p>Dengan kondisi tersebut, anggota dapat mengetahui kapan mereka perlu menyelesaikan bagian tertentu dan kapan anggota lain membutuhkan hasil pekerjaannya. Tujuannya agar pekerjaan dapat berjalan lebih teratur dan waktu menunggu dapat dikurangi.</p>
+<p>Jadi, keadaan yang diharapkan bukan sekadar “tugas selesai”, tetapi setiap anggota dapat melanjutkan pekerjaannya tanpa terhambat karena informasi mengenai ketergantungan antarbagian tidak jelas.</p>
+<hr>
 </section>
 <section id="pertanyaan-5-batasan-kendala-lapangan" class="level4">
 <h4 class="anchored" data-anchor-id="pertanyaan-5-batasan-kendala-lapangan"><strong>Pertanyaan 5: Batasan &amp; Kendala Lapangan</strong></h4>
-<ul>
-<li><em>Apa saja kendala nyata dari segi waktu, biaya, kebijakan, atau kemampuan yang membatasi solusi mereka?</em> &gt;</li>
-</ul>
+<p>Kendala utama adalah adanya ketergantungan antarbagian tugas. Tidak semua pekerjaan dapat dilakukan secara bersamaan karena beberapa bagian membutuhkan hasil dari bagian lainnya.</p>
+<p>Selain itu, anggota kelompok memiliki jadwal kuliah dan kegiatan yang berbeda sehingga waktu pengerjaan setiap anggota tidak selalu sama. Deadline tugas juga sudah ditentukan sehingga keterlambatan pada satu bagian dapat mengurangi waktu yang tersedia untuk bagian berikutnya.</p>
+<p>Karena itu, masalah tidak dapat dilihat hanya dari apakah setiap anggota sudah mengerjakan bagiannya atau belum, tetapi juga dari bagaimana urutan dan ketergantungan antarbagian tersebut dikelola.</p>
 <hr>
 </section>
 </section>
 </section>
-<section id="fase-3-formulasi-pernyataan-masalah-pelanggan" class="level2">
-<h2 class="anchored" data-anchor-id="fase-3-formulasi-pernyataan-masalah-pelanggan">✒️ FASE 3: FORMULASI PERNYATAAN MASALAH PELANGGAN</h2>
-<p>Gunakan formula terstruktur dari buku ajar berikut untuk menyusun masalah narasumber Anda. <strong>Aturan utama: Pernyataan ini TIDAK BOLEH menyebutkan solusi teknis (seperti aplikasi, website, database, dll.)!</strong></p>
-<section id="formula-standar" class="level3">
-<h3 class="anchored" data-anchor-id="formula-standar">📐 Formula Standar:</h3>
-<blockquote class="blockquote">
-<p><strong><code>[Pribadi/Peran]</code> mengalami <code>[keadaan yang dapat diamati]</code> ketika <code>[konteks]</code>, sehingga <code>[dampak]</code>. Ia membutuhkan <code>[hasil/kemampuan]</code>, dengan mempertimbangkan <code>[kendala]</code>.</strong></p>
-</blockquote>
-<section id="contoh-model-buku-kasus-kantin-kampus" class="level4">
-<h4 class="anchored" data-anchor-id="contoh-model-buku-kasus-kantin-kampus">💡 Contoh Model Buku (Kasus Kantin Kampus):</h4>
-<p><em>Mahasiswa pengguna kantin mengalami antrean yang tidak dapat diperkirakan pada jam pergantian kuliah sehingga terlambat masuk kelas. Mereka membutuhkan cara mengetahui waktu tunggu dan mengambil pesanan lebih cepat, dengan mempertimbangkan kemampuan kasir, biaya pemilik, serta akses pengguna tanpa telepon pintar.</em></p>
-<hr>
 </section>
-</section>
+<section id="fase-3-formulasi-pernyataan-masalah-pelanggan" class="level1">
+<h1>✒️ FASE 3: FORMULASI PERNYATAAN MASALAH PELANGGAN</h1>
 <section id="draft-1-pernyataan-masalah-awal-sebelum-konfirmasi" class="level3">
 <h3 class="anchored" data-anchor-id="draft-1-pernyataan-masalah-awal-sebelum-konfirmasi">✍️ Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)</h3>
-<p><em>Susun draf pertama Anda setelah selesai mewawancarai narasumber:</em> &gt;</p>
+<blockquote class="blockquote">
+<p>Anggota kelompok mahasiswa mengalami hambatan dalam menyelesaikan tugas ketika beberapa bagian pekerjaan saling bergantung, sehingga anggota yang membutuhkan hasil pekerjaan anggota lain harus menunggu dan waktu pengerjaan menjadi semakin sempit ketika mendekati deadline. Mereka membutuhkan kejelasan mengenai hubungan antarbagian dan urutan pengerjaan agar dapat mengetahui kapan pekerjaan mereka dapat dilanjutkan, dengan mempertimbangkan perbedaan jadwal anggota dan deadline tugas yang tetap.</p>
+</blockquote>
+<hr>
 </section>
 <section id="draft-2-pernyataan-masalah-terkonfirmasi-setelah-konfirmasi" class="level3">
 <h3 class="anchored" data-anchor-id="draft-2-pernyataan-masalah-terkonfirmasi-setelah-konfirmasi">🔄 Draft 2: Pernyataan Masalah Terkonfirmasi (Setelah Konfirmasi)</h3>
-<p><em>Bacakan draf pertama Anda kepada narasumber, minta masukan mereka (“Apakah rumusan ini menggambarkan situasi Anda?”), dan tulis perbaikannya di bawah ini berdasarkan koreksi narasumber:</em> &gt;</p>
-<hr>
-</section>
-</section>
-<section id="fase-4-refleksi-intrapribadi" class="level2">
-<h2 class="anchored" data-anchor-id="fase-4-refleksi-intrapribadi">🎯 FASE 4: REFLEKSI INTRAPRIBADI</h2>
-<p>Tuliskan refleksi singkat Anda (100–150 kata) mengenai proses wawancara ini: 1. <em>Seberapa cepat Anda menahan ego untuk tidak langsung menawarkan solusi teknologi di awal percakapan?</em> 2. <em>Asumsi awal apa yang Anda miliki yang ternyata terbukti keliru atau berubah setelah mendengarkan penjelasan narasumber secara utuh?</em> 3. <em>Janji atau langkah kecil apa yang harus segera Anda tepati untuk menjaga kepercayaan profesional dengan narasumber ini?</em></p>
 <blockquote class="blockquote">
-<p><strong>Jurnal Refleksi:</strong></p>
+<p><strong>Anggota kelompok mahasiswa mengalami keterlambatan dalam melanjutkan pekerjaan ketika bagian yang mereka kerjakan bergantung pada hasil anggota lain yang belum selesai, sehingga waktu pengerjaan menjadi semakin sempit dan pekerjaan menumpuk mendekati deadline. Mereka membutuhkan kejelasan mengenai ketergantungan dan urutan antarbagian agar dapat mengetahui kapan pekerjaan dapat dilanjutkan, dengan mempertimbangkan jadwal anggota yang berbeda, keterkaitan antarbagian tugas, dan deadline yang tetap.</strong></p>
 </blockquote>
+</section>
+<section id="perubahan-dari-draft-1" class="level3">
+<h3 class="anchored" data-anchor-id="perubahan-dari-draft-1"><strong>Perubahan dari Draft 1</strong></h3>
+<p>Setelah melakukan wawancara, saya menyadari bahwa asumsi awal saya mengenai masalah kelompok kurang tepat. Awalnya saya mengira masalahnya adalah pembagian tugas yang tidak jelas.</p>
+<p>Namun, dari penjelasan narasumber, pembagian tugas sebenarnya sudah dilakukan dan anggota mengetahui tanggung jawab masing-masing. Masalah yang lebih spesifik adalah adanya <strong>ketergantungan antarbagian pekerjaan</strong>.</p>
+<p>Hal tersebut penting karena anggota dapat mengetahui tugasnya tetapi tetap tidak dapat mengerjakannya pada saat tertentu karena masih menunggu hasil dari bagian lain.</p>
+<p>Karena itu, pada Draft 2 saya mempersempit rumusan masalah dari masalah pembagian tugas menjadi masalah keterlambatan akibat ketergantungan antarbagian. Rumusan ini menurut saya lebih sesuai dengan kondisi yang benar-benar dialami narasumber.</p>
 <hr>
 </section>
-<section id="fase-5-rubrik-penilaian-mandiri-self-assessment" class="level2">
-<h2 class="anchored" data-anchor-id="fase-5-rubrik-penilaian-mandiri-self-assessment">📊 FASE 5: RUBRIK PENILAIAN MANDIRI (SELF-ASSESSMENT)</h2>
-<p>Evaluasi lembar kerja Anda secara jujur menggunakan kriteria rubrik Bab 5 berikut sebelum dikumpulkan ke dalam portofolio Anda.</p>
+</section>
+<section id="fase-4-refleksi-intrapribadi" class="level1">
+<h1>🎯 FASE 4: REFLEKSI INTRAPRIBADI</h1>
+<section id="jurnal-refleksi" class="level3">
+<h3 class="anchored" data-anchor-id="jurnal-refleksi"><strong>Jurnal Refleksi</strong></h3>
+<p>Dalam wawancara ini, saya menyadari bahwa asumsi awal saya cukup memengaruhi cara saya melihat masalah. Sebelum mendengarkan penjelasan narasumber, saya mengira masalahnya adalah pembagian tugas yang kurang jelas. Setelah ditelusuri, ternyata pembagian tugas sudah dilakukan dan masalah utamanya justru muncul karena beberapa bagian pekerjaan saling bergantung. Hal ini membuat saya belajar bahwa masalah yang terlihat dari luar belum tentu sama dengan masalah yang sebenarnya dialami seseorang. Saya juga menyadari bahwa saya cenderung ingin segera memikirkan solusi ketika menemukan masalah. Dalam latihan ini, saya mencoba menahan diri dan lebih fokus pada kejadian, dampak, pihak yang terdampak, serta kendala yang ada. Untuk menjaga kepercayaan dengan narasumber, saya perlu menyampaikan hasil pemahaman saya secara jelas dan tidak membuat janji mengenai solusi sebelum kebutuhan sebenarnya sudah dipahami.</p>
+<hr>
+</section>
+</section>
+<section id="fase-5-rubrik-penilaian-mandiri" class="level1">
+<h1>📊 FASE 5: RUBRIK PENILAIAN MANDIRI</h1>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
+<col style="width: 19%">
+<col style="width: 19%">
+<col style="width: 19%">
+<col style="width: 19%">
+<col style="width: 23%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -324,7 +343,7 @@ ul.task-list li input[type="checkbox"] {
 <th style="text-align: left;">⭐ Belum Tampak (Skor &lt; 60)</th>
 <th style="text-align: left;">⭐⭐ Mulai Berkembang (Skor 60-79)</th>
 <th style="text-align: left;">⭐⭐⭐ Cakap / Unggul (Skor 80-100)</th>
-<th style="text-align: left;">Skor Mandiri</th>
+<th style="text-align: center;">Skor Mandiri</th>
 </tr>
 </thead>
 <tbody>
@@ -333,31 +352,66 @@ ul.task-list li input[type="checkbox"] {
 <td style="text-align: left;">Langsung menyodorkan solusi tanpa menanyakan konteks atau mengonfirmasi masalah.</td>
 <td style="text-align: left;">Menangkap isi masalah secara umum, namun melompati kendala atau pihak yang terdampak.</td>
 <td style="text-align: left;">Menangkap konteks kejadian, dampak emosional/finansial, kebutuhan riil, serta kendala lapangan secara utuh.</td>
-<td style="text-align: left;"></td>
+<td style="text-align: center;"><strong>4</strong></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>Ketepatan Rumusan Masalah</strong></td>
-<td style="text-align: left;">Rumusan masalah masih berupa usulan solusi teknis (misal: “Memerlukan aplikasi database”).</td>
-<td style="text-align: left;">Berpusat pada masalah, namun bahasanya masih kabur atau belum dikonfirmasi ke narasumber.</td>
+<td style="text-align: left;">Rumusan masalah masih berupa usulan solusi teknis.</td>
+<td style="text-align: left;">Berpusat pada masalah, namun bahasanya masih kabur atau belum dikonfirmasi.</td>
 <td style="text-align: left;">Berpusat pada pribadi, menggunakan fakta teramati, terikat konteks yang jelas, bebas solusi, dan telah terkonfirmasi.</td>
-<td style="text-align: left;"></td>
+<td style="text-align: center;"><strong>4</strong></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>Etika &amp; Penjagaan Privasi</strong></td>
-<td style="text-align: left;">Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber.</td>
+<td style="text-align: left;">Data pribadi dikumpulkan berlebihan, tidak meminta izin, atau memaksa narasumber.</td>
 <td style="text-align: left;">Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif.</td>
-<td style="text-align: left;">Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati.</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber dihormati.</td>
+<td style="text-align: center;"><strong>3</strong></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>Keandalan &amp; Hubungan</strong></td>
-<td style="text-align: left;">Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber.</td>
-<td style="text-align: left;">Menyatakan batas secara umum namun tindak lanjutnya masih mengambang.</td>
-<td style="text-align: left;">Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya.</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Memberikan janji berlebihan atau kepastian palsu.</td>
+<td style="text-align: left;">Menyatakan batas secara umum namun tindak lanjut masih mengambang.</td>
+<td style="text-align: left;">Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut.</td>
+<td style="text-align: center;"><strong>4</strong></td>
 </tr>
 </tbody>
 </table>
+<section id="alasan-penilaian-mandiri" class="level3">
+<h3 class="anchored" data-anchor-id="alasan-penilaian-mandiri"><strong>Alasan Penilaian Mandiri</strong></h3>
+<p><strong>1. Kualitas Mendengarkan — Skor 4</strong></p>
+<p>Saya tidak berhenti pada masalah yang terlihat di awal. Saya mencoba memahami kejadian secara lebih spesifik, dampaknya terhadap anggota kelompok, pihak yang terdampak, keadaan yang diharapkan, serta kendala yang membuat masalah tersebut terjadi.</p>
+<p>Hasil wawancara juga membuat saya mengubah asumsi awal. Saya awalnya mengira masalahnya adalah pembagian tugas, tetapi setelah mendengarkan penjelasan narasumber, saya memahami bahwa pembagian tugas sebenarnya sudah dilakukan. Hambatan utamanya adalah ketergantungan antarbagian pekerjaan.</p>
+<p><strong>2. Ketepatan Rumusan Masalah — Skor 4</strong></p>
+<p>Rumusan masalah akhir berfokus pada pengalaman anggota kelompok dan kondisi yang dapat diamati. Rumusan tersebut tidak langsung menyebutkan aplikasi, website, database, atau solusi teknis lainnya.</p>
+<p>Saya juga memperbaiki rumusan setelah mendapatkan pemahaman yang lebih spesifik dari narasumber. Fokus akhirnya bukan pada “membuat sistem baru”, tetapi pada kondisi ketika seseorang tidak dapat melanjutkan pekerjaannya karena masih menunggu bagian lain.</p>
+<p><strong>3. Etika &amp; Penjagaan Privasi — Skor 3</strong></p>
+<p>Saya menyamarkan identitas narasumber dan hanya menggunakan informasi yang berkaitan dengan masalah tugas kelompok. Saya tidak mencantumkan informasi pribadi yang tidak diperlukan untuk tugas.</p>
+<p>Saya memberikan skor 3 karena saya sudah berusaha menjaga privasi, tetapi saya masih dapat memperbaiki prosesnya dengan lebih jelas meminta dan mencatat persetujuan narasumber sebelum menggunakan hasil wawancara sebagai artefak portofolio.</p>
+<p><strong>4. Keandalan &amp; Hubungan — Skor 4</strong></p>
+<p>Saya tidak menjanjikan bahwa masalah tersebut pasti dapat diselesaikan dengan suatu solusi. Saya lebih fokus memahami masalah sebelum menentukan tindakan selanjutnya.</p>
+<p>Saya juga berusaha menyampaikan hasil pemahaman berdasarkan apa yang benar-benar dijelaskan narasumber. Bagi saya, menjaga hubungan profesional berarti tidak memberikan janji yang belum dapat dipastikan dan tetap terbuka mengenai batas kemampuan saya.</p>
+<hr>
+</section>
+<section id="total-skor" class="level3">
+<h3 class="anchored" data-anchor-id="total-skor"><strong>Total Skor</strong></h3>
+<p><span class="math display">\[
+\text{Total Skor}
+=
+4+4+3+4
+=
+15/16
+\]</span></p>
+<p><span class="math display">\[
+\text{Nilai Akhir}
+=
+\frac{15}{16}\times100
+=
+93{,}75
+\]</span></p>
+<p><strong>Skor Mandiri: 15 / 16</strong></p>
+<p><strong>Nilai Konversi: 93,75 / 100</strong></p>
+<hr>
 <p><em>Simpan lembar kerja ini, catatan log wawancara, dan rekaman (jika ada izin) sebagai <strong>Artefak Portofolio Bab 5</strong> Anda.</em></p>
 
 
@@ -769,7 +823,7 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Portfolio KIPP-2 · Nama Mahasiswa</p>
+<p>Portfolio KIPP-2 · Aqila Zahra Athaya</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
