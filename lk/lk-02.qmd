@@ -23,21 +23,32 @@ Pilihlah satu peristiwa sulit, menantang, atau kurang menyenangkan yang baru-bar
 ### **1. Peristiwa yang Dapat Diamati (Fakta Objektif)**
 
 *Tuliskan apa yang benar-benar terjadi tanpa penilaian karakter, generalisasi (hindari kata "selalu" atau "pasti"), atau dugaan niat. Bayangkan apa yang terekam oleh kamera video \[13, 145\].* \> **Contoh Kurang Tepat:** *"Rekan kelompok saya malas dan sengaja mengabaikan tugas kelompok."*\
-\> **Contoh Tepat:** *"Dua tugas yang disepakati di WhatsApp grup belum dikirimkan oleh Rekan X hingga batas waktu tanggal 30 Agustus pukul 23.59."* \* **Tuliskan Fakta Anda di sini:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\> **Contoh Tepat:** *"Dua tugas yang disepakati di WhatsApp grup belum dikirimkan oleh Rekan X hingga batas waktu tanggal 30 Agustus pukul 23.59."* \* **Tuliskan Fakta Anda di sini:** 
+
+Saya mendapatkan nilai yang lebih rendah dari yang saya harapkan pada salah satu penilaian. Setelah mengetahui nilai tersebut, saya merasa sedih dan mulai merasa nervous ketika memikirkan presentasi yang harus saya hadapi.
 
 ### **2. Interpretasi Pertama (Asumsi Otomatis)**
 
-*Tuliskan pemikiran atau kesimpulan pertama yang langsung melompat di kepala Anda ketika peristiwa itu terjadi \[13, 145\].* \* **Tuliskan Interpretasi Pertama Anda di sini:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*Tuliskan pemikiran atau kesimpulan pertama yang langsung melompat di kepala Anda ketika peristiwa itu terjadi \[13, 145\].* \* **Tuliskan Interpretasi Pertama Anda di sini:** 
+
+Pikiran pertama saya adalah **"berarti saya memang kurang mampu dan tidak cukup bagus dalam memahami materi."** Saya juga berpikir bahwa karena hasil saya kurang baik, kemungkinan saya akan melakukan kesalahan lagi saat presentasi.
 
 ### **3. Emosi & Sensasi Tubuh**
 
-*Identifikasi emosi konkret yang Anda rasakan (marah, cemas, malu, kecewa, sedih) dan tandai intensitasnya dari skala 0–10. Catat juga reaksi fisik yang Anda rasakan (napas pendek, rahang menegang, dada sesak) \[13, 147\].* \* **Emosi yang Dirasakan (dan skala 0-10):** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Sensasi Tubuh yang Muncul:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*Identifikasi emosi konkret yang Anda rasakan (marah, cemas, malu, kecewa, sedih) dan tandai intensitasnya dari skala 0–10. Catat juga reaksi fisik yang Anda rasakan (napas pendek, rahang menegang, dada sesak) \[13, 147\].* \* **Emosi yang Dirasakan (dan skala 0-10):** 
+
+Sedih **8/10**, kecewa **8/10**, dan nervous/cemas **7/10**.
+
+\* **Sensasi Tubuh yang Muncul:** 
+
+Saya merasa tubuh lebih tegang dan sulit merasa tenang ketika memikirkan presentasi. Saya juga merasa lebih gugup ketika membayangkan harus menjelaskan materi di depan orang lain.
 
 ------------------------------------------------------------------------
 
 ## **Bagian 2: Membedah Tiga Narasi**
 
 Kini, mari kita bawa peristiwa di atas ke dalam tiga kacamata cerita batin yang berbeda untuk melihat bagaimana narasi tersebut mengarahkan pilihan hidup Anda \[13, 157\].
+
 
 ```         
 +---------------------------------------------------------------------------------+
@@ -50,17 +61,46 @@ Kini, mari kita bawa peristiwa di atas ke dalam tiga kacamata cerita batin yang 
 +---------------------------------------------------------------------------------+
 ```
 
+
 ### **Versi A: Narasi Korban (Victim Narrative)**
 
-*Tempatkan diri Anda sepenuhnya sebagai korban keadaan. Tuliskan narasi di mana semua kendali berada di luar diri Anda, orang lain sepenuhnya bersalah, dan Anda tidak memiliki pilihan selain pasrah, menyalahkan diri sendiri, atau membalas secara pasif \[13, 157\].* \* **Isi Narasi Korban Anda:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Pilihan Tindakan Otomatis (Reaktif) dari Narasi ini:** *(Contoh: mendiamkan balik, keluar grup proyek tanpa kabar, atau mengeluh di media sosial)* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*Tempatkan diri Anda sepenuhnya sebagai korban keadaan. Tuliskan narasi di mana semua kendali berada di luar diri Anda, orang lain sepenuhnya bersalah, dan Anda tidak memiliki pilihan selain pasrah, menyalahkan diri sendiri, atau membalas secara pasif \[13, 157\].* \* **Isi Narasi Korban Anda:** 
+
+Nilai yang saya dapatkan sudah kurang baik, jadi saya merasa saya memang tidak mampu memahami materi. Saya merasa hasil tersebut sudah menunjukkan bahwa saya kurang bagus dan saya takut presentasi berikutnya juga akan gagal. Karena sudah terlanjur mendapatkan hasil yang kurang baik, saya merasa tidak banyak yang bisa saya lakukan selain kecewa dan takut membuat kesalahan lagi.
+
+\* **Pilihan Tindakan Otomatis (Reaktif) dari Narasi ini:** *(Contoh: mendiamkan balik, keluar grup proyek tanpa kabar, atau mengeluh di media sosial)* 
+
+Saya cenderung **menyalahkan diri sendiri, menjadi kurang percaya diri, dan menghindari untuk terlalu aktif berbicara karena takut melakukan kesalahan**.
 
 ### **Versi B: Narasi Analitis (Analytical Narrative)**
 
-*Gunakan kacamata yang objektif dan rasional. Pisahkan dengan tegas antara fakta yang diketahui, hal-hal yang masih berupa dugaan (belum diketahui), serta faktor-faktor yang berada di bawah kendali Anda langsung \[13, 157, 158\].* \* **Apa fakta yang benar-benar telah terbukti?** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Apa penjelasan lain (alternatif asumsi) yang masuk akal namun belum saya periksa?** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Faktor apa dalam situasi ini yang berada di bawah kendali saya langsung?** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*Gunakan kacamata yang objektif dan rasional. Pisahkan dengan tegas antara fakta yang diketahui, hal-hal yang masih berupa dugaan (belum diketahui), serta faktor-faktor yang berada di bawah kendali Anda langsung \[13, 157, 158\].* \* **Apa fakta yang benar-benar telah terbukti?** 
+
+Fakta yang terbukti adalah saya mendapatkan nilai yang lebih rendah dari harapan saya. Saya merasa sedih dan nervous setelah mengetahui hasil tersebut. Namun, nilai tersebut belum membuktikan bahwa saya tidak mampu memahami materi secara keseluruhan dan belum membuktikan bahwa presentasi berikutnya akan gagal.
+
+\* **Apa penjelasan lain (alternatif asumsi) yang masuk akal namun belum saya periksa?** 
+
+Ada beberapa kemungkinan lain yang belum saya periksa:
+
+1. Cara belajar atau persiapan saya mungkin belum sesuai dengan bentuk penilaiannya.
+2. Ada bagian tertentu dari materi yang belum saya pahami dengan baik sehingga perlu dipelajari kembali.
+3. Satu hasil penilaian belum tentu menggambarkan kemampuan saya secara keseluruhan.
+
+\* **Faktor apa dalam situasi ini yang berada di bawah kendali saya langsung?** 
+
+Saya tidak dapat mengubah nilai yang sudah diberikan. Namun, saya masih dapat mengendalikan cara saya belajar, materi yang saya pelajari kembali, persiapan sebelum presentasi, latihan menjelaskan materi, dan cara saya merespons rasa nervous.
 
 ### **Versi C: Narasi Pertumbuhan (Growth Narrative)**
 
-*Gunakan kacamata belas kasih (*compassion*) dan pola pikir bertumbuh (*growth mindset*). Akui bahwa situasinya sulit dan emosi Anda valid, namun arahkan batin Anda untuk menemukan hikmah/pelajaran serta memilih tindakan yang selaras dengan nilai jangka panjang Anda \[13, 151, 157\].* \* **Isi Narasi Pertumbuhan Anda:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Pelajaran apa yang dapat saya ambil dari situasi ini?** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*Gunakan kacamata belas kasih (*compassion*) dan pola pikir bertumbuh (*growth mindset*). Akui bahwa situasinya sulit dan emosi Anda valid, namun arahkan batin Anda untuk menemukan hikmah/pelajaran serta memilih tindakan yang selaras dengan nilai jangka panjang Anda \[13, 151, 157\].* \* **Isi Narasi Pertumbuhan Anda:** 
+
+Saya memang merasa sedih dan kecewa karena mendapatkan nilai yang tidak sesuai dengan harapan. Saya juga merasa nervous ketika harus menghadapi presentasi. Perasaan tersebut tetap valid, tetapi saya tidak perlu menjadikan satu nilai sebagai kesimpulan bahwa saya tidak mampu.
+
+Saya masih bisa melihat apa yang kurang, memperbaiki cara belajar, dan mempersiapkan presentasi dengan lebih baik. Saya mungkin masih merasa nervous, tetapi saya tetap bisa memilih untuk mempersiapkan diri dan mencoba memberikan hasil yang lebih baik.
+
+\* **Pelajaran apa yang dapat saya ambil dari situasi ini?** 
+
+Saya belajar bahwa **nilai yang kurang baik tidak langsung berarti saya tidak mampu**. Saya perlu membedakan fakta dengan cerita yang muncul di kepala saya. Saya juga belajar bahwa ketika merasa nervous, saya tetap mempunyai pilihan untuk melakukan persiapan dan memperbaiki hal-hal yang masih berada dalam kendali saya.
 
 ------------------------------------------------------------------------
 
@@ -68,11 +108,19 @@ Kini, mari kita bawa peristiwa di atas ke dalam tiga kacamata cerita batin yang 
 
 ### **1. Pilihan Respons Terbaik**
 
-*Berdasarkan Narasi Pertumbuhan Anda, tuliskan tindakan kecil, konkret, dan asertif yang akan Anda lakukan sekarang untuk merespons situasi tersebut \[13, 157, 158\].* \* **Langkah nyata yang saya pilih:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*Berdasarkan Narasi Pertumbuhan Anda, tuliskan tindakan kecil, konkret, dan asertif yang akan Anda lakukan sekarang untuk merespons situasi tersebut \[13, 157, 158\].* \* **Langkah nyata yang saya pilih:** 
+
+Saya akan **mempelajari kembali bagian materi yang belum saya pahami dan berlatih menjelaskan materi sebelum presentasi**. Saya tidak memaksa diri untuk langsung menghilangkan rasa nervous, tetapi saya akan fokus pada persiapan yang masih bisa saya kendalikan.
+
+Sebelum presentasi, saya akan mencoba menjelaskan materi dengan bahasa saya sendiri agar lebih terbiasa dengan materi dan alur penjelasannya.
 
 ### **2. Dukungan yang Diperlukan**
 
-*Siapa orang tepercaya (teman, keluarga, dosen) yang dapat Anda mintai umpan balik jujur atau bantuan untuk mendampingi Anda menjalankan pilihan ini? \[13, 158\]* \* **Nama rekan/pendamping:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*Siapa orang tepercaya (teman, keluarga, dosen) yang dapat Anda mintai umpan balik jujur atau bantuan untuk mendampingi Anda menjalankan pilihan ini? \[13, 158\]* \* **Nama rekan/pendamping:** 
+
+**Teman satu kelompok.**
+
+Saya dapat meminta teman satu kelompok untuk mendengarkan penjelasan saya dan memberikan feedback apakah materi yang saya jelaskan sudah cukup jelas atau masih ada bagian yang perlu saya perbaiki.
 
 ------------------------------------------------------------------------
 
@@ -81,6 +129,21 @@ Kini, mari kita bawa peristiwa di atas ke dalam tiga kacamata cerita batin yang 
 Simpan lembar kerja ini ke dalam **Portofolio Komunikasi** Anda \[3, 134\]. Evaluasi kualitas pengerjaan Anda menggunakan kriteria berikut sebelum diserahkan kepada dosen \[13, 159\]:
 
 1.  **Pemisahan Fakta vs Cerita:** Apakah fakta yang Anda tulis di Bagian 1 benar-benar bebas dari asumsi, penilaian moral, dan dramatisasi? \[13, 159\]
+
+   **Evaluasi:** Ya. Saya menuliskan fakta berupa hasil penilaian dan memisahkannya dari pikiran bahwa saya tidak mampu.
+
 2.  **Kekayaan Alternatif:** Apakah Narasi Analitis Anda berhasil menawarkan minimal 2 alternatif penjelasan rasional yang berbeda dari interpretasi pertama Anda? \[13, 159\]
+
+   **Evaluasi:** Ya. Saya memberikan tiga alternatif penjelasan yang berbeda dari asumsi awal saya.
+
 3.  **Kematangan Emosional:** Apakah emosi Anda diakui secara jujur tanpa dikuasai sepenuhnya oleh reaksi impulsif batin? \[13, 159\]
+
+   **Evaluasi:** Ya. Saya mengakui rasa sedih, kecewa, dan nervous yang muncul, tetapi tidak menjadikan perasaan tersebut sebagai alasan untuk berhenti memperbaiki diri.
+
 4.  **Kepemilikan Tindakan:** Apakah tindakan akhir yang Anda pilih di Bagian 3 bersifat spesifik, realistis, dan berorientasi pada penyelesaian masalah, bukan sekadar menghindari ketidaknyamanan? \[13, 159\]
+
+   **Evaluasi:** Ya. Saya memilih untuk mempelajari kembali materi dan berlatih menjelaskan sebelum presentasi sehingga tindakan saya berfokus pada hal yang masih dapat saya kendalikan.
+
+**Evaluasi Mandiri: Self Score = 4**
+
+Saya menilai pekerjaan ini berada pada **Skor 4** karena saya sudah memisahkan fakta dan asumsi, memberikan lebih dari dua alternatif penjelasan, mengakui emosi yang muncul, serta menentukan tindakan yang konkret dan masih berada dalam kendali saya.

@@ -1,8 +1,8 @@
 ---
 title: "Five-Language Translation Portfolio"
 week: 4
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "4"
 assessor_score: "—"
 description: "Satu meaning untuk lima person atau character."
 categories: [Fondasi, Language]
@@ -22,4 +22,170 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 [Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Evidence
+
+### Situasi
+
+Saya menggunakan situasi saat mengerjakan tugas kelompok. Dalam tugas kelompok, setiap anggota biasanya mengerjakan bagian masing-masing sebelum akhirnya digabungkan menjadi satu tugas.
+
+Pada saat bagian saya sudah selesai, saya perlu memberi tahu orang lain bahwa bagian tersebut sudah selesai dan akan saya kirim. Walaupun informasi yang disampaikan sebenarnya sama, cara saya menyampaikannya tidak selalu sama kepada setiap orang.
+
+Dari situ saya mencoba melihat bagaimana satu meaning dapat disampaikan dengan language dan repertoire yang berbeda sesuai dengan siapa yang menerima pesan.
+
+### Core Meaning
+
+Meaning yang ingin saya sampaikan adalah:
+
+> "Bagian tugas saya sudah selesai dan akan saya kirim hari ini supaya bisa digabungkan dengan bagian lainnya."
+
+Saya menjaga tiga informasi utama:
+
+- bagian saya sudah selesai;
+- saya akan mengirimkannya hari ini;
+- bagian tersebut akan digunakan untuk proses selanjutnya.
+
+---
+
+## 1. Friend
+
+Kalau saya menyampaikan kepada teman dekat yang memang sering bekerja bersama saya, saya akan menggunakan bahasa yang lebih santai.
+
+**Pesan:**
+
+> "Bagian tugasku udah selesai. Nanti aku kirim hari ini ya, biar bisa langsung digabung sama yang lain."
+
+Saya tidak merasa perlu menggunakan bahasa yang terlalu formal karena hubungan kami sudah dekat dan konteks tugasnya juga sudah sama-sama diketahui.
+
+Repertoire yang saya gunakan lebih seperti chat sehari-hari. Saya menggunakan kata "udah", "nanti", dan "biar" karena terdengar lebih natural ketika berbicara dengan teman.
+
+---
+
+## 2. Technical Peer
+
+Situasinya berbeda ketika saya menyampaikan kepada teman yang mengerjakan bagian teknis dari tugas.
+
+Saya akan mengatakan:
+
+> "Bagian yang aku kerjakan sudah selesai. Aku kirim hari ini supaya bisa langsung diintegrasikan ke bagian yang kamu kerjakan."
+
+Di sini saya masih menggunakan gaya yang cukup santai karena tetap berbicara dengan teman, tetapi saya membuat pesannya lebih spesifik.
+
+Saya menggunakan kata "diintegrasikan" karena konteksnya adalah menggabungkan bagian pekerjaan saya dengan bagian teknis yang sedang dikerjakan teman tersebut.
+
+Jadi, saya tidak perlu menjelaskan terlalu banyak hal yang sebenarnya sudah dia pahami.
+
+---
+
+## 3. Manager
+
+Kalau penerimanya adalah orang yang berperan sebagai manager atau koordinator, saya akan mengubah cara penyampaiannya menjadi lebih formal.
+
+Saya akan mengatakan:
+
+> "Bagian yang menjadi tanggung jawab saya sudah selesai. Saya akan mengirimkannya hari ini agar bisa dilanjutkan ke tahap berikutnya."
+
+Saya memilih kata "menjadi tanggung jawab saya" karena ingin menunjukkan bahwa saya memahami bagian pekerjaan yang diberikan kepada saya.
+
+Saya juga tidak menggunakan gaya bahasa seperti "udah selesai" atau "biar bisa digabung" karena konteks komunikasinya lebih profesional.
+
+Repertoire-nya lebih seperti progress update, bukan percakapan santai.
+
+---
+
+## 4. Customer
+
+Untuk customer, saya akan lebih berhati-hati memilih kata karena customer tidak harus memahami proses internal kelompok saya.
+
+Saya akan mengatakan:
+
+> "Bagian yang kami kerjakan sudah selesai. Kami akan mengirimkannya hari ini agar proses selanjutnya dapat segera dilakukan."
+
+Saya tidak perlu menjelaskan siapa yang mengerjakan bagian tertentu atau bagaimana pembagian tugas di dalam kelompok.
+
+Informasi yang lebih penting bagi customer adalah status pekerjaan dan apa yang akan terjadi selanjutnya.
+
+Karena itu, bahasa yang saya gunakan lebih sederhana, profesional, dan berorientasi pada informasi yang dibutuhkan penerima.
+
+---
+
+## 5. Public
+
+Kalau pesan tersebut harus disampaikan kepada publik, saya akan menggunakan bahasa yang lebih umum karena saya tidak bisa mengasumsikan bahwa semua orang memahami konteks pekerjaan kami.
+
+Saya akan menyampaikan:
+
+> "Bagian pekerjaan kami telah selesai dan akan kami kirimkan hari ini agar proses berikutnya dapat segera dilanjutkan."
+
+Saya menggunakan bahasa yang lebih formal dan menghindari istilah internal.
+
+Misalnya, saya tidak akan mengatakan "bagian saya akan digabung dengan bagian anak-anak lain" karena orang di luar kelompok belum tentu memahami maksudnya.
+
+Pesannya dibuat sesederhana mungkin agar orang yang tidak mengetahui proses internal tetap bisa memahami informasi utamanya.
+
+---
+
+## Perbandingan Kelima Versi
+
+Walaupun cara saya berbicara berubah, saya tidak mengubah inti pesan.
+
+Pada teman, saya lebih santai.
+
+Pada technical peer, saya menggunakan istilah yang lebih sesuai dengan pekerjaan yang sedang dikerjakan.
+
+Pada manager, saya lebih formal dan menunjukkan tanggung jawab.
+
+Pada customer, saya lebih fokus pada informasi yang mereka butuhkan.
+
+Sedangkan pada public, saya menggunakan bahasa yang paling umum karena audiensnya lebih beragam.
+
+Menurut saya, bagian yang paling penting dari latihan ini adalah menyadari bahwa **mengubah language bukan berarti mengubah meaning**.
+
+Saya tetap mengatakan bahwa pekerjaan sudah selesai dan akan dikirim hari itu. Yang berubah hanya cara saya menyampaikan informasi tersebut.
+
+---
+
+## Feedback Understanding
+
+Setelah menyampaikan pesan kepada teman, saya memastikan kembali apakah maksud saya sudah jelas.
+
+Saya bertanya:
+
+> "Jadi bagian aku sudah selesai dan nanti aku kirim hari ini. Udah jelas ya?"
+
+Teman saya memahami bahwa bagian saya sudah selesai dan tinggal dikirim untuk digabungkan dengan bagian lainnya.
+
+Dari situ saya melihat bahwa pesan yang saya sampaikan tidak hanya terdengar benar bagi saya, tetapi juga dipahami oleh orang yang menerima.
+
+---
+
+## Reflection
+
+Dari latihan ini saya jadi lebih sadar bahwa saya sering menggunakan gaya komunikasi yang hampir sama ketika berbicara dengan orang yang berbeda.
+
+Padahal, cara berbicara dengan teman tentu berbeda dengan cara berbicara kepada orang yang memiliki tanggung jawab lebih besar atau kepada orang yang tidak mengetahui konteks pekerjaan kita.
+
+Saya juga belajar bahwa saya tidak perlu mengubah seluruh isi pesan hanya karena targetnya berbeda.
+
+Yang perlu saya lakukan adalah mempertahankan core meaning, kemudian menyesuaikan language dan repertoire supaya pesan tersebut lebih mudah diterima oleh target komunikasi.
+
+---
+
+## Prioritas Perbaikan
+
+Hal yang ingin saya perbaiki adalah membiasakan diri **memikirkan siapa penerima pesan sebelum berbicara atau mengirim pesan**.
+
+Saya ingin mencoba melakukan tiga hal:
+
+1. Menentukan siapa target komunikasi.
+2. Menentukan informasi apa yang paling mereka butuhkan.
+3. Menyesuaikan bahasa dan cara penyampaiannya.
+
+Dengan begitu, saya tidak hanya menyampaikan apa yang ingin saya katakan, tetapi juga memikirkan bagaimana pesan tersebut akan diterima oleh orang lain.
+
+---
+
+## Self-Assessment
+
+Saya menilai evidence ini pada **Level 4** karena saya menggunakan satu core meaning yang sama dan menunjukkan bagaimana language serta repertoire dapat berubah ketika target komunikasinya berbeda.
+
+Saya juga memberikan alasan untuk setiap perubahan dan menggunakan feedback dari target untuk memastikan bahwa meaning yang disampaikan tetap dipahami.

@@ -1,8 +1,8 @@
 ---
 title: "Character Map"
 week: 1
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "4"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
@@ -18,8 +18,80 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 - Objective, responsibility, repertoire, dan risiko tiap character.
 - Satu contoh perubahan language ketika character berubah.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Evidence
 
-{{< include ../includes/evidence-template.md >}}
+### Character Map
+
+| Domain | Character | Personality yang relevan | Objective | Responsibility | Repertoire | Risiko komunikasi | Relationship yang dijaga |
+|---|---|---|---|---|---|---|---|
+| Diri sendiri | Mahasiswa | Saya biasanya ingin tugas selesai dengan baik dan cukup sulit kalau merasa belum memahami materinya | Memahami materi dan menyelesaikan tugas dengan baik | Mengatur waktu, belajar, dan mengecek kembali apakah saya sudah paham | Membaca materi, mencatat, mencari contoh, bertanya, dan latihan | Kadang terlalu fokus supaya tugas cepat selesai sehingga kurang memperhatikan apakah saya benar-benar paham | Hubungan dengan diri sendiri dan proses belajar |
+| Keluarga | Anak | Saya lebih nyaman ngobrol dengan keluarga dengan cara yang santai | Tetap menjaga komunikasi dengan keluarga walaupun sedang sibuk | Memberi kabar, mendengarkan, dan merespons ketika diajak bicara | Mengobrol, bercerita, mendengarkan, dan menjelaskan keadaan | Kalau sedang banyak tugas, saya kadang menjawab terlalu singkat sehingga bisa terlihat seperti tidak memperhatikan | Kedekatan dan kepercayaan dengan keluarga |
+| Pertemanan | Teman | Saya cukup sering mencoba membantu ketika teman sedang punya masalah | Membantu teman sesuai dengan apa yang sebenarnya mereka butuhkan | Mendengarkan dulu sebelum memberikan pendapat | Bertanya, mendengarkan, berdiskusi, dan memberi pendapat | Saya kadang terlalu cepat memberikan solusi padahal teman mungkin hanya ingin didengarkan | Kepercayaan dan keterbukaan dalam pertemanan |
+| Akademik | Anggota kelompok | Saya lebih suka kalau pembagian tugas dan pekerjaan kelompok jelas | Menyelesaikan bagian saya sekaligus memastikan bagian tersebut bisa dipakai oleh anggota lain | Mengerjakan bagian sendiri, memberi update, dan berdiskusi jika ada masalah | Chat, diskusi, membagi tugas, memberi update, bertanya, dan menerima masukan | Kalau saya merasa bagian saya sudah selesai tetapi tidak memberi update, anggota lain bisa tidak tahu perkembangan pekerjaan saya | Kepercayaan dan kerja sama dalam kelompok |
+| Publik | Presenter mahasiswa | Saat presentasi saya biasanya lebih fokus pada isi materi dan takut ada bagian yang terlewat | Membuat orang lain memahami bagian yang saya jelaskan | Menjelaskan materi dengan jelas dan merespons pertanyaan | Presentasi, memberi contoh, menjelaskan dengan bahasa sederhana, dan menjawab pertanyaan | Karena terlalu fokus pada materi, saya kadang kurang memperhatikan apakah orang yang mendengarkan sudah paham atau belum | Kepercayaan pendengar terhadap apa yang saya sampaikan |
+
+### Analisis Person, Personality, dan Character
+
+Setelah mempelajari materi Week 1, saya mulai menyadari bahwa person, personality, dan character ternyata berbeda.
+
+**Person** menurut saya adalah diri seseorang secara keseluruhan. Jadi, saya tidak bisa langsung menyimpulkan seseorang hanya karena dia seorang mahasiswa, teman, atau anggota kelompok. Ada pengalaman dan kondisi lain yang juga memengaruhi cara seseorang bertindak.
+
+**Personality** lebih terlihat dari kecenderungan atau kebiasaan saya. Misalnya, saya cenderung ingin menyelesaikan tugas dengan baik dan kadang ingin menyelesaikan sesuatu sendiri terlebih dahulu sebelum meminta bantuan. Tetapi hal tersebut tidak berarti saya akan selalu bertindak dengan cara yang sama dalam semua situasi.
+
+Sedangkan **character** lebih berkaitan dengan peran yang sedang saya jalankan. Orangnya tetap saya, tetapi perannya bisa berbeda. Ketika belajar saya menjadi mahasiswa, ketika di rumah saya menjadi anak, ketika bersama teman saya menjadi teman, dan ketika mengerjakan tugas kelompok saya menjadi anggota kelompok.
+
+Dari sini saya memahami bahwa ketika character berubah, cara saya berkomunikasi juga bisa berubah. Objective, responsibility, repertoire, dan language yang digunakan tidak selalu sama karena situasinya juga berbeda.
+
+### Hubungan Objective, Repertoire, Language, Action, dan Relationship
+
+Sebelumnya saya sering langsung memikirkan apa yang mau saya katakan ketika berkomunikasi. Setelah mempelajari materi ini, saya mencoba melihat objective-nya terlebih dahulu.
+
+Contohnya ketika mengerjakan tugas kelompok. Kalau tujuan saya hanya menyelesaikan bagian saya, mungkin saya cukup mengerjakan tugas lalu mengirimkannya. Tetapi kalau objective saya adalah supaya tugas kelompok benar-benar selesai, saya juga perlu memastikan anggota lain tahu perkembangan bagian saya.
+
+Karena itu, saya perlu menggunakan repertoire seperti berdiskusi, memberi update, bertanya, dan menerima masukan.
+
+Misalnya saya bisa mengatakan:
+
+> "Bagian saya sudah selesai. Coba nanti kita cek lagi apakah bagian ini sudah nyambung sama yang kamu kerjakan."
+
+Menurut saya, kalimat tersebut lebih berguna daripada hanya mengatakan bahwa bagian saya sudah selesai. Ada action yang diharapkan setelahnya, yaitu mengecek kembali dan menyesuaikan pekerjaan jika masih ada yang kurang.
+
+Dari situ saya mulai melihat bahwa komunikasi bukan hanya tentang apakah pesan sudah dikirim. Respons orang lain, tindakan setelah komunikasi, dan hubungan yang tetap terjaga juga penting.
+
+### Perubahan Language
+
+Saya menemukan bahwa maksud yang sama bisa saya sampaikan dengan cara yang berbeda tergantung siapa yang saya ajak bicara.
+
+Misalnya saya ingin memastikan suatu bagian tugas sudah sesuai.
+
+Kalau berbicara dengan teman, saya mungkin mengatakan:
+
+> "Bagian ini udah selesai belum? Kalau belum, nanti kita bahas bareng."
+
+Tetapi kalau berbicara dengan dosen, saya akan menggunakan bahasa yang berbeda:
+
+> "Bu/Pak, saya ingin memastikan apakah bagian ini sudah sesuai dengan yang dimaksud. Jika masih ada yang kurang tepat, saya ingin memperbaikinya."
+
+Maksud dasarnya sama, yaitu memastikan sesuatu sudah sesuai dan membuka kesempatan untuk memperbaikinya. Tetapi cara menyampaikannya berbeda karena relationship dan character dalam situasinya berbeda.
+
+Dengan teman saya bisa menggunakan bahasa yang lebih santai karena sudah dekat. Sedangkan dengan dosen saya perlu menggunakan bahasa yang lebih formal dan sopan.
+
+Jadi, menurut saya menyesuaikan language bukan berarti menjadi orang yang berbeda. Saya tetap menyampaikan maksud yang sama, tetapi menyesuaikan cara menyampaikannya dengan situasi dan orang yang saya ajak bicara.
+
+### Refleksi
+
+Sebelum mempelajari Week 1, saya lebih sering menganggap komunikasi sebagai kegiatan menyampaikan pesan kepada orang lain. Yang penting bagi saya biasanya adalah pesan tersebut sudah disampaikan.
+
+Setelah mempelajari materi ini, saya mulai menyadari bahwa ternyata respons orang lain juga penting.
+
+Hal ini paling terasa ketika mengerjakan tugas kelompok. Saya bisa saja merasa bahwa bagian saya sudah selesai, tetapi kalau saya tidak memberi tahu anggota lain atau tidak menjelaskan bagian saya dengan cukup jelas, pekerjaan kelompok tetap bisa mengalami masalah.
+
+Saya juga baru lebih memperhatikan bahwa satu orang bisa memiliki beberapa character. Saya tetap menjadi orang yang sama, tetapi ketika menjadi mahasiswa, anak, teman, atau anggota kelompok, objective dan cara berkomunikasi saya bisa berbeda.
+
+### Prioritas Perbaikan
+
+Hal yang ingin saya perbaiki adalah **menentukan objective sebelum berkomunikasi**.
+
+Saya ingin membiasakan diri untuk berpikir sebentar sebelum mengirim pesan atau berbicara, terutama ketika sedang mengerjakan tugas kelompok. Saya ingin memastikan apakah saya sedang ingin memberikan informasi, meminta bantuan, mengajak diskusi, atau menyelesaikan masalah.
+
+Setelah itu, saya akan menyesuaikan cara bicara dengan character dan relationship yang sedang saya jalani. Saya juga ingin lebih memperhatikan respons orang lain supaya saya tidak hanya merasa komunikasi sudah berhasil karena pesan saya sudah disampaikan.

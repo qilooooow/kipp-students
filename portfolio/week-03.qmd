@@ -1,8 +1,8 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "4"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
@@ -22,4 +22,87 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 [Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Evidence
+
+### Konteks Percakapan
+
+Percakapan ini terjadi dengan seorang teman yang sedang merasa capek karena tugas kuliah. Teman saya bercerita bahwa tugas yang sedang dikerjakan cukup banyak dan dia merasa bingung harus mulai dari mana.
+
+Awalnya saya ingin langsung memberikan solusi, tetapi saya mencoba mendengarkan ceritanya terlebih dahulu supaya saya memahami masalahnya.
+
+### Transcript Percakapan
+
+**Teman:**  
+"Aku lagi capek banget. Tugas banyak dan aku bingung mau mulai dari mana."
+
+**Saya:**  
+"Yang paling bikin kamu bingung karena tugasnya banyak atau karena nggak tahu harus mulai dari tugas yang mana?"
+
+**Teman:**  
+"Lebih ke nggak tahu harus mulai dari mana. Semuanya kayak harus dikerjain."
+
+**Saya:**  
+"Berarti kamu sebenarnya tahu tugas-tugasnya apa, tapi bingung menentukan mana yang harus dikerjakan dulu?"
+
+**Teman:**  
+"Iya, kurang lebih begitu."
+
+**Saya:**  
+"Kalau gitu mungkin bisa dicoba urutin dari deadline yang paling dekat dulu. Kalau ada yang memang susah, bisa kita bahas bareng."
+
+### Evidence Listening
+
+Saya mencoba menunjukkan listening dengan tidak langsung memberikan solusi ketika teman pertama kali bercerita. Saya bertanya kembali untuk memastikan apa masalah sebenarnya.
+
+Ketika teman mengatakan bahwa tugasnya banyak, saya tidak langsung menganggap bahwa masalahnya adalah jumlah tugas. Saya bertanya apakah masalahnya karena terlalu banyak tugas atau karena bingung menentukan prioritas.
+
+Saya juga melakukan klarifikasi dengan mengulang inti yang saya pahami:
+
+> "Berarti kamu sebenarnya tahu tugas-tugasnya apa, tapi bingung menentukan mana yang harus dikerjakan dulu?"
+
+Dengan cara tersebut, saya bisa memastikan bahwa saya memahami masalah teman sebelum memberikan respons.
+
+### Evidence Response
+
+Setelah teman menjelaskan bahwa masalah utamanya adalah menentukan prioritas, saya baru memberikan tanggapan.
+
+Saya menyarankan untuk mengurutkan tugas berdasarkan deadline dan menawarkan bantuan jika ada tugas yang sulit.
+
+Saya merasa respons tersebut lebih sesuai daripada langsung mengatakan kepada teman apa yang harus dilakukan sejak awal, karena saya sudah mengetahui masalah yang sebenarnya.
+
+### Relationship Awareness
+
+Dalam percakapan tersebut, saya mencoba memperhatikan bahwa teman sedang merasa capek. Karena itu, saya tidak ingin membuat percakapan terasa seperti sedang menghakimi atau menyalahkan dia karena belum mengerjakan tugas.
+
+Tujuan saya bukan hanya menyelesaikan masalah tugas, tetapi juga membuat teman merasa bahwa ceritanya didengarkan.
+
+### Relationship State Sebelum dan Sesudah
+
+**Sebelum percakapan:**  
+Teman terlihat sedang capek dan bingung dengan tugas-tugasnya. Saya juga belum mengetahui masalah yang sebenarnya.
+
+**Selama percakapan:**  
+Saya mencoba mendengarkan, bertanya, dan melakukan klarifikasi sebelum memberikan solusi.
+
+**Sesudah percakapan:**  
+Masalah yang dibicarakan menjadi lebih jelas, yaitu kesulitan menentukan prioritas tugas. Saya juga menawarkan bantuan jika ada bagian yang sulit.
+
+Menurut saya, hubungan tetap terasa nyaman karena saya tidak langsung menghakimi atau memaksakan solusi.
+
+### Reflection
+
+Dari percakapan ini saya belajar bahwa mendengarkan bukan hanya diam ketika orang lain berbicara. Saya perlu benar-benar memahami apa yang sedang mereka maksud sebelum memberikan respons.
+
+Saya juga menyadari bahwa ketika seseorang sedang bercerita, belum tentu mereka langsung membutuhkan solusi. Kadang mereka perlu didengarkan dan dibantu menjelaskan masalahnya terlebih dahulu.
+
+Sebelumnya saya cenderung langsung memberikan saran ketika teman bercerita tentang masalah. Setelah mempelajari materi ini, saya mencoba menahan respons tersebut dan bertanya lebih dulu.
+
+### Prioritas Perbaikan
+
+Prioritas perbaikan saya adalah **lebih banyak melakukan klarifikasi sebelum memberikan solusi**.
+
+Pada percakapan berikutnya, saya akan mencoba mendengarkan sampai selesai, mengajukan pertanyaan untuk memastikan masalahnya, kemudian baru menentukan apakah teman membutuhkan saran, bantuan, atau hanya ingin didengarkan.
+
+### Self-Assessment
+
+Saya menilai evidence ini pada **Level 4** karena saya menunjukkan listening melalui pertanyaan dan klarifikasi, memberikan response setelah memahami masalah, serta menganalisis perubahan relationship sebelum, selama, dan setelah percakapan.

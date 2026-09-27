@@ -1,8 +1,8 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "4"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -22,4 +22,86 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 [Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Evidence
+
+### Episode Komunikasi dengan Diri Sendiri
+
+Kejadian yang saya pilih adalah ketika saya mendapatkan nilai yang kurang baik dan kemudian harus menghadapi presentasi. Setelah mengetahui nilai tersebut, saya merasa sedih dan menjadi nervous ketika memikirkan presentasi.
+
+### Event dan Fact
+
+**Event:**  
+Saya mendapatkan nilai yang kurang baik dan setelah itu harus mempersiapkan diri untuk presentasi.
+
+**Fact:**  
+Saya mendapatkan nilai yang kurang baik. Setelah mengetahui hasil tersebut, saya merasa sedih dan nervous ketika memikirkan presentasi.
+
+### Initial Story
+
+Reaksi pertama saya adalah menyalahkan diri sendiri. Saya merasa bahwa hasil yang kurang baik tersebut menunjukkan bahwa saya belum cukup mampu. Karena sudah merasa kecewa dengan nilai tersebut, saya juga menjadi takut kalau nanti melakukan kesalahan lagi saat presentasi.
+
+### Emotion
+
+Emosi yang saya rasakan adalah sedih dan nervous. Saya merasa kecewa dengan hasil yang saya dapatkan dan menjadi lebih takut ketika memikirkan presentasi.
+
+### Internal Character
+
+Pada situasi tersebut, saya melihat diri saya sebagai mahasiswa yang sedang kecewa dengan hasil yang didapat dan merasa kurang percaya diri ketika harus menghadapi presentasi.
+
+### Alternative Narratives
+
+Setelah mencoba melihat kejadian tersebut dari sudut pandang lain, saya menemukan beberapa kemungkinan cerita.
+
+**Alternative narrative 1:**  
+Nilai yang kurang baik tidak selalu berarti saya tidak mampu. Bisa saja ada bagian materi atau cara belajar saya yang masih perlu diperbaiki.
+
+**Alternative narrative 2:**  
+Presentasi berikutnya bisa menjadi kesempatan untuk memperbaiki diri. Saya memang masih nervous, tetapi saya tetap bisa mempersiapkan materi dan berlatih agar lebih siap.
+
+Dari dua cara pandang tersebut, saya mulai melihat bahwa satu hasil yang kurang baik tidak harus langsung saya jadikan kesimpulan tentang kemampuan diri saya.
+
+### Choice
+
+Saya memilih untuk tidak terus menyalahkan diri sendiri karena hasil tersebut. Saya tetap mengakui bahwa saya kecewa dan nervous, tetapi saya mencoba fokus pada hal yang masih bisa saya lakukan untuk menghadapi presentasi.
+
+### Internal Agreement
+
+Saya membuat kesepakatan dengan diri sendiri bahwa saya tidak harus langsung merasa percaya diri. Yang bisa saya lakukan adalah mempersiapkan diri sebaik mungkin dan tetap mencoba walaupun masih merasa nervous.
+
+Saya juga menyadari bahwa saya tidak bisa mengubah nilai yang sudah keluar, tetapi saya masih bisa menentukan apa yang saya lakukan setelah mendapatkan nilai tersebut.
+
+### Action
+
+Setelah itu, saya mempersiapkan presentasi dengan membaca kembali materi dan berlatih menjelaskan materi sebelum presentasi.
+
+Saya mencoba lebih fokus pada persiapan daripada terus memikirkan nilai yang sebelumnya kurang baik. Dengan begitu, rasa nervous yang awalnya membuat saya ingin menyalahkan diri sendiri bisa diarahkan menjadi alasan untuk lebih mempersiapkan diri.
+
+### Perubahan dari Reaction ke Response
+
+**Reaction:**  
+Mendapatkan nilai kurang baik → sedih → menyalahkan diri sendiri → semakin nervous menghadapi presentasi.
+
+**Response:**  
+Mendapatkan nilai kurang baik → menyadari rasa kecewa → memisahkan fakta dari pikiran tentang diri sendiri → mencari kemungkinan cara pandang lain → mempersiapkan dan berlatih untuk presentasi.
+
+Menurut saya, perbedaannya adalah pada bagian setelah emosi muncul. Saya tidak bisa langsung menghilangkan rasa sedih atau nervous, tetapi saya masih bisa memilih tindakan yang dilakukan setelahnya.
+
+### Reflection
+
+Dari kejadian ini saya menyadari bahwa reaksi pertama saya setelah mendapatkan nilai yang kurang baik adalah langsung menyalahkan diri sendiri. Saya kemudian membawa perasaan tersebut ketika memikirkan presentasi sehingga menjadi semakin nervous.
+
+Setelah memisahkan antara fact dan story, saya menyadari bahwa nilai yang kurang baik adalah fakta, sedangkan pikiran bahwa saya tidak mampu merupakan cerita yang muncul dari diri saya sendiri.
+
+Saya juga belajar bahwa satu kejadian bisa memiliki lebih dari satu cara untuk dilihat. Ketika saya mencoba membuat alternative narratives, saya menjadi lebih bisa melihat apa yang masih dapat saya lakukan daripada hanya fokus pada hasil yang sudah terjadi.
+
+Hal yang paling saya rasakan dari materi ini adalah saya tidak selalu bisa mengontrol emosi yang muncul, tetapi saya masih bisa memilih tindakan setelah emosi tersebut muncul.
+
+### Prioritas Perbaikan
+
+Prioritas perbaikan saya adalah **memisahkan fakta dari cerita yang langsung muncul di pikiran saya**.
+
+Ketika mengalami kejadian yang membuat saya kecewa, saya akan mencoba berhenti sebentar dan melihat apa yang benar-benar terjadi sebelum langsung menyimpulkan sesuatu tentang diri sendiri. Setelah itu, saya akan mencoba mencari minimal satu atau dua cara pandang lain dan menentukan tindakan yang masih bisa saya lakukan.
+
+### Self-Assessment
+
+Saya menilai evidence ini pada **Level 4** karena saya sudah menunjukkan perubahan dari reaction menuju response melalui satu episode yang konkret. Saya tidak hanya menjelaskan emosi yang muncul, tetapi juga memisahkan fact dan story, membuat dua alternative narratives, menentukan choice, membuat internal agreement, dan menunjukkan tindakan berikutnya berupa persiapan serta latihan presentasi.
