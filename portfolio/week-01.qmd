@@ -4,19 +4,21 @@ week: 1
 status: "Siap dinilai"
 self_score: "4"
 assessor_score: "—"
-description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
+description: "Evidence person, personality, character, objective, repertoire, language, action, adaptation, dan relationship."
 categories: [Fondasi, Person]
 ---
 
 ## Kompetensi target
 
-Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai dengan character, situasi, dan relationship.
 
 ## Evidence wajib
 
 - Lima character dari sedikitnya tiga domain kehidupan.
 - Objective, responsibility, repertoire, dan risiko tiap character.
-- Satu contoh perubahan language ketika character berubah.
+- Contoh perubahan language ketika character atau relationship berubah.
+- Evidence penerapan objective dan adaptation dalam interaksi nyata.
+- Evidence action dan perubahan relationship setelah komunikasi.
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
@@ -48,7 +50,9 @@ Dari sini saya memahami bahwa ketika character berubah, cara saya berkomunikasi 
 
 ### Episode yang Dianalisis
 
-**Konteks:** Saat mengerjakan tugas kelompok, saya pernah merasa bahwa bagian yang menjadi tanggung jawab saya sudah selesai. Awalnya saya berpikir bahwa setelah bagian saya selesai, saya tinggal mengirim hasilnya kepada anggota kelompok. Namun, setelah melihat pekerjaan kelompok secara keseluruhan, saya menyadari bahwa anggota lain juga perlu mengetahui perkembangan bagian saya supaya pekerjaan mereka bisa disesuaikan.
+**Konteks:** Saat mengerjakan tugas kelompok, saya pernah merasa bahwa bagian yang menjadi tanggung jawab saya sudah selesai. Awalnya saya berpikir bahwa setelah bagian saya selesai, saya tinggal mengirim hasilnya kepada anggota kelompok.
+
+Namun, setelah melihat pekerjaan kelompok secara keseluruhan, saya menyadari bahwa anggota lain juga perlu mengetahui perkembangan bagian saya supaya pekerjaan mereka bisa disesuaikan.
 
 **Objective awal:** Menyelesaikan bagian tugas yang menjadi tanggung jawab saya.
 
@@ -66,17 +70,93 @@ Kalimat tersebut tidak hanya memberi informasi bahwa pekerjaan saya sudah selesa
 
 **Action:** Setelah mendapat respons dari anggota lain, saya perlu mengecek kembali bagian yang berhubungan dengan pekerjaan mereka dan melakukan perubahan jika diperlukan.
 
-**Relationship:** Komunikasi tersebut juga membantu menjaga kerja sama karena anggota kelompok tidak perlu menebak perkembangan pekerjaan saya dan bisa langsung menyesuaikan bagian mereka.
+**Relationship:** Komunikasi tersebut membantu menjaga kerja sama karena anggota kelompok tidak perlu menebak perkembangan pekerjaan saya dan bisa langsung menyesuaikan bagian mereka.
 
 Dari situ saya memahami bahwa objective tidak selalu berhenti pada "bagian saya selesai". Dalam situasi kelompok, objective yang lebih besar adalah memastikan pekerjaan bersama dapat berjalan dengan baik.
+
+### Evidence Interaksi Nyata
+
+Untuk menguji apakah pemahaman tersebut benar-benar saya terapkan, saya menggunakan salah satu interaksi nyata ketika berkomunikasi dengan anggota kelompok mengenai tugas.
+
+Pada situasi tersebut, saya tidak hanya mengirim hasil pekerjaan saya, tetapi juga memberikan konteks mengenai status pekerjaan dan membuka ruang untuk pengecekan bersama.
+
+**Pesan yang saya kirim:**
+
+> "[MASUKKAN PESAN ASLI YANG BENAR-BENAR KAMU KIRIM DI SINI]"
+
+**Respons anggota kelompok:**
+
+> "[MASUKKAN RESPONS ASLI ANGGOTA KELOMPOK DI SINI]"
+
+Dari interaksi tersebut, saya dapat melihat bahwa objective saya bukan hanya menyampaikan bahwa pekerjaan telah selesai, tetapi memastikan pekerjaan tersebut dapat digunakan oleh anggota lain.
+
+### Analisis Adaptation
+
+Sebelum berkomunikasi, saya melakukan pause singkat untuk menentukan apa yang sebenarnya ingin saya capai.
+
+Saya mempertimbangkan tiga hal:
+
+1. **Siapa yang saya ajak bicara?** Anggota kelompok yang membutuhkan bagian pekerjaan saya.
+2. **Apa objective saya?** Bukan hanya mengirim hasil, tetapi memastikan bagian tersebut dapat digunakan dan terhubung dengan pekerjaan anggota lain.
+3. **Action apa yang saya harapkan?** Anggota kelompok mengetahui status pekerjaan dan dapat memberikan feedback jika terdapat bagian yang perlu diperbaiki.
+
+Karena objective tersebut, saya memilih untuk tidak hanya mengatakan:
+
+> "Bagian saya sudah selesai."
+
+Saya menambahkan ajakan untuk mengecek keterhubungan antarbagian.
+
+Hal ini menunjukkan bahwa saya mulai menggunakan objective untuk menentukan repertoire dan language yang saya gunakan.
+
+### Response dan Adaptation
+
+Setelah pesan dikirim, saya tidak menganggap komunikasi sudah selesai hanya karena pesan saya sudah terkirim.
+
+Saya memperhatikan respons anggota kelompok.
+
+Jika anggota kelompok memberikan feedback atau menunjukkan bahwa ada bagian yang belum sesuai, saya perlu menyesuaikan respons saya.
+
+**Respons anggota:**
+
+> "[MASUKKAN RESPONS ASLI DI SINI]"
+
+**Respons saya setelah menerima informasi tersebut:**
+
+> "[MASUKKAN RESPONS ASLI KAMU DI SINI]"
+
+Dari interaksi tersebut, saya dapat melihat apakah saya hanya menjalankan komunikasi satu arah atau benar-benar melakukan adaptation berdasarkan informasi baru.
+
+Jika terdapat bagian yang belum sesuai, saya melakukan perubahan pada pekerjaan saya dan mengirimkan kembali hasilnya.
+
+Dengan demikian, loop komunikasinya menjadi:
+
+**Objective → Communication → Response → Observe → Adapt → Action.**
+
+### Agreement, Action, dan Relationship
+
+Interaksi tersebut juga menunjukkan bahwa komunikasi menghasilkan action.
+
+Sebelum komunikasi, status pekerjaan anggota kelompok belum sepenuhnya tersambung dengan bagian saya.
+
+Setelah komunikasi, anggota kelompok mengetahui perkembangan bagian saya dan dapat memberikan feedback.
+
+Jika terdapat bagian yang perlu diperbaiki, saya melakukan perubahan berdasarkan feedback tersebut.
+
+Hal ini membuat agreement tidak hanya berupa "oke" atau persetujuan verbal, tetapi terlihat dari tindakan setelah komunikasi.
+
+Relationship juga tetap dijaga karena saya tidak menyampaikan pekerjaan dengan cara yang menyalahkan anggota lain. Saya menggunakan komunikasi sebagai koordinasi, bukan untuk menunjukkan bahwa bagian saya sudah selesai sementara masalah lainnya menjadi tanggung jawab anggota lain.
 
 ### Hubungan Objective, Repertoire, Language, Action, dan Relationship
 
 Sebelumnya saya sering langsung memikirkan apa yang mau saya katakan ketika berkomunikasi. Setelah mempelajari materi ini, saya mencoba melihat objective-nya terlebih dahulu.
 
-Contohnya pada tugas kelompok tadi. Kalau objective saya hanya menyelesaikan bagian sendiri, repertoire saya mungkin hanya mengerjakan tugas dan mengirimkannya. Tetapi kalau objective saya adalah membantu menyelesaikan tugas kelompok, repertoire saya menjadi lebih luas, seperti memberi update, berdiskusi, bertanya, dan menerima masukan.
+Contohnya pada tugas kelompok tadi. Kalau objective saya hanya menyelesaikan bagian sendiri, repertoire saya mungkin hanya mengerjakan tugas dan mengirimkannya.
 
-Menurut saya, perubahan objective tersebut juga memengaruhi language yang saya gunakan. Saya tidak hanya mengatakan:
+Tetapi kalau objective saya adalah membantu menyelesaikan tugas kelompok, repertoire saya menjadi lebih luas, seperti memberi update, berdiskusi, bertanya, dan menerima masukan.
+
+Menurut saya, perubahan objective tersebut juga memengaruhi language yang saya gunakan.
+
+Saya tidak hanya mengatakan:
 
 > "Bagian saya sudah selesai."
 
@@ -128,27 +208,81 @@ Hal yang saya pelajari adalah bahwa character tidak hanya menentukan apa yang sa
 
 Saya juga belajar bahwa komunikasi yang terlihat sederhana seperti memberi update sebenarnya bisa memengaruhi action orang lain dan kelancaran kerja sama kelompok.
 
+Yang paling penting, saya mulai membedakan antara **memahami strategi komunikasi secara konseptual** dan **benar-benar menerapkannya dalam interaksi**.
+
+Pada awalnya saya hanya dapat menjelaskan bahwa saya perlu berhenti sebentar sebelum berkomunikasi dan menyesuaikan bahasa. Setelah melakukan interaksi nyata, saya dapat melihat bahwa adaptation tidak berhenti pada pemilihan kata. Saya juga perlu memperhatikan respons orang lain dan mengubah tindakan saya jika informasi baru muncul.
+
+### What Went Well
+
+Beberapa hal yang menurut saya berjalan dengan baik:
+
+1. Saya dapat membedakan person, personality, dan character.
+2. Saya dapat memetakan lima character dalam beberapa domain kehidupan.
+3. Saya dapat menentukan objective dan responsibility yang berbeda untuk setiap character.
+4. Saya dapat menyesuaikan repertoire dan language berdasarkan relationship.
+5. Saya mulai melakukan pause sebelum berkomunikasi untuk menentukan objective dan action yang diharapkan.
+6. Saya tidak hanya mengirim pesan, tetapi memperhatikan respons orang lain.
+7. Saya dapat menyesuaikan respons ketika mendapatkan informasi baru.
+8. Saya memahami bahwa komunikasi perlu menghasilkan action dan tetap menjaga relationship.
+
+### What Could Be Improved
+
+Walaupun saya sudah mulai menerapkan konsep tersebut, saya masih perlu memperbaiki konsistensinya.
+
+Pertama, saya masih perlu membiasakan diri melakukan pause sebelum komunikasi, terutama ketika situasinya cepat atau ketika saya merasa sudah tahu apa yang harus dikatakan.
+
+Kedua, saya perlu lebih memperhatikan signal dari lawan bicara, bukan hanya isi pesan secara literal.
+
+Ketiga, saya perlu memastikan bahwa adaptation benar-benar terjadi ketika terdapat informasi baru. Saya tidak ingin hanya merasa bahwa saya sudah adaptif karena menggunakan bahasa yang berbeda.
+
+Keempat, saya perlu lebih sering melakukan check-back setelah komunikasi untuk memastikan bahwa action yang saya harapkan benar-benar dipahami oleh orang lain.
+
+### Prioritas Perbaikan
+
+Prioritas perbaikan saya adalah **membuat proses pause → observe → adapt menjadi kebiasaan dalam interaksi nyata**.
+
+Sebelum berkomunikasi, saya akan bertanya kepada diri sendiri:
+
+> "Apa objective saya?"
+
+> "Siapa yang sedang saya ajak berkomunikasi?"
+
+> "Action apa yang saya harapkan setelah komunikasi?"
+
+Setelah mengirim pesan atau berbicara, saya akan memperhatikan:
+
+> "Bagaimana respons orang tersebut?"
+
+Jika respons menunjukkan adanya informasi baru atau ketidaksesuaian, saya akan menyesuaikan respons dan action saya.
+
+Dengan demikian, saya ingin mengubah strategi yang sebelumnya hanya saya pahami secara konseptual menjadi kebiasaan yang benar-benar digunakan dalam interaksi.
+
+### Indikator Keberhasilan
+
+Pada interaksi berikutnya, saya akan menggunakan indikator berikut:
+
+- Ada evidence bahwa saya melakukan pause sebelum komunikasi.
+- Saya dapat menjelaskan objective sebelum berkomunikasi.
+- Saya menyesuaikan language dengan character dan relationship.
+- Saya memperhatikan respons lawan bicara.
+- Saya dapat menunjukkan minimal satu perubahan respons berdasarkan informasi baru.
+- Komunikasi menghasilkan action yang jelas.
+- Saya dapat menunjukkan bahwa relationship tetap terjaga setelah interaksi.
+
 ### Self-Assessment
 
 | Dimensi | Skor | Alasan |
 |---|---:|---|
 | Person & Character | 4 | Saya dapat membedakan person, personality, dan character serta memetakan lima character dari beberapa domain kehidupan. |
-| Objective & Responsibility | 4 | Saya dapat menentukan objective dan responsibility yang berbeda sesuai dengan character yang sedang dijalankan. |
-| Repertoire & Language | 4 | Saya dapat menunjukkan repertoire yang berbeda dan memberikan contoh perubahan language berdasarkan relationship. |
-| Action & Relationship | 3 | Saya sudah memahami bahwa komunikasi perlu menghasilkan action dan tetap menjaga relationship, tetapi saya masih perlu lebih konsisten menerapkannya dalam situasi nyata. |
+| Objective & State | 4 | Saya dapat menentukan objective dan responsibility yang berbeda sesuai dengan character serta mengidentifikasi perubahan objective ketika kebutuhan situasi berubah. |
+| Repertoire, Language & AI | 4 | Saya menggunakan repertoire yang berbeda dan dapat menyesuaikan language berdasarkan relationship dan character. |
+| Response & Adaptation | 4 | Saya tidak hanya merencanakan adaptation, tetapi mulai menerapkannya dengan memperhatikan respons lawan bicara dan menyesuaikan respons ketika memperoleh informasi baru. |
+| Agreement, Action & Relationship | 4 | Saya menghubungkan komunikasi dengan action yang diharapkan, melakukan koordinasi berdasarkan respons lawan bicara, dan menjaga relationship selama proses kerja sama. |
 
 **Self-score: 4**
 
-Saya memberikan skor tersebut karena saya sudah dapat menghubungkan person, personality, character, objective, repertoire, language, action, dan relationship dalam satu analisis. Namun, saya masih perlu lebih banyak latihan menggunakan konsep tersebut ketika menghadapi situasi komunikasi yang sebenarnya.
+Saya memberikan skor 4 karena saya sudah dapat menghubungkan person, personality, character, objective, repertoire, language, response, action, dan relationship.
 
-### Prioritas Perbaikan
+Perkembangan utama saya dari latihan ini adalah saya tidak lagi hanya memahami konsep adaptation secara teoritis. Saya mulai menerapkannya dalam interaksi nyata dengan memperhatikan objective sebelum komunikasi, respons lawan bicara setelah komunikasi, dan perubahan action ketika mendapatkan informasi baru.
 
-Hal yang ingin saya perbaiki adalah **menentukan objective sebelum berkomunikasi**.
-
-Saya ingin membiasakan diri untuk berpikir sebentar sebelum mengirim pesan atau berbicara, terutama ketika sedang mengerjakan tugas kelompok. Saya ingin memastikan apakah saya sedang ingin memberikan informasi, meminta bantuan, mengajak diskusi, atau menyelesaikan masalah.
-
-Setelah itu, saya akan menyesuaikan cara bicara dengan character dan relationship yang sedang saya jalani. Saya juga ingin lebih memperhatikan respons orang lain supaya saya tidak hanya merasa komunikasi sudah berhasil karena pesan saya sudah disampaikan.
-
-Target saya untuk latihan berikutnya adalah membiasakan diri untuk berhenti sebentar sebelum berkomunikasi dan menanyakan kepada diri sendiri:
-
-> "Apa objective saya, siapa yang sedang saya ajak berkomunikasi, dan action apa yang saya harapkan setelah komunikasi ini?"
+Namun, saya masih perlu melatih konsistensi proses tersebut agar pause, observe, dan adapt menjadi kebiasaan dalam berbagai situasi komunikasi.
