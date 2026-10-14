@@ -1,6 +1,6 @@
 ## Konteks performance
 
-**Tanggal dan setting:** Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+**Tanggal dan setting:** 14 Oktober 2026 merupakan tanggal pelaksanaan UTS yang tercantum pada identitas laporan. Tempat, waktu spesifik, dan bentuk kegiatan perlu dilengkapi sesuai catatan pelaksanaan yang sebenarnya.
 
 **Persons dan relationship:** Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
 
@@ -16,12 +16,12 @@ Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti
 
 | Elemen | Evidence dan analisis |
 |---|---|
-| Person & character | Ganti dengan analisis Anda. |
-| Objective & state | Ganti dengan analisis Anda. |
-| Repertoire & language | Ganti dengan analisis Anda. |
-| Response & adaptation | Ganti dengan analisis Anda. |
-| Agreement/action | Ganti dengan analisis Anda. |
-| Relationship outcome | Ganti dengan analisis Anda. |
+| Person & character | Refleksi menekankan tanggung jawab, penghargaan terhadap perspektif orang lain, dan pentingnya menghindari asumsi sebelum melakukan klarifikasi. Bukti performa langsung tetap perlu dilampirkan jika tersedia. |
+| Objective & state | Tujuan komunikasi perlu dibedakan, misalnya untuk memahami masalah, menyampaikan pendapat, membagi tanggung jawab, atau mencapai kesepakatan. Kondisi interaksi perlu dipertimbangkan sebelum memilih strategi. |
+| Repertoire & language | Strategi yang dibahas meliputi active listening, pertanyaan klarifikasi, parafrasa, penyampaian ketidaksetujuan secara konstruktif, dan konfirmasi kesepakatan. Penerapan aktual harus dicocokkan dengan evidence yang tersedia. |
+| Response & adaptation | Refleksi menyoroti perlunya memeriksa pemahaman, memperjelas pesan, dan menyesuaikan pendekatan ketika terjadi kesalahpahaman. Klaim tentang keberhasilan adaptasi perlu didukung catatan atau observasi aktual. |
+| Agreement/action | Kesepakatan yang efektif perlu memperjelas pembagian tanggung jawab, tindakan berikutnya, dan tindak lanjut yang dapat diperiksa. |
+| Relationship outcome | Komunikasi perlu menjaga penghargaan terhadap pihak lain sekaligus mendukung penyelesaian tujuan. Dampak nyata terhadap hubungan tidak boleh diklaim tanpa evidence yang memadai. |
 
 ## Penggunaan AI
 
@@ -35,7 +35,7 @@ Nyatakan `Tidak menggunakan AI` atau jelaskan:
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** Ganti dengan kutipan atau ringkasan berbasis evidence.
+**Feedback yang diterima:** Belum dicantumkan karena kutipan atau catatan feedback aktual belum tersedia pada bagian ini. Tambahkan feedback yang benar-benar diterima beserta konteksnya apabila tersedia.
 
 **Adaptation/replay:** Jelaskan apa yang Anda ubah dan response setelah perubahan.
 
