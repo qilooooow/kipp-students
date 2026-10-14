@@ -57,7 +57,7 @@ Evidence tersebut digunakan untuk menghubungkan kompetensi target dengan pelaksa
 [Buka contoh fiktif Minggu 8](../examples/week-08.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+{{< include ../includes/evidence-template-week08.md >}}
 
 ## Tujuan Portfolio
 
