@@ -216,10 +216,54 @@ Pengetahuan teoretis akan lebih bermakna apabila dihubungkan dengan penerapan ko
 
 Tabel ini merupakan rencana pengembangan yang dapat digunakan untuk meninjau kemajuan secara berkala. Indikator berfungsi sebagai acuan evaluasi, bukan pernyataan bahwa kemampuan tersebut telah sepenuhnya dikuasai.
 
-## 6. Kesimpulan Asesmen Pribadi
+## 6. Self-Assessment
 
-Pembelajaran komunikasi interpersonal memberikan kerangka untuk memahami pentingnya kesadaran diri, validasi persepsi, keterampilan menyampaikan pesan, dan evaluasi dampak interaksi. Saya perlu terus mengembangkan kemampuan untuk bersikap tegas tanpa mengabaikan kepedulian serta mempertahankan keterbukaan terhadap perspektif yang berbeda.
+| Dimensi | Skor | Evidence |
+|---|---:|---|
+| **Person & Character** | **4** | Saya berusaha memahami karakteristik, perspektif, kebutuhan, dan konteks hubungan dengan pihak yang terlibat dalam komunikasi. Saya menyadari bahwa persepsi awal tidak selalu menggambarkan kondisi yang sebenarnya sehingga diperlukan klarifikasi sebelum menarik kesimpulan. |
+| **Objective & State** | **4** | Saya memahami pentingnya menentukan tujuan komunikasi dan mengenali kondisi awal sebelum memilih strategi. Dalam refleksi lintas sesi, saya membedakan kebutuhan untuk menyampaikan pesan, memahami masalah, mencapai kesepakatan, dan menjaga hubungan. |
+| **Repertoire, Language & AI** | **4** | Saya mengidentifikasi berbagai strategi komunikasi yang relevan, seperti active listening, clarifying question, paraphrase, penyampaian ketidaksetujuan secara konstruktif, dan konfirmasi kesepakatan. Saya juga memahami bahwa penggunaan AI perlu dilakukan secara kritis dan transparan, tanpa menggantikan pengalaman pribadi maupun evidence aktual. |
+| **Response & Adaptation** | **4** | Saya memahami bahwa respons perlu disesuaikan dengan informasi dan tanggapan yang diperoleh selama komunikasi. Apabila strategi awal belum menghasilkan pemahaman yang diharapkan, saya perlu melakukan klarifikasi, memperbaiki penyampaian pesan, dan mengevaluasi efektivitas pendekatan tersebut. |
+| **Agreement, Action & Relationship** | **4** | Saya memahami pentingnya memperjelas kesepakatan, pembagian tanggung jawab, tindakan lanjutan, dan dampak komunikasi terhadap hubungan. Saya juga menyadari bahwa pencapaian tujuan perlu diseimbangkan dengan penghargaan terhadap perspektif, pilihan, dan tanggung jawab pihak lain. |
 
-Portfolio ini mengorganisasi dokumen dan merangkum pembelajaran lintas sesi. Refleksi tertulis menjadi sarana untuk mengevaluasi pemahaman dan merumuskan pengembangan diri, sedangkan penilaian terhadap perubahan performa perlu didukung oleh evidence yang relevan.
+### Total Self-Assessment: **20/20 — Kompeten**
 
-Dengan mengintegrasikan pengenalan orang dan keadaan, pemilihan repertoar, penggunaan bahasa, pemberian respons, serta adaptasi, saya dapat menjadikan pembelajaran sebagai dasar untuk mengembangkan komunikasi interpersonal yang lebih sadar, jelas, adaptif, dan bertanggung jawab.
+## Alasan Self-Assessment
+
+Saya mengusulkan skor 4 pada setiap dimensi karena kelima aspek tersebut telah menjadi fokus pembahasan dan refleksi dalam portfolio. Penetapan skor akhir tetap perlu disesuaikan dengan rubrik penilaian serta evidence yang benar-benar tersedia. Pemahaman konseptual dan refleksi tertulis menjadi dasar evaluasi diri, tetapi tidak dengan sendirinya membuktikan bahwa seluruh kompetensi telah ditunjukkan melalui performa langsung.
+
+### Person & Character — 4
+
+Saya memahami pentingnya mengenali perspektif, kebutuhan, karakteristik, dan konteks hubungan sebelum menentukan cara berkomunikasi. Saya juga menyadari bahwa kedekatan hubungan tidak selalu menjamin kesamaan persepsi. Oleh karena itu, saya perlu menghindari asumsi yang berlebihan dan memberikan ruang bagi pihak lain untuk menjelaskan sudut pandangnya.
+
+### Objective & State — 4
+
+Saya memahami bahwa komunikasi yang efektif perlu dimulai dengan tujuan yang jelas dan pengenalan terhadap keadaan awal. Tujuan komunikasi perlu dibedakan berdasarkan kebutuhan situasi, seperti memperoleh pemahaman, menyelesaikan masalah, membagi tanggung jawab, atau menjaga hubungan. Saya juga menyadari bahwa perubahan kondisi komunikasi harus dievaluasi berdasarkan informasi dan hasil yang dapat diamati.
+
+### Repertoire, Language & AI — 4
+
+Saya memahami bahwa strategi komunikasi perlu dipilih berdasarkan tujuan, situasi, dan hubungan dengan pihak lain. Strategi yang relevan mencakup mendengarkan secara aktif, mengajukan pertanyaan klarifikasi, memparafrasakan pesan, menyampaikan ketidaksetujuan secara konstruktif, dan mengonfirmasi kesepakatan. Saya juga memahami bahwa AI dapat membantu penyusunan dan peninjauan tulisan, tetapi hasilnya harus diperiksa agar tetap sesuai dengan pengalaman, instruksi akademik, dan bukti yang tersedia.
+
+### Response & Adaptation — 4
+
+Saya memahami bahwa respons yang efektif tidak hanya bergantung pada rencana awal, tetapi juga pada kemampuan memperhatikan informasi baru dan menyesuaikan pendekatan. Jika terjadi kesalahpahaman, saya perlu memeriksa kembali pemahaman, memperjelas pesan, dan mempertimbangkan respons pihak lain sebelum menentukan tindakan berikutnya. Evaluasi terhadap adaptasi harus didasarkan pada tindakan yang benar-benar dilakukan, bukan hanya pada strategi yang direncanakan.
+
+### Agreement, Action & Relationship — 4
+
+Saya memahami pentingnya mengubah hasil komunikasi menjadi kesepakatan dan tindakan yang jelas. Kesepakatan perlu mencakup tanggung jawab, langkah lanjutan, serta konfirmasi pemahaman antarpihak. Selain itu, penyelesaian masalah perlu dilakukan dengan tetap menghargai hubungan, menjaga komunikasi yang tidak menghakimi, dan tidak mengambil alih tanggung jawab pihak lain.
+
+### Kesimpulan Asesmen Pribadi 
+
+Portfolio ini menekankan rangkaian kompetensi komunikasi berikut:
+
+**Understand Person → Recognize State → Set Objective → Select Repertoire → Adapt Language and Response → Establish Agreement → Take Action → Evaluate Relationship Outcome**
+
+Rangkaian tersebut menggambarkan kerangka evaluasi komunikasi interpersonal yang digunakan dalam refleksi lintas sesi. Pelaksanaannya perlu dinilai melalui bukti yang relevan agar dapat dibedakan antara pemahaman teori, rencana tindakan, dan performa aktual.
+
+Pembelajaran komunikasi interpersonal memberikan kerangka untuk memahami pentingnya kesadaran diri, validasi persepsi, keterampilan menyampaikan pesan, serta evaluasi dampak interaksi. Saya perlu terus mengembangkan kemampuan untuk bersikap tegas tanpa mengabaikan kepedulian, sekaligus mempertahankan keterbukaan terhadap perspektif yang berbeda.
+
+Outcome yang diharapkan adalah meningkatnya kemampuan memahami konteks komunikasi, memilih respons yang sesuai, mencapai kesepakatan yang jelas, serta menjaga hubungan secara konstruktif. Dengan mengintegrasikan pengenalan orang dan keadaan, pemilihan repertoar, penggunaan bahasa, pemberian respons, serta adaptasi, saya dapat menjadikan pembelajaran sebagai dasar untuk mengembangkan komunikasi interpersonal yang lebih sadar, jelas, adaptif, dan bertanggung jawab.
+
+Portfolio ini mengorganisasi dokumen dan merangkum pembelajaran lintas sesi. Refleksi tertulis menjadi sarana untuk mengevaluasi pemahaman dan merumuskan pengembangan diri, sedangkan penilaian terhadap perubahan performa perlu didukung oleh evidence yang relevan, seperti catatan, feedback, observasi, atau dokumentasi lain yang tersedia. Klaim mengenai perubahan atau keberhasilan aktual harus sesuai dengan bukti yang benar-benar dimiliki.
+
+**Total Self-Assessment: 20/20 — Usulan penilaian diri, menunggu pencocokan dengan rubrik dan evidence aktual.**
