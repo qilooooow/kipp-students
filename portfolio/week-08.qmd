@@ -1,25 +1,225 @@
 ---
 title: "UTS Performance Evidence Package"
 week: 8
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "4"
 assessor_score: "—"
 description: "Integrated performance Target–Attention–Interest."
 categories: [Assessment, UTS]
+subtitle: "Komunikasi Interpersonal, Refleksi Lintas Sesi, dan Asesmen Pribadi"
+author: "Aqila Zahra Athaya"
+date: "14 Oktober 2026"
+lang: id
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    theme: cosmo
+    smooth-scroll: true
+    code-fold: true
 ---
+
+## Identitas dan Status Paket
+
+Portfolio ini disusun untuk mendokumentasikan paket UTS Performance Evidence Package Minggu 8 sekaligus mengorganisasi makalah Pra-UTS dan lima laporan sesi UTS dalam satu halaman yang mudah diakses. Selain berfungsi sebagai indeks dokumen, halaman ini menyajikan refleksi lintas sesi, evaluasi pribadi, serta rencana pengembangan kemampuan komunikasi interpersonal.
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Aqila Zahra Athaya |
+| NIM | 18225077 |
+| Kelas | K-01 |
+| Tanggal penyusunan | 15 Oktober 2026 |
+| Mata kuliah | KIPP |
+| Minggu | 8 |
+| Jenis paket | UTS Performance Evidence Package |
+| Kompetensi utama | Integrated performance Target–Attention–Interest |
+| Cakupan dokumen | Makalah Pra-UTS dan lima laporan sesi UTS |
+| Fungsi portfolio | Indeks dokumen, refleksi lintas sesi, dan asesmen pribadi |
 
 ## Kompetensi target
 
-Mengintegrasikan person recognition, state recognition, repertoire, language, response, dan adaptation.
+Mengintegrasikan *person recognition*, *state recognition*, *repertoire*, *language*, *response*, dan *adaptation* dalam performa komunikasi interpersonal yang mempertimbangkan konteks, tujuan, keadaan lawan bicara, respons, dan hasil interaksi.
+
+Kompetensi tersebut mencakup kemampuan mengenali orang dan keadaan secara tepat, memilih repertoar komunikasi yang sesuai, menggunakan bahasa yang jelas, memberikan respons yang relevan, serta menyesuaikan strategi berdasarkan situasi dan umpan balik.
 
 ## Evidence wajib
+
+Evidence yang menjadi bagian dari paket UTS Minggu 8 meliputi:
 
 - Performance card dan initial state.
 - Rekaman/transcript serta observer sheet.
 - Feedback, replay, evidence improvement, dan reflection.
+
+Evidence tersebut digunakan untuk menghubungkan kompetensi target dengan pelaksanaan, pengamatan, evaluasi, dan perbaikan performa komunikasi. Analisis perlu membedakan rencana, tindakan yang benar-benar dilakukan, respons yang diamati, dan hasil yang didukung oleh bukti.
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 8](../examples/week-08.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
 {{< include ../includes/evidence-template.md >}}
+
+## Tujuan Portfolio
+
+Portfolio ini memiliki beberapa tujuan utama:
+
+1. Mengorganisasi makalah Pra-UTS dan lima laporan sesi UTS dalam satu halaman terstruktur.
+2. Memperlihatkan keterkaitan antara konsep komunikasi interpersonal dan analisis kasus.
+3. Mengidentifikasi pembelajaran yang dapat ditarik dari rangkaian tugas.
+4. Mengevaluasi aspek persepsi, sikap, keterampilan, dan pengetahuan dalam komunikasi.
+5. Merumuskan rencana pengembangan diri yang dapat diterapkan dan dievaluasi.
+6. Menghubungkan refleksi lintas sesi dengan kompetensi target dan evidence performa komunikasi.
+
+Portfolio ini tidak menggantikan dokumen individual. Jawaban tugas, analisis kasus, transkrip, dan bukti spesifik tetap merujuk pada makalah dan laporan masing-masing.
+
+## Makalah dan Lima Laporan
+
+Bagian ini menjadi navigasi utama untuk membuka dokumen pendukung portfolio.
+
+| Tahap | Dokumen | Fokus | Tautan |
+|---|---|---|---|
+| Pra-UTS | Makalah Pra-UTS | Kajian dan refleksi berdasarkan instruksi makalah | [Buka makalah](UTS/paper.qmd) |
+| Sesi 1 | Laporan Sesi 1 | Refleksi dan analisis kasus sesi pertama | [Buka laporan](UTS/hasil_1_18225077.qmd) |
+| Sesi 2a | Laporan Sesi 2a | Komunikasi dengan teman dekat dan pembagian tanggung jawab | [Buka laporan](UTS/hasil_2a_18225077.qmd) |
+| Sesi 2b | Laporan Sesi 2b | Analisis komunikasi dan respons interpersonal | [Buka laporan](UTS/hasil_2b_18225077.qmd) |
+| Sesi 3a | Laporan Sesi 3a | Penerapan strategi komunikasi pada kasus | [Buka laporan](UTS/hasil_3a_18225077.qmd) |
+| Sesi 3b | Laporan Sesi 3b | Evaluasi strategi, hasil, dan batas bukti | [Buka laporan](UTS/hasil_3b_18225077.qmd) |
+
+**Catatan keterlacakan:** nama file dan alamat tautan mengikuti struktur dokumen pendukung portfolio. Setiap dokumen menjadi rujukan bagi analisis, refleksi, dan bukti yang relevan dengan tahap masing-masing.
+
+# Refleksi Lintas Sesi
+
+## 1. Tujuan dan Konteks Komunikasi
+
+Komunikasi interpersonal merupakan proses pertukaran pesan yang melibatkan penyampaian informasi, penafsiran makna, pemberian respons, dan penyesuaian antarpihak. Efektivitas komunikasi tidak cukup dinilai dari tersampaikannya pesan, tetapi juga perlu mempertimbangkan apakah maksud pesan dipahami dan apakah interaksi mendukung tujuan yang hendak dicapai.
+
+Dalam konteks akademik maupun hubungan pribadi, strategi komunikasi perlu disesuaikan dengan tujuan percakapan, kondisi lawan bicara, karakteristik hubungan, serta situasi yang melatarbelakangi interaksi. Pendekatan yang sesuai untuk koordinasi tugas belum tentu tepat untuk membicarakan perbedaan pendapat atau persoalan yang melibatkan emosi.
+
+Melalui rangkaian tugas ini, saya dapat menggunakan setiap kasus sebagai kesempatan untuk mengevaluasi hubungan antara tujuan, strategi, respons, dan hasil komunikasi. Refleksi tersebut perlu didasarkan pada isi laporan masing-masing agar kesimpulan yang disampaikan tidak melampaui bukti yang tersedia.
+
+Kompetensi target Minggu 8 memperluas pemahaman tersebut dengan menekankan pengenalan terhadap orang dan keadaan, pemilihan repertoar komunikasi, penggunaan bahasa, pemberian respons, serta adaptasi berdasarkan situasi. Dengan demikian, komunikasi dipahami sebagai proses yang memerlukan pertimbangan dan evaluasi, bukan sekadar penyampaian pesan.
+
+## 2. Persepsi, Validasi, dan Pemahaman terhadap Orang Lain
+
+Persepsi memengaruhi cara seseorang memahami perkataan, sikap, dan tindakan orang lain. Namun, interpretasi pribadi tidak selalu identik dengan fakta. Respons singkat, perbedaan pendapat, atau penolakan terhadap suatu usulan dapat memiliki berbagai penyebab sehingga tidak seharusnya langsung dianggap sebagai penilaian terhadap diri sendiri.
+
+Untuk mengurangi kesalahan interpretasi, saya perlu membedakan tiga unsur:
+
+- **Fakta:** informasi atau tindakan yang dapat diamati.
+- **Interpretasi:** makna yang diberikan terhadap fakta tersebut.
+- **Asumsi:** dugaan yang belum memperoleh konfirmasi memadai.
+
+Pembedaan ini membantu saya menahan kesimpulan prematur dan memeriksa apakah pemahaman awal sesuai dengan keadaan sebenarnya. Pertanyaan klarifikasi, mendengarkan aktif, dan parafrasa dapat digunakan untuk memastikan bahwa pesan dipahami secara lebih akurat.
+
+Dalam kompetensi *person recognition*, pemahaman terhadap orang lain perlu dibangun dari informasi yang relevan, bukan hanya dari kesan awal atau label kepribadian. Sementara itu, *state recognition* membutuhkan perhatian terhadap keadaan yang relevan dalam interaksi tanpa menganggap bahwa kondisi emosional atau maksud seseorang dapat diketahui secara pasti hanya melalui satu petunjuk.
+
+Apabila MBTI digunakan sebagai kerangka refleksi diri, hasilnya sebaiknya diperlakukan sebagai bahan eksplorasi preferensi, bukan label mutlak yang menentukan perilaku. Perilaku interpersonal tetap perlu dipahami dengan mempertimbangkan situasi, pengalaman, kebutuhan, dan konteks hubungan.
+
+## 3. Pemilihan Strategi dan Adaptasi Komunikasi
+
+Tidak ada satu strategi komunikasi yang selalu efektif untuk semua situasi. Penyampaian pesan secara langsung dapat memperjelas maksud, tetapi tetap perlu mempertimbangkan pilihan kata dan dampaknya terhadap lawan bicara. Sebaliknya, upaya menjaga kenyamanan hubungan tidak seharusnya membuat pesan penting menjadi kabur.
+
+Strategi yang relevan untuk dikembangkan meliputi:
+
+1. Mendengarkan secara aktif sebelum memberikan tanggapan.
+2. Mengajukan pertanyaan terbuka untuk memperoleh informasi yang lebih lengkap.
+3. Menggunakan parafrasa untuk memeriksa kesamaan pemahaman.
+4. Menyampaikan pendapat beserta alasan yang jelas dan relevan.
+5. Memisahkan kritik terhadap masalah dari penilaian terhadap pribadi.
+6. Menyesuaikan pendekatan berdasarkan respons dan informasi baru.
+
+Adaptasi komunikasi juga membutuhkan kesediaan untuk mengubah strategi ketika pendekatan awal tidak efektif. Evaluasi seharusnya berfokus pada kesesuaian tindakan dengan tujuan dan dampak yang dapat diamati, bukan semata-mata pada niat awal.
+
+Kompetensi *repertoire* menekankan pentingnya memiliki pilihan strategi yang dapat digunakan sesuai kebutuhan. Kompetensi *language* berhubungan dengan penggunaan kata dan susunan pesan yang jelas, sedangkan *response* berkaitan dengan kemampuan memberikan tanggapan yang relevan terhadap situasi dan pesan lawan bicara.
+
+Dengan mengintegrasikan ketiganya, saya dapat memahami bahwa komunikasi yang efektif membutuhkan pemilihan strategi, penyampaian pesan, dan evaluasi respons secara berkesinambungan.
+
+## 4. Relasi, Kepedulian, dan Pengelolaan Perbedaan
+
+Hubungan interpersonal yang sehat membutuhkan keseimbangan antara kejelasan pesan, kepedulian, dan penghormatan terhadap batas pribadi. Menjaga hubungan bukan berarti harus selalu menyetujui orang lain. Sebaliknya, menyampaikan ketidaksetujuan tidak harus dilakukan dengan merendahkan atau menyalahkan.
+
+Dalam situasi perbedaan pendapat, saya perlu menjelaskan persoalan secara spesifik, menyampaikan alasan atau kebutuhan, serta memberikan kesempatan kepada pihak lain untuk merespons. Jika percakapan menjadi tidak produktif, mengambil jeda dan melanjutkan pembicaraan ketika situasi lebih kondusif dapat menjadi pilihan yang konstruktif.
+
+Pembagian tanggung jawab juga membutuhkan komunikasi yang eksplisit. Tugas, tenggat, harapan, dan bentuk kontribusi sebaiknya dibicarakan secara terbuka agar tidak hanya bergantung pada dugaan atau harapan yang belum disepakati bersama.
+
+Dengan demikian, komunikasi yang berorientasi pada penyelesaian masalah perlu memperhatikan substansi persoalan sekaligus kualitas hubungan. Kejelasan dan empati bukan dua hal yang harus dipertentangkan, melainkan unsur yang dapat saling mendukung.
+
+## 5. Evaluasi, Uji Ulang, dan Batas Bukti
+
+Evaluasi komunikasi perlu membedakan niat, rencana, tindakan, dan hasil. Memiliki niat untuk berkomunikasi dengan lebih baik tidak otomatis membuktikan perubahan perilaku. Demikian pula, strategi yang terlihat baik dalam perencanaan belum tentu menghasilkan dampak yang sama ketika diterapkan dalam situasi nyata.
+
+Evaluasi yang bertanggung jawab perlu mempertimbangkan:
+
+- Konteks dan tujuan komunikasi.
+- Tindakan atau pesan yang benar-benar disampaikan.
+- Respons yang dapat diamati.
+- Perubahan pemahaman atau kesepakatan setelah interaksi.
+- Umpan balik dari pihak terkait apabila tersedia.
+- Keterbatasan informasi yang memengaruhi kesimpulan.
+
+Dalam paket UTS Minggu 8, performance card dan initial state dapat menjadi dasar untuk memahami target dan kondisi awal performa. Rekaman atau transkrip serta observer sheet dapat membantu menelusuri tindakan komunikasi dan respons yang diamati. Feedback, replay, evidence improvement, dan reflection dapat digunakan untuk mengevaluasi pembelajaran dan perubahan performa apabila kegiatan tersebut benar-benar dilakukan dan didokumentasikan.
+
+Jika dokumen hanya mencatat simulasi atau rencana tindakan, hasilnya tidak boleh dipresentasikan seolah-olah merupakan dampak nyata yang telah diverifikasi. Jika bukti belum memadai, keterbatasan tersebut perlu dinyatakan secara terbuka.
+
+Pendekatan ini membantu menjaga integritas akademik sekaligus meningkatkan kualitas refleksi. Tujuan evaluasi bukan sekadar menunjukkan keberhasilan, tetapi memahami apa yang berjalan baik, apa yang masih perlu diperbaiki, dan bukti apa yang dibutuhkan untuk menilai perkembangan.
+
+## 6. Perubahan yang Akan Diterapkan Berikutnya
+
+Sebagai tindak lanjut pembelajaran, saya merumuskan beberapa sasaran pengembangan:
+
+1. Mengklarifikasi tujuan percakapan sebelum menawarkan solusi.
+2. Memeriksa asumsi sebelum menyimpulkan maksud orang lain.
+3. Menyampaikan ketidaksetujuan secara jelas, spesifik, dan santun.
+4. Menggunakan parafrasa untuk memeriksa kesamaan pemahaman.
+5. Memastikan pembagian tanggung jawab dan tenggat dinyatakan dengan jelas.
+6. Meminta umpan balik setelah interaksi yang relevan.
+7. Mengevaluasi strategi berdasarkan bukti dan memperbaikinya jika diperlukan.
+
+Sasaran tersebut merupakan rencana tindak lanjut, bukan klaim bahwa seluruh perubahan telah terlaksana. Pencapaiannya perlu ditinjau melalui pengalaman nyata, umpan balik, dan evaluasi berkala.
+
+# Asesmen Pribadi
+
+## 1. Evaluasi Kemampuan Komunikasi
+
+Komunikasi yang efektif membutuhkan kemampuan menyusun pesan sekaligus memahami kebutuhan pihak lain. Pesan yang terstruktur membantu memperjelas maksud, tetapi efektivitasnya juga dipengaruhi oleh waktu penyampaian, pilihan kata, konteks, dan respons lawan bicara.
+
+Aspek yang perlu saya kembangkan adalah kemampuan menyampaikan pendapat secara jelas tanpa mengabaikan dampaknya terhadap hubungan. Saya juga perlu memastikan bahwa upaya menjaga suasana nyaman tidak membuat inti pesan menjadi terlalu kabur.
+
+Evaluasi kemampuan ini perlu didukung oleh contoh konkret dari laporan dan pengalaman komunikasi yang relevan. Dengan demikian, penilaian diri tidak hanya berupa pernyataan umum, tetapi dapat ditautkan dengan tindakan, respons, dan pembelajaran yang tercatat.
+
+## 2. Evaluasi Persepsi dan Validasi
+
+Saya perlu membedakan fakta, interpretasi, dan asumsi sebelum menarik kesimpulan. Ketika informasi belum lengkap, saya sebaiknya tidak menetapkan satu penjelasan sebagai kebenaran tanpa memeriksa kemungkinan lain.
+
+Langkah yang dapat diterapkan meliputi mengajukan pertanyaan klarifikasi, mendengarkan konteks, melakukan parafrasa, dan memperbarui pemahaman ketika memperoleh informasi baru. Kemampuan ini dapat membantu mengurangi salah paham dan mendorong respons yang lebih sesuai dengan persoalan sebenarnya.
+
+## 3. Evaluasi Sikap dan Relasi
+
+Saya perlu mengembangkan sikap terbuka terhadap perbedaan pendapat dan memahami bahwa komunikasi yang berhasil tidak selalu berakhir dengan persetujuan. Setiap pihak tetap memiliki hak untuk memberikan pendapat berbeda, meminta waktu, atau menolak suatu usulan.
+
+Saya akan berusaha menyampaikan kritik dengan berfokus pada persoalan dan perilaku yang relevan, bukan menyerang karakter. Saya juga perlu menerima umpan balik secara terbuka serta mempertimbangkan masukan yang dapat membantu memperbaiki perilaku komunikasi.
+
+## 4. Evaluasi Keterampilan dan Pengetahuan
+
+Keterampilan yang perlu terus dilatih meliputi mendengarkan aktif, mengajukan pertanyaan, melakukan parafrasa, mengelola respons emosional, menyampaikan pendapat secara asertif, dan mengevaluasi hasil percakapan.
+
+Pengetahuan teoretis akan lebih bermakna apabila dihubungkan dengan penerapan konkret. Memahami konsep belum tentu berarti mampu menerapkannya secara konsisten. Oleh karena itu, evaluasi perlu mempertimbangkan konteks, tindakan, respons, dan bukti yang tersedia, bukan hanya penguasaan istilah atau definisi.
+
+## 5. Rencana Pengembangan PASK
+
+| Aspek | Sasaran pengembangan | Tindakan yang direncanakan | Indikator evaluasi |
+|---|---|---|---|
+| Persepsi | Mengurangi asumsi yang belum teruji | Mengklarifikasi maksud dan memisahkan fakta dari interpretasi | Mampu menjelaskan fakta dan asumsi secara terpisah |
+| Sikap | Menghormati perspektif yang berbeda | Mendengarkan tanpa langsung memotong atau membantah | Memberikan kesempatan kepada lawan bicara untuk menjelaskan |
+| Keterampilan | Menyampaikan pesan secara jelas dan asertif | Melatih parafrasa, pertanyaan terbuka, dan penyampaian ketidaksetujuan | Pesan, alasan, dan kebutuhan disampaikan secara spesifik |
+| Pengetahuan | Menghubungkan teori dengan penerapan | Menganalisis interaksi menggunakan konsep yang relevan | Analisis didukung contoh dan tidak melampaui bukti |
+
+Tabel ini merupakan rencana pengembangan yang dapat digunakan untuk meninjau kemajuan secara berkala. Indikator berfungsi sebagai acuan evaluasi, bukan pernyataan bahwa kemampuan tersebut telah sepenuhnya dikuasai.
+
+## 6. Kesimpulan Asesmen Pribadi
+
+Pembelajaran komunikasi interpersonal memberikan kerangka untuk memahami pentingnya kesadaran diri, validasi persepsi, keterampilan menyampaikan pesan, dan evaluasi dampak interaksi. Saya perlu terus mengembangkan kemampuan untuk bersikap tegas tanpa mengabaikan kepedulian serta mempertahankan keterbukaan terhadap perspektif yang berbeda.
+
+Portfolio ini mengorganisasi dokumen dan merangkum pembelajaran lintas sesi. Refleksi tertulis menjadi sarana untuk mengevaluasi pemahaman dan merumuskan pengembangan diri, sedangkan penilaian terhadap perubahan performa perlu didukung oleh evidence yang relevan.
+
+Dengan mengintegrasikan pengenalan orang dan keadaan, pemilihan repertoar, penggunaan bahasa, pemberian respons, serta adaptasi, saya dapat menjadikan pembelajaran sebagai dasar untuk mengembangkan komunikasi interpersonal yang lebih sadar, jelas, adaptif, dan bertanggung jawab.

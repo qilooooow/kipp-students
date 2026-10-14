@@ -1,0 +1,396 @@
+---
+title: "Laporan Simulasi Komunikasi dan Refleksi"
+subtitle: "UTS KIPP 2026 — Sesi 3a"
+author: "Aqila Zahra Athaya"
+date: "14 Oktober 2026"
+lang: id
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    theme: cosmo
+    code-fold: true
+    smooth-scroll: true
+    embed-resources: true
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+# A. Identitas dan Konteks Simulasi
+
+## A.1. Identitas Mahasiswa
+
+| Elemen | Keterangan |
+|:--|:--|
+| Nama mahasiswa | Aqila Zahra Athaya |
+| NIM | 18225077 |
+| Kelas | K-01 |
+| Tanggal pelaksanaan | 14 Oktober 2026 |
+| Sesi | Sesi 3a |
+| Urutan sesi | Sesi ke-4 dari 5 sesi |
+| Nomor/judul kasus | Kasus 3 — K3-05 |
+| Tokoh sasaran | Elsa |
+| Modalitas simulasi | Suara |
+| Bentuk laporan | Evaluasi proses komunikasi, retest, refleksi, dan rencana pengembangan |
+
+**Catatan dokumentasi:** laporan ini disusun berdasarkan materi simulasi dan respons yang tersedia. Bagian percakapan yang dapat dipastikan dari catatan ditampilkan sebagai kutipan, sedangkan bagian yang hanya tersedia dalam bentuk ringkasan tidak diperlakukan sebagai transkrip verbatim. Karena materi teks tidak merekam kualitas suara, laporan ini tidak membuat klaim khusus mengenai intonasi, volume, kecepatan bicara, atau ekspresi vokal.
+
+## A.2. Gambaran Kasus
+
+Kasus ini berfokus pada komunikasi dengan Elsa mengenai kemungkinan memperbaiki proses pelayanan pelanggan melalui penggunaan FAQ (*frequently asked questions*) dan templat jawaban. Dalam situasi yang disimulasikan, tim menghadapi pertanyaan pelanggan yang berulang, seperti pertanyaan mengenai status pesanan, perkiraan pengiriman, dan prosedur pemesanan. Di sisi lain, tim juga menghadapi keterbatasan waktu karena harus menyelesaikan laporan utama.
+
+Elsa memiliki kekhawatiran bahwa perubahan proses kerja justru dapat menambah beban anggota. Penggunaan sistem baru atau teknologi berbasis kecerdasan buatan (AI) berpotensi membutuhkan waktu untuk dipelajari, memindahkan data, serta menyesuaikan kebiasaan kerja. Selain itu, penggunaan templat yang tidak tepat dapat menimbulkan risiko penyampaian informasi yang kurang akurat kepada pelanggan.
+
+Elsa tidak sepenuhnya menolak perubahan. Ia dapat menerima kemungkinan perbaikan jika langkah yang dipilih realistis, tidak mengganggu tenggat laporan, mempertimbangkan kesiapan anggota, dan memiliki pembagian tanggung jawab yang adil.
+
+Dengan demikian, tantangan utama kasus ini bukan sekadar meyakinkan Elsa agar menerima teknologi, melainkan membangun pemahaman bersama tentang masalah yang perlu diselesaikan, memilih solusi yang sesuai dengan kebutuhan nyata, dan memastikan bahwa pelaksanaannya tetap aman serta dapat dievaluasi.
+
+## A.3. Tujuan Komunikasi
+
+Tujuan komunikasi dalam simulasi ini adalah:
+
+1. Memahami kekhawatiran Elsa tanpa langsung menilai atau menolaknya.
+2. Menggali masalah operasional yang benar-benar dialami tim sebelum memilih solusi.
+3. Menyepakati pendekatan perbaikan yang sederhana dan realistis.
+4. Menjaga agar perubahan tidak mengganggu penyelesaian laporan sebagai prioritas utama.
+5. Menentukan pembagian tanggung jawab dan jalur bantuan yang tidak membebani satu orang.
+6. Menetapkan indikator untuk menilai efektivitas dan keamanan penggunaan FAQ.
+7. Membangun kesepakatan yang didasarkan pada kebutuhan bersama, bukan pemaksaan pendapat.
+
+## A.4. Prinsip Pendekatan
+
+Dalam menjalankan simulasi, saya berusaha menerapkan prinsip-prinsip berikut.
+
+- **Empati:** mengakui kekhawatiran Elsa sebagai hal yang wajar dan relevan.
+- **Mendengarkan secara aktif:** menggali alasan di balik kekhawatiran sebelum menentukan tindakan.
+- **Kolaborasi:** melibatkan Elsa dalam pengambilan keputusan dan tidak menjadikan pendapat saya sebagai satu-satunya acuan.
+- **Realistis:** memilih langkah yang sesuai dengan keterbatasan waktu, kapasitas anggota, dan kebutuhan tim.
+- **Akuntabilitas:** memperjelas tanggung jawab, batas penggunaan templat, dan cara meminta bantuan.
+- **Evaluasi berbasis bukti:** menilai keberhasilan berdasarkan hasil penggunaan, bukan sekadar asumsi bahwa solusi akan berhasil.
+
+# B. Pelaksanaan Simulasi Awal
+
+## B.1. Pembukaan dan Validasi Kekhawatiran Elsa
+
+Pada tahap awal, saya berusaha menunjukkan bahwa kekhawatiran Elsa dapat dipahami. Saya tidak langsung membela gagasan penggunaan AI ataupun menganggap bahwa perubahan teknologi pasti menjadi solusi terbaik. Saya terlebih dahulu mengakui bahwa perubahan proses kerja dapat menambah beban apabila tidak direncanakan dengan baik.
+
+Respons pembuka saya adalah sebagai berikut.
+
+> Aku paham kenapa kamu khawatir, Elsa. Kamu nggak ingin perubahan yang kita lakukan justru membuat pekerjaan anggota lain jadi lebih sulit atau membuat mereka harus mengulang bagian yang sudah dikerjakan. Menurutku, kekhawatiran itu wajar, dan aku juga ingin memastikan perubahan yang kita ambil nggak malah menambah beban kelompok. Boleh aku tahu, bagian mana yang paling kamu khawatirkan akan menyulitkan mereka? Apakah karena mereka sudah terlanjur menggunakan kesimpulan yang lama, karena waktunya semakin mepet, atau karena ada hal lain yang menurutmu perlu kita pertimbangkan? Aku ingin memahami situasinya dulu supaya kita bisa menentukan langkah yang tepat tanpa terburu-buru mengambil keputusan.
+
+Respons tersebut menunjukkan upaya untuk memvalidasi kekhawatiran Elsa sekaligus membuka ruang bagi penjelasan lebih lanjut. Pertanyaan yang saya ajukan diarahkan untuk memahami sumber masalah, bukan untuk menggiring Elsa agar segera menyetujui usulan saya.
+
+Meskipun demikian, saya menyadari bahwa beberapa pertanyaan awal saya sudah menawarkan kemungkinan jawaban tertentu. Pada percakapan berikutnya, saya dapat menggunakan pertanyaan yang lebih terbuka, misalnya, *"Apa yang paling membuatmu khawatir jika kita mengubah proses kerja sekarang?"* Dengan cara tersebut, Elsa memiliki ruang yang lebih luas untuk menjelaskan pengalamannya dengan kata-katanya sendiri.
+
+## B.2. Penggalian Masalah dan Kebutuhan Tim
+
+Berdasarkan jalannya simulasi, Elsa menjelaskan bahwa pekerjaan tim masih banyak menyita waktu untuk menjawab pertanyaan pelanggan yang berulang. Pertanyaan tersebut antara lain berkaitan dengan status pesanan, perkiraan pengiriman, dan prosedur pemesanan. Selain itu, kesalahan pesanan memang tidak selalu terjadi, tetapi tetap membutuhkan pemeriksaan dan terkadang komunikasi tambahan dengan pelanggan.
+
+Elsa juga mengkhawatirkan proses mempelajari sistem baru dan kemungkinan perlunya memindahkan data. Dalam situasi ketika tenggat laporan sudah dekat, perubahan yang terlalu besar berpotensi menambah pekerjaan sebelum manfaatnya benar-benar terlihat.
+
+Informasi tersebut membantu saya membedakan antara masalah yang perlu ditangani sekarang dan solusi yang masih dapat dipertimbangkan pada masa mendatang. Masalah yang terlihat paling dekat dengan kebutuhan tim adalah pertanyaan berulang, sedangkan penggunaan AI merupakan salah satu alternatif yang belum tentu diperlukan.
+
+Saya berusaha tidak menyamakan adanya masalah dengan keharusan menggunakan teknologi tertentu. Sebaliknya, saya mempertimbangkan apakah masalah tersebut dapat ditangani terlebih dahulu melalui prosedur yang lebih sederhana.
+
+## B.3. Penyusunan Solusi Awal
+
+Berdasarkan kebutuhan yang teridentifikasi, saya mengusulkan pembuatan FAQ dan templat jawaban untuk beberapa pertanyaan pelanggan yang paling sering muncul. Uji coba direncanakan secara terbatas, dengan waktu persiapan yang dibatasi sekitar 30 menit agar tidak mengambil terlalu banyak waktu dari pekerjaan utama.
+
+Rencana awal meliputi hal-hal berikut.
+
+1. Mengidentifikasi tiga sampai lima pertanyaan pelanggan yang paling sering muncul.
+2. Menyusun jawaban yang singkat, jelas, dan sesuai dengan informasi yang telah terverifikasi.
+3. Membagi tugas identifikasi pertanyaan, penyusunan jawaban, dan pemeriksaan akurasi kepada anggota yang terlibat.
+4. Menggunakan FAQ dalam uji coba terbatas tanpa mengganti sistem kerja utama.
+5. Membandingkan kondisi sebelum dan sesudah uji coba berdasarkan waktu respons, kemudahan penggunaan, dan ketepatan informasi.
+6. Menunda pertimbangan penggunaan AI sampai kebutuhan dan manfaatnya dapat dinilai lebih jelas.
+
+Saya juga menyampaikan bahwa uji coba tidak boleh dipaksakan apabila mengancam tenggat laporan. Dalam situasi tersebut, penyelesaian laporan tetap menjadi prioritas. Prinsip ini penting agar rencana perbaikan tidak justru menciptakan masalah baru.
+
+## B.4. Respons Elsa dan Penyesuaian Rencana
+
+Elsa menunjukkan keterbukaan terhadap usulan FAQ dan templat jawaban. Namun, ia juga menginginkan pembagian pekerjaan yang adil, dengan tanggung jawab yang jelas dan tidak hanya dibebankan kepada satu anggota.
+
+Masukan tersebut menjadi dasar untuk memperjelas peran anggota. Anggota yang berinteraksi langsung dengan pelanggan dapat membantu mengidentifikasi pertanyaan yang umum muncul. Anggota lain dapat menyusun draf jawaban, sedangkan anggota yang memahami prosedur dapat memeriksa ketepatan informasi.
+
+Saya juga berusaha menetapkan batas yang jelas: templat hanya digunakan ketika sesuai dengan pertanyaan dan informasi yang tersedia. Apabila informasi belum pasti atau kasus membutuhkan pertimbangan lebih lanjut, anggota tidak boleh menebak jawaban. Mereka perlu memeriksa informasi atau meminta bantuan.
+
+Dari proses ini, saya belajar bahwa kesepakatan tidak cukup dibangun melalui persetujuan terhadap gagasan utama. Kesepakatan juga harus mencakup cara pelaksanaan, batas tanggung jawab, dan mekanisme untuk menghadapi kendala.
+
+## B.5. Ringkasan Evaluasi Simulasi Awal
+
+| Aspek | Hasil yang Terlihat | Catatan Evaluasi |
+|:--|:--|:--|
+| Validasi kekhawatiran | Saya mengakui kekhawatiran Elsa mengenai beban kerja dan tenggat. | Perlu dipertahankan agar percakapan terasa aman dan kolaboratif. |
+| Penggalian masalah | Saya menggali pertanyaan pelanggan yang berulang dan kendala penggunaan sistem baru. | Pertanyaan terbuka dapat ditambah agar eksplorasi tidak terlalu cepat diarahkan. |
+| Pemilihan solusi | Saya mengusulkan FAQ dan templat sebelum mempertimbangkan AI. | Pendekatan bertahap sesuai dengan kebutuhan yang teridentifikasi. |
+| Perencanaan tindakan | Saya menyusun batas waktu, pembagian peran, dan indikator awal. | Perlu memastikan setiap peran sesuai dengan kapasitas anggota. |
+| Pengelolaan risiko | Saya mempertahankan tenggat laporan sebagai prioritas. | Risiko kesalahan jawaban harus ditangani melalui pemeriksaan dan eskalasi. |
+| Kolaborasi | Elsa diberi ruang untuk memberikan masukan terhadap rencana. | Kesepakatan perlu terus dikonfirmasi, bukan hanya diasumsikan dari persetujuan awal. |
+
+## B.6. Evaluasi Sementara oleh Mahasiswa
+
+Menurut saya, pesan yang paling membantu Elsa merasa dipercaya dan dipedulikan adalah ketika saya menanggapi kekhawatirannya tanpa langsung menganggap bahwa penggunaan AI merupakan solusi terbaik. Saya berusaha memahami kendala yang dihadapinya, menggali pekerjaan yang paling banyak menyita waktu, serta mempertimbangkan keterbatasan waktu, kemampuan anggota, dan prioritas penyelesaian laporan sebelum menawarkan alternatif solusi.
+
+Pesan yang paling bermakna bagi saya adalah gagasan bahwa kebutuhan dan kendala tim perlu dipahami terlebih dahulu sebelum memutuskan apakah AI memang diperlukan. Inti pesan tersebut menunjukkan bahwa pendapat dan kekhawatiran Elsa memiliki nilai dalam pengambilan keputusan. Saya tidak ingin memaksakan ide hanya karena teknologi AI sedang berkembang, tetapi ingin memastikan bahwa solusi yang dipilih benar-benar menjawab permasalahan tim.
+
+Bukti bahwa pendekatan tersebut membantu Elsa terlihat dari responsnya selama simulasi. Elsa menunjukkan kesediaan mendukung uji coba FAQ dan templat jawaban selama pembagian tugas dilakukan secara adil dan pekerjaan utama tetap menjadi prioritas. Pada akhir percakapan, Elsa juga menyampaikan bahwa rencana yang lebih jelas membuatnya lebih nyaman untuk mencoba perubahan tersebut. Respons ini mengindikasikan bahwa kekhawatirannya mulai terakomodasi dan bahwa keputusan tidak sepenuhnya ditentukan oleh satu pihak.
+
+Namun, saya menyadari bahwa pendekatan saya masih memiliki kekurangan. Pada beberapa bagian, saya cukup cepat beralih dari memahami masalah ke menawarkan solusi dan menyusun rencana tindakan. Meskipun solusi yang ditawarkan realistis, saya seharusnya dapat memberi Elsa lebih banyak ruang untuk menjelaskan pengalamannya dan menentukan prioritas sebelum mengarahkan percakapan pada langkah-langkah praktis.
+
+Selain itu, saya belum secara khusus menggali kesiapan dan beban kerja Elsa sendiri ketika membahas pembagian tugas. Pembagian tugas yang terlihat adil belum tentu terasa adil bagi setiap anggota jika kapasitas, pengalaman, dan tanggung jawab mereka berbeda.
+
+Dalam pendekatan berikutnya, saya akan mempertahankan sikap empatik, keterbukaan terhadap alternatif, dan kebiasaan mempertimbangkan kebutuhan tim sebelum mengambil keputusan. Saya juga akan lebih konsisten mengajukan pertanyaan terbuka, merangkum pemahaman saya, dan meminta konfirmasi sebelum menawarkan solusi. Saya ingin memastikan bahwa solusi yang disepakati memiliki tujuan, batas waktu, pembagian tanggung jawab, serta indikator keberhasilan yang jelas.
+
+Pelajaran utama yang saya peroleh adalah bahwa membuat seseorang merasa dipedulikan bukan hanya tentang menawarkan solusi yang baik, melainkan juga tentang memastikan bahwa orang tersebut merasa didengar, dipercaya, dan dilibatkan dalam proses pengambilan keputusan. Saya ingin menjadi rekan yang tidak terburu-buru menyelesaikan masalah atas nama orang lain, tetapi mampu mendampingi mereka untuk memahami kebutuhan, mempertimbangkan pilihan, dan menentukan langkah yang dapat dijalankan bersama.
+
+# C. Retest dan Perbaikan Pendekatan
+
+## C.1. Tujuan Retest
+
+Retest dilakukan untuk mengevaluasi apakah saya dapat menerapkan hasil refleksi dari simulasi awal ketika menghadapi kekhawatiran lanjutan dari Elsa. Fokus retest bukan hanya mempertahankan solusi FAQ, tetapi meningkatkan kemampuan saya dalam mendengarkan, menanggapi risiko, membagi tanggung jawab, dan membangun kesepakatan yang lebih aman.
+
+Dalam retest, persoalan berkembang dari kekhawatiran umum tentang perubahan proses kerja menjadi persoalan yang lebih spesifik, yaitu kesiapan anggota menggunakan templat, penentuan pihak yang dapat dimintai bantuan, serta risiko bahwa tanggung jawab tetap menumpuk pada Elsa.
+
+Perkembangan ini menuntut saya untuk tidak hanya mengulang usulan awal. Saya perlu menyesuaikan rencana berdasarkan informasi baru dan memastikan bahwa solusi yang dibuat tidak memindahkan beban dari satu orang kepada orang lain.
+
+## C.2. Retest 1 — Memahami Risiko Penggunaan Templat
+
+### Respons mahasiswa
+
+> Aku paham kekhawatiranmu, Elsa. Aku juga nggak ingin templat yang seharusnya mempermudah pekerjaan justru membuat staf memberikan informasi yang kurang tepat kepada pelanggan. Apalagi kalau mereka belum terbiasa menggunakannya, tentu mereka perlu tahu bahwa templat itu hanya panduan, bukan jawaban yang harus digunakan untuk semua situasi.
+>
+> Menurutku, kita perlu memastikan bahwa staf memahami kapan templat bisa digunakan dan kapan mereka harus menyesuaikan jawaban atau meminta bantuan. Kalau pertanyaan pelanggan berbeda dari contoh yang tersedia, mereka nggak perlu memaksakan jawaban. Lebih baik mereka memeriksa informasi yang relevan atau mengonfirmasi kepada orang yang lebih memahami persoalan tersebut daripada memberikan informasi yang belum pasti.
+>
+> Soal siapa yang akan membantu ketika muncul pertanyaan sulit, menurutku itu memang perlu kita sepakati sejak awal. Aku ingin tahu pendapatmu, Elsa: berdasarkan cara kerja tim kita sekarang, siapa yang paling tepat menjadi tempat bertanya ketika staf menghadapi kasus yang tidak tercakup dalam FAQ? Apakah sudah ada orang yang biasa menangani pertanyaan seperti itu, atau selama ini staf masih harus mencari bantuan sendiri-sendiri?
+>
+> Aku ingin kita menyusun panduan yang sederhana dan realistis, termasuk menentukan kapan staf boleh menggunakan templat, kapan perlu memeriksa informasi lebih lanjut, dan kepada siapa mereka harus bertanya. Kita juga bisa menguji panduan tersebut dengan beberapa contoh pertanyaan yang berbeda sebelum digunakan. Dengan begitu, kita bisa mengurangi risiko kesalahan tanpa membuat proses kerja menjadi lebih rumit. Menurutmu, langkah seperti itu cukup membantu, atau ada kendala lain yang perlu kita pertimbangkan terlebih dahulu?
+
+### Evaluasi respons
+
+Respons tersebut memperlihatkan bahwa saya mulai memperhatikan risiko penggunaan templat, bukan hanya potensi efisiensi. Saya membedakan antara pertanyaan yang sesuai dengan FAQ dan pertanyaan yang memerlukan pemeriksaan atau konfirmasi. Saya juga mengundang Elsa untuk memberikan masukan mengenai orang yang tepat menjadi tempat bertanya.
+
+Perbaikan penting dari simulasi awal adalah munculnya perhatian terhadap batas kemampuan anggota. Templat tidak diperlakukan sebagai jawaban universal, melainkan sebagai panduan yang penggunaannya bergantung pada konteks.
+
+Meskipun demikian, respons ini masih relatif panjang dan memuat beberapa gagasan sekaligus. Saya dapat membuatnya lebih efektif dengan menyampaikan inti kekhawatiran terlebih dahulu, kemudian mengajukan satu pertanyaan terbuka dan memberi kesempatan kepada Elsa untuk menjawab sebelum membahas rencana selanjutnya.
+
+## C.3. Retest 2 — Menghindari Ketergantungan pada Satu Orang
+
+### Inti respons Elsa
+
+Dalam respons berikutnya, Elsa menjelaskan bahwa staf selama ini cukup sering meminta bantuannya karena ia lebih berpengalaman menangani pelanggan. Namun, ia memiliki pekerjaan lain dan khawatir bahwa semua pertanyaan sulit akan tetap bergantung kepadanya. Elsa menyukai gagasan latihan singkat, tetapi belum yakin semua anggota dapat membedakan pertanyaan yang aman dijawab dengan templat dari pertanyaan yang perlu diteruskan.
+
+### Respons mahasiswa
+
+> Aku mengerti, Elsa. Kamu sudah cukup sering menjadi tempat bertanya karena pengalamanmu menangani pelanggan, jadi wajar kalau kamu khawatir uji coba ini justru membuat semua pertanyaan kembali bergantung kepadamu. Menurutku, kita perlu memastikan bahwa kamu tetap bisa menjalankan pekerjaan utamamu dan tanggung jawab membantu staf tidak menumpuk pada satu orang saja.
+>
+> Bagaimana kalau selama uji coba kita menunjuk satu orang sebagai kontak utama, tetapi tidak otomatis menjadikan orang itu penanggung jawab semua masalah? Kita bisa menentukan batas yang jelas: pertanyaan yang jawabannya sudah tersedia dan sesuai dengan FAQ boleh dijawab menggunakan templat; pertanyaan yang membutuhkan penyesuaian harus diperiksa berdasarkan informasi yang tersedia; sedangkan pertanyaan yang menyangkut informasi yang belum pasti atau berpotensi merugikan pelanggan harus diteruskan untuk dikonfirmasi. Kalau kontak utama sedang sibuk, staf bisa menunda jawaban sampai informasi yang benar tersedia, bukan menebak-nebak.
+>
+> Untuk membantu anggota berlatih tanpa menambah beban terlalu banyak, menurutku kita bisa menggunakan tiga atau empat contoh pertanyaan yang mewakili situasi tersebut. Kita bahas secara singkat sebelum uji coba dimulai, lalu minta anggota menentukan apakah mereka akan menggunakan templat, menyesuaikan jawaban, atau meminta konfirmasi. Latihannya cukup sekitar 10–15 menit dan bisa memanfaatkan pertanyaan yang memang pernah diterima, tanpa perlu membuat materi baru yang panjang.
+>
+> Aku juga ingin memastikan pembagian tanggung jawabnya realistis. Menurutmu, apakah ada anggota lain yang cukup memahami informasi pesanan dan prosedur layanan untuk menjadi kontak utama selama uji coba, sehingga kamu hanya membantu jika pertanyaannya benar-benar membutuhkan pengalamanmu? Kalau belum ada, kita bisa menentukan cara eskalasi yang sederhana terlebih dahulu, dengan batas waktu dan jumlah pertanyaan yang perlu kamu tangani. Dengan begitu, kita tetap menjaga keakuratan jawaban sekaligus melindungi waktu kerjamu.
+
+### Evaluasi respons
+
+Pada bagian ini, saya berusaha mengubah kekhawatiran Elsa menjadi pertimbangan operasional yang lebih konkret. Saya tidak hanya menyatakan bahwa bebannya perlu dikurangi, tetapi mengusulkan kontak utama dengan batas tanggung jawab, latihan singkat, serta jalur eskalasi.
+
+Saya juga membedakan tiga jenis situasi: pertanyaan yang aman dijawab menggunakan templat, pertanyaan yang memerlukan penyesuaian, dan pertanyaan yang harus dikonfirmasi. Pembedaan ini penting karena anggota tidak cukup hanya menghafal jawaban; mereka perlu memahami kapan suatu jawaban dapat digunakan dan kapan mereka harus mencari bantuan.
+
+Perbaikan yang masih perlu dilakukan adalah menghindari penumpukan beberapa usulan dalam satu respons. Dalam komunikasi nyata, saya dapat menyampaikan satu gagasan, meminta tanggapan, lalu menyesuaikan langkah berikutnya berdasarkan respons lawan bicara.
+
+## C.4. Retest 3 — Menilai Kesiapan dan Menetapkan Indikator
+
+### Inti respons Elsa
+
+Elsa menyampaikan bahwa ada anggota lain yang cukup memahami prosedur pesanan dan dapat dilibatkan sebagai kontak utama. Namun, anggota tersebut belum terlalu berpengalaman menghadapi pertanyaan pelanggan yang rumit. Elsa juga masih mengkhawatirkan kemampuan anggota membedakan pertanyaan yang dapat dijawab menggunakan templat dari pertanyaan yang perlu dikonfirmasi.
+
+### Respons mahasiswa
+
+> Aku setuju, Elsa. Menurutku, kita nggak bisa menyimpulkan uji coba berhasil hanya karena waktu respons menjadi lebih cepat. Kalau jawaban yang diberikan ternyata kurang tepat atau anggota masih takut mengambil keputusan, berarti masih ada hal yang perlu kita perbaiki. Aku juga memahami kekhawatiranmu tentang anggota yang akan menjadi kontak utama. Kita perlu memberinya dukungan dan batas tanggung jawab yang jelas, bukan langsung mengharapkannya mampu menangani semua pertanyaan sulit.
+>
+> Bagaimana kalau sebelum FAQ digunakan, kita mengadakan latihan singkat selama 10–15 menit dengan tiga atau empat contoh pertanyaan pelanggan? Kita minta anggota mengelompokkan pertanyaan menjadi tiga kategori: pertanyaan yang aman dijawab menggunakan templat, pertanyaan yang membutuhkan penyesuaian berdasarkan informasi yang tersedia, dan pertanyaan yang harus dikonfirmasi karena jawabannya belum pasti atau kasusnya cukup rumit. Setelah itu, kita bahas alasan di balik setiap pilihan supaya mereka memahami prinsipnya, bukan sekadar menghafal contoh.
+>
+> Untuk mengevaluasi kesiapan mereka, menurutku kita bisa melihat tiga hal. Pertama, ketepatan pengambilan keputusan, yaitu apakah mereka bisa menentukan kapan templat boleh digunakan dan kapan perlu meminta konfirmasi. Kedua, kualitas jawaban, yaitu apakah informasi yang diberikan akurat, relevan dengan pertanyaan pelanggan, dan tidak mengandung asumsi yang belum terverifikasi. Ketiga, kepercayaan diri dan kemampuan mengenali batas, yaitu apakah anggota merasa cukup nyaman menangani pertanyaan rutin, tetapi tetap berani meminta bantuan ketika menghadapi situasi yang belum mereka pahami.
+>
+> Kita bisa menggunakan latihan awal sebagai gambaran kemampuan mereka, lalu melakukan pemeriksaan singkat setelah beberapa kali menggunakan FAQ. Kita juga bisa meminta mereka menyampaikan bagian mana yang masih membingungkan. Dengan begitu, kita bisa melihat apakah mereka semakin mandiri, bukan hanya semakin cepat menjawab. Kalau masih ada kesalahan atau keraguan, kita perbaiki templat atau panduannya sebelum memperluas penggunaannya.
+>
+> Untuk anggota yang menjadi kontak utama, aku rasa kita perlu menegaskan bahwa tugasnya bukan menyelesaikan semua pertanyaan sulit sendirian. Dia cukup membantu memeriksa prosedur yang sudah dipahami dan meneruskan kasus yang berada di luar kewenangannya. Kamu bisa menjadi pendukung untuk kasus tertentu yang memang membutuhkan pengalamanmu, tetapi kita perlu membatasi keterlibatanmu supaya pekerjaan utamamu tetap terjaga.
+>
+> Menurutmu, Elsa, apakah pembagian peran dan tiga indikator ini sudah cukup adil bagi anggota yang terlibat? Aku ingin kita menyepakatinya bersama agar semua orang tahu apa yang diharapkan, bagaimana kesiapan mereka dinilai, dan kapan mereka perlu meminta bantuan tanpa merasa harus selalu bisa menjawab semuanya sendiri?
+
+### Evaluasi respons
+
+Respons ini memperkuat kualitas perencanaan dengan menambahkan indikator kesiapan sebelum dan selama penggunaan FAQ. Saya tidak lagi menjadikan kecepatan sebagai satu-satunya ukuran keberhasilan. Saya juga memperhatikan akurasi, ketepatan keputusan, dan kemampuan anggota untuk mengenali batas pengetahuan mereka.
+
+Pendekatan ini lebih aman karena anggota tidak didorong untuk selalu menjawab sendiri. Mereka perlu memahami kapan jawaban dapat diberikan dan kapan informasi harus diperiksa terlebih dahulu. Selain itu, tanggung jawab kontak utama dibatasi agar tidak berubah menjadi ketergantungan baru pada satu orang.
+
+Hal yang masih dapat diperbaiki adalah memastikan bahwa indikator tersebut dapat diterapkan tanpa menambah pekerjaan administratif berlebihan. Oleh sebab itu, evaluasi sebaiknya menggunakan sampel jawaban dan catatan sederhana, bukan formulir panjang yang justru menyita waktu.
+
+## C.5. Retest 4 — Evaluasi, Tindak Lanjut, dan Batas Waktu
+
+### Inti respons Elsa
+
+Elsa menyampaikan bahwa ia merasa lebih tenang karena rencana uji coba sudah mencakup latihan awal, evaluasi, dan jalur untuk meminta bantuan. Ia menghargai bahwa pengalamannya tetap dapat dimanfaatkan tanpa menjadikannya satu-satunya pihak yang bertanggung jawab. Elsa bersedia mendukung uji coba selama tidak mengganggu penyelesaian laporan dan perbaikan dilakukan berdasarkan hasil evaluasi.
+
+### Respons mahasiswa
+
+> Aku setuju, Elsa. Menurutku, evaluasi memang nggak boleh berhenti pada mencatat kesalahan anggota. Kalau kita menemukan bahwa mereka masih kesulitan membedakan pertanyaan yang bisa dijawab menggunakan templat dan pertanyaan yang perlu dikonfirmasi, kita harus menyediakan kesempatan untuk belajar dan mencoba lagi. Tujuannya bukan mencari siapa yang kurang mampu, tetapi memastikan semua orang cukup siap menggunakan FAQ dengan aman.
+>
+> Bagaimana kalau kita sepakati tindak lanjut yang sederhana? Jika anggota masih kesulitan, kontak utama bisa membantu menjelaskan prosedur berdasarkan panduan yang tersedia. Kalau kasusnya berada di luar pemahamannya, barulah dia meminta bantuanmu atau anggota lain yang memang memahami kasus tersebut. Setelah itu, kita gunakan contoh pertanyaan yang sebelumnya sulit dipahami untuk latihan ulang singkat. Dengan begitu, kita nggak menjadikan kamu sebagai tempat bertanya untuk semua hal, tetapi tetap memastikan anggota mendapatkan bantuan yang mereka butuhkan.
+>
+> Untuk jadwal evaluasi, menurutku kita bisa melakukan pemeriksaan awal setelah latihan 10–15 menit, sebelum FAQ digunakan. Kemudian, setelah dua atau tiga hari penggunaan terbatas—atau lebih cepat jika ada masalah serius—kita melakukan evaluasi singkat sekitar 10 menit. Kita periksa beberapa contoh jawaban, ketepatan keputusan anggota dalam menggunakan templat atau meminta konfirmasi, serta masukan mereka tentang kemudahan penggunaan dan kepercayaan diri. Kalau ada jawaban yang berpotensi menyesatkan pelanggan, kita segera memperbaiki atau menghentikan penggunaan templat terkait tanpa menunggu evaluasi terjadwal.
+>
+> Untuk pembagian tanggung jawabnya, kontak utama membantu memantau pertanyaan dan kendala selama uji coba. Satu anggota yang ditunjuk memeriksa sampel jawaban dan mencatat hasil evaluasi secara sederhana. Kamu bisa membantu mengklarifikasi kasus yang memang membutuhkan pengalamanmu, tetapi tidak perlu memeriksa setiap jawaban. Aku juga bersedia membantu menyusun catatan perbaikan berdasarkan temuan, supaya tindak lanjutnya jelas dan nggak semuanya dibebankan kepadamu.
+>
+> Kita tetap perlu menjaga batas waktunya. Semua kegiatan ini dilakukan secara singkat dan hanya jika tidak mengganggu penyelesaian laporan. Kalau deadline mulai terancam, evaluasi lanjutan bisa ditunda, tetapi standar keakuratan jawaban tetap harus dijaga. Lebih baik uji cobanya berjalan lebih lambat daripada memaksakan penggunaan templat ketika anggota belum siap.
+>
+> Jadi, kita sepakat untuk melakukan latihan awal, evaluasi setelah dua atau tiga hari penggunaan terbatas jika jadwal memungkinkan, dan tindak lanjut berupa penjelasan serta latihan ulang jika masih ada kesulitan. Kita juga menentukan kontak utama, pemeriksa sampel jawaban, dan jalur eskalasi untuk kasus yang sulit. Keberhasilan uji coba bukan sekadar menjawab lebih cepat, melainkan membantu anggota bekerja lebih mandiri tanpa mengorbankan keakuratan informasi dan kepercayaan pelanggan. Menurutku, dengan pembagian seperti ini, kita bisa memberikan dukungan yang nyata sambil tetap menjaga laporan sebagai prioritas utama.
+
+### Evaluasi respons
+
+Respons ini menunjukkan bahwa saya mulai memandang evaluasi sebagai sarana pembelajaran, bukan sekadar alat untuk menemukan kesalahan. Apabila anggota belum siap, tindak lanjut yang dipilih adalah penjelasan, latihan ulang, atau perbaikan panduan. Pendekatan ini dapat membantu menjaga rasa aman anggota sekaligus mempertahankan kualitas layanan.
+
+Saya juga menetapkan waktu evaluasi yang terbatas, pembagian peran, serta langkah yang perlu dilakukan jika ditemukan jawaban berisiko menyesatkan pelanggan. Saya menegaskan bahwa ketepatan informasi tidak boleh dikorbankan demi kecepatan. Dengan demikian, efisiensi diposisikan sebagai tujuan yang harus dicapai bersama dengan akurasi dan kesiapan anggota.
+
+Kekuatan lainnya adalah adanya batas prioritas yang jelas. Jika uji coba mulai mengganggu penyelesaian laporan, aktivitas lanjutan dapat ditunda. Namun, jika ditemukan risiko serius terhadap ketepatan jawaban, templat terkait harus diperbaiki atau dihentikan sementara. Keputusan ini menunjukkan bahwa rencana dapat beradaptasi dengan kondisi tanpa mengabaikan prinsip dasar.
+
+## C.6. Perbandingan Simulasi Awal dan Retest
+
+| Dimensi | Simulasi Awal | Perkembangan pada Retest |
+|:--|:--|:--|
+| Empati dan validasi | Saya mengakui kekhawatiran Elsa mengenai perubahan dan beban kerja. | Saya semakin menghubungkan kekhawatiran dengan kebutuhan dukungan yang konkret. |
+| Penggalian kebutuhan | Saya menggali pekerjaan yang menyita waktu dan alasan Elsa khawatir. | Saya menggali kebutuhan akan kontak utama dan dukungan bagi anggota yang belum berpengalaman. |
+| Pemilihan solusi | Saya mengusulkan FAQ dan templat sebagai langkah awal. | Saya menambahkan latihan kesiapan, batas penggunaan, dan jalur eskalasi. |
+| Pembagian tanggung jawab | Saya mulai membagi tugas identifikasi, penyusunan, dan pemeriksaan. | Saya memperjelas batas tanggung jawab kontak utama dan membatasi ketergantungan pada Elsa. |
+| Indikator keberhasilan | Saya menilai waktu respons, kemudahan penggunaan, dan ketepatan informasi. | Saya menambahkan kesiapan anggota, ketepatan keputusan, dan kemampuan mengenali batas pengetahuan. |
+| Evaluasi dan adaptasi | Saya mengusulkan uji coba terbatas dan peninjauan hasil. | Saya menentukan pemeriksaan awal, evaluasi setelah penggunaan terbatas, latihan ulang, dan penghentian templat berisiko. |
+| Kesadaran terhadap kelemahan | Saya menyadari kecenderungan untuk cepat menawarkan solusi. | Saya berusaha mengajukan pertanyaan, mengundang masukan, dan menyesuaikan rencana berdasarkan risiko yang muncul. |
+
+Secara keseluruhan, retest menunjukkan perkembangan dalam cara saya menerjemahkan empati menjadi tindakan. Saya tidak hanya berusaha membuat Elsa merasa didengar, tetapi juga menanggapi kekhawatirannya melalui mekanisme kerja yang lebih jelas.
+
+Namun, perkembangan ini terutama terlihat pada kualitas perencanaan dan respons dalam simulasi. Keberhasilan implementasi FAQ di lingkungan kerja nyata belum dapat disimpulkan karena rencana tersebut masih memerlukan pengujian. Selain itu, panjang respons masih menjadi aspek yang dapat diperbaiki agar percakapan lebih seimbang dan memberi ruang yang cukup bagi lawan bicara.
+
+# D. Refleksi Akhir, Rencana Pengembangan, dan Penilaian
+
+## D.1. Refleksi Akhir
+
+### D.1.1. Pembelajaran Utama
+
+Pelajaran paling penting yang saya peroleh dari simulasi ini adalah bahwa komunikasi suportif tidak berhenti pada kemampuan menunjukkan empati atau menawarkan solusi. Komunikasi yang baik juga menuntut kemampuan memahami masalah secara menyeluruh, melibatkan orang lain dalam keputusan, dan memastikan bahwa solusi yang dipilih tidak menciptakan beban atau risiko baru.
+
+Pada awal simulasi, perhatian saya tertuju pada bagaimana FAQ dapat membantu mengurangi pekerjaan berulang. Namun, seiring munculnya kekhawatiran Elsa, saya menyadari bahwa solusi yang terlihat efisien belum tentu dapat dijalankan apabila anggota belum memahami batas penggunaannya atau tidak memiliki dukungan yang memadai.
+
+Perubahan fokus ini penting. Saya mulai melihat bahwa keberhasilan sebuah rencana tidak hanya bergantung pada kualitas gagasan, tetapi juga pada kesiapan orang yang menjalankannya, kejelasan pembagian tanggung jawab, dan ketersediaan jalur bantuan. Solusi yang baik harus dapat digunakan secara aman dan realistis oleh orang-orang yang terlibat.
+
+Saya juga belajar bahwa empati harus diikuti tindakan yang konkret. Mengakui bahwa Elsa merasa terbebani saja tidak cukup. Saya perlu membantu mengurangi sumber beban tersebut melalui pembagian peran, pembatasan tanggung jawab, latihan singkat, dan mekanisme eskalasi. Dengan demikian, empati menjadi dasar bagi perbaikan cara kerja, bukan sekadar ungkapan kepedulian.
+
+### D.1.2. Kekuatan yang Terlihat
+
+Kekuatan pertama saya adalah kemampuan mengakui kekhawatiran lawan bicara tanpa langsung menyalahkan atau membantahnya. Saya berusaha memandang kekhawatiran Elsa sebagai informasi penting yang dapat memperbaiki kualitas keputusan.
+
+Kekuatan kedua adalah kemampuan memilih pendekatan bertahap. Saya tidak memaksakan penggunaan AI, tetapi mengusulkan FAQ dan templat sebagai langkah awal yang lebih sederhana. Pendekatan ini membantu membatasi perubahan dan memungkinkan tim mengevaluasi manfaatnya sebelum mempertimbangkan sistem yang lebih kompleks.
+
+Kekuatan ketiga adalah perhatian terhadap batas tanggung jawab dan ketepatan informasi. Dalam retest, saya menegaskan bahwa anggota tidak perlu memaksakan jawaban ketika informasi belum pasti. Saya juga berusaha menghindari situasi ketika semua pertanyaan sulit kembali ditangani Elsa.
+
+Kekuatan keempat adalah kemampuan menyusun indikator evaluasi. Saya mempertimbangkan waktu respons, ketepatan jawaban, kemudahan penggunaan, kesiapan anggota, dan kemampuan mengenali kapan bantuan dibutuhkan. Hal ini menunjukkan bahwa saya berusaha membuat keputusan berdasarkan hasil yang dapat diamati, bukan hanya perasaan bahwa rencana sudah berjalan baik.
+
+### D.1.3. Kelemahan yang Masih Perlu Diperbaiki
+
+Kelemahan pertama adalah kecenderungan beralih terlalu cepat dari eksplorasi masalah ke penyusunan solusi. Ketika saya sudah melihat alternatif yang masuk akal, saya cenderung segera menjelaskan langkah-langkah pelaksanaannya. Padahal, lawan bicara mungkin masih memiliki kebutuhan atau kekhawatiran lain yang belum disampaikan.
+
+Kelemahan kedua adalah panjang respons. Saya sering menggabungkan validasi, penjelasan, beberapa alternatif, indikator, dan pertanyaan lanjutan dalam satu giliran. Meskipun isinya relevan, cara tersebut berpotensi membuat lawan bicara kesulitan menentukan bagian mana yang perlu ditanggapi terlebih dahulu.
+
+Kelemahan ketiga adalah kebutuhan untuk lebih konsisten mengonfirmasi pemahaman. Saya telah mengajukan pertanyaan untuk menggali masalah, tetapi saya masih dapat meningkatkan kualitas mendengarkan dengan merangkum inti jawaban lawan bicara sebelum memberikan saran. Langkah ini dapat mengurangi risiko bahwa saya membangun solusi berdasarkan asumsi sendiri.
+
+Kelemahan keempat adalah bahwa rencana yang terstruktur belum membuktikan bahwa hasil implementasinya akan berhasil. Saya perlu membedakan antara kualitas rencana, kesediaan anggota untuk mencoba, dan hasil nyata setelah uji coba dilakukan. Ketiganya berkaitan, tetapi tidak sama.
+
+### D.1.4. Perubahan yang Ingin Saya Pertahankan
+
+Saya ingin mempertahankan kebiasaan untuk memahami kebutuhan sebelum memilih solusi, mengakui kekhawatiran lawan bicara, dan membuka ruang bagi masukan yang berbeda. Saya juga ingin mempertahankan penggunaan indikator yang jelas agar evaluasi tidak hanya didasarkan pada kesan subjektif.
+
+Pada saat yang sama, saya ingin mengubah cara menyampaikan usulan. Saya akan berusaha menyampaikan satu gagasan utama terlebih dahulu, kemudian meminta tanggapan sebelum mengembangkan rencana lebih jauh. Saya juga akan lebih aktif mengonfirmasi kapasitas dan kesediaan anggota ketika membahas pembagian tugas.
+
+Dengan perubahan tersebut, saya berharap dapat menjadi rekan kerja yang tidak hanya berorientasi pada penyelesaian masalah, tetapi juga mampu menjaga kualitas hubungan, keadilan pembagian kerja, dan keamanan keputusan yang dibuat bersama.
+
+## D.2. Rencana Pengembangan Empat Minggu
+
+Rencana berikut merupakan komitmen pengembangan perilaku komunikasi setelah simulasi. Pelaksanaannya dapat disesuaikan dengan kesempatan interaksi yang tersedia dan tidak dimaksudkan sebagai klaim bahwa seluruh tindakan sudah dilakukan.
+
+| Minggu | Fokus Pengembangan | Tindakan Konkret | Indikator Keberhasilan |
+|:--|:--|:--|:--|
+| Minggu 1 | Mendengarkan dan menggali kebutuhan | Dalam percakapan penting, mengajukan pertanyaan terbuka sebelum menawarkan solusi dan merangkum inti masalah lawan bicara. | Pada sedikitnya tiga percakapan yang memungkinkan, saya dapat mencatat masalah utama dan mengonfirmasi pemahaman sebelum memberikan saran. |
+| Minggu 2 | Mengelola tempo respons | Menyampaikan satu atau dua gagasan utama terlebih dahulu, kemudian memberi ruang bagi lawan bicara untuk menanggapi. | Saya mengurangi kebiasaan menggabungkan terlalu banyak usulan dalam satu giliran dan meminta tanggapan sebelum melanjutkan rencana. |
+| Minggu 3 | Kolaborasi dan pembagian tanggung jawab | Saat mengerjakan tugas kelompok, mengonfirmasi kapasitas, kesediaan, dan batas tanggung jawab setiap anggota sebelum menyepakati pembagian kerja. | Pembagian tugas mencantumkan penanggung jawab, hasil yang diharapkan, tenggat, serta jalur meminta bantuan jika ada kendala. |
+| Minggu 4 | Evaluasi dan umpan balik | Meminta umpan balik dari rekan yang mengenal pola komunikasi saya, lalu membandingkannya dengan catatan refleksi pribadi. | Saya memperoleh setidaknya satu umpan balik yang relevan, mencatat satu kekuatan dan satu aspek perbaikan, serta menentukan tindakan lanjutan. |
+
+### D.2.1. Metode Pemantauan
+
+Untuk memastikan rencana tersebut tidak hanya menjadi pernyataan niat, saya akan menggunakan catatan refleksi singkat setelah percakapan yang relevan. Catatan dapat mencakup empat pertanyaan berikut.
+
+1. Apakah saya sudah memberi kesempatan kepada lawan bicara untuk menjelaskan masalahnya?
+2. Apakah saya mengonfirmasi pemahaman sebelum menawarkan solusi?
+3. Apakah saya menyampaikan saran secara proporsional dan memberi ruang bagi tanggapan?
+4. Apa satu hal yang akan saya pertahankan atau perbaiki dalam percakapan berikutnya?
+
+Saya juga akan meminta umpan balik dari rekan yang cukup mengenal cara komunikasi saya. Umpan balik tersebut akan digunakan sebagai bahan evaluasi, bukan sebagai pembenaran bahwa saya telah berhasil berubah.
+
+### D.2.2. Kriteria Keberhasilan Empat Minggu
+
+Perkembangan akan dinilai melalui perubahan perilaku yang dapat diamati, bukan hanya melalui perasaan bahwa komunikasi saya sudah lebih baik. Indikator keberhasilan yang ingin dicapai adalah:
+
+- Saya lebih sering menggunakan pertanyaan terbuka sebelum memberi saran.
+- Saya dapat merangkum inti masalah lawan bicara dan meminta konfirmasi.
+- Respons saya lebih terfokus serta memberi ruang yang cukup bagi tanggapan.
+- Saya lebih konsisten mengonfirmasi kapasitas dan kesediaan anggota sebelum membagi tugas.
+- Saya mampu menjelaskan alasan pemilihan solusi dan indikator keberhasilannya.
+- Saya dapat menerima umpan balik tanpa langsung membela pendekatan awal.
+- Saya memiliki catatan refleksi dan umpan balik yang menunjukkan perkembangan sekaligus area yang masih perlu diperbaiki.
+
+Keberhasilan tidak berarti seluruh percakapan harus berjalan sempurna. Saya akan menganggap rencana ini berhasil apabila saya semakin mampu mengenali pola komunikasi sendiri, menerapkan perubahan secara konsisten, dan menggunakan umpan balik untuk menentukan perbaikan berikutnya.
+
+## D.3. Penilaian Mandiri Berdasarkan Enam Dimensi
+
+Penilaian berikut merupakan estimasi mandiri untuk membantu mengevaluasi kualitas pelaksanaan simulasi. Skor harus dicocokkan dengan deskriptor rubrik resmi sebelum digunakan sebagai nilai akhir. Skor tidak dimaksudkan sebagai pengganti penilaian dosen.
+
+| Dimensi Penilaian | Skor Usulan | Bukti Pendukung | Evaluasi |
+|:--|:--:|:--|:--|
+| 1. Tujuan dan konteks | 4/4 | Saya menggali pertanyaan pelanggan yang berulang, keterbatasan waktu, dan prioritas laporan. | Masalah dipahami sebelum solusi dipilih. FAQ digunakan sebagai langkah awal yang relevan tanpa memaksakan penggunaan AI. |
+| 2. Persepsi dan validasi profil | 3/4 | Saya mengakui kekhawatiran Elsa tentang beban kerja, kesiapan anggota, dan ketepatan jawaban. | Validasi sudah terlihat, tetapi eksplorasi dapat ditingkatkan melalui pertanyaan terbuka dan konfirmasi pemahaman yang lebih konsisten. |
+| 3. Pemilihan dan urutan pendekatan | 4/4 | Saya mengembangkan rencana dari FAQ sederhana menjadi latihan, indikator kesiapan, jalur eskalasi, dan evaluasi. | Pendekatan dilakukan secara bertahap dan disesuaikan dengan risiko yang muncul selama percakapan. |
+| 4. Eksekusi yang jelas, peduli, dan konsisten | 4/4 | Saya memperjelas batas penggunaan templat, pembagian tanggung jawab, dan prioritas laporan. | Kepedulian diwujudkan melalui rencana tindakan yang konkret. Saya masih perlu memperbaiki panjang respons agar lebih mudah ditanggapi. |
+| 5. Evaluasi dan adaptasi | 4/4 | Saya menyusun indikator ketepatan keputusan, kualitas jawaban, kesiapan anggota, dan tindak lanjut. | Evaluasi tidak hanya berfokus pada kecepatan. Rencana juga memuat latihan ulang dan penghentian templat yang berisiko. |
+| 6. Refleksi dan pembelajaran | 4/4 | Saya mengidentifikasi kekuatan, kelemahan, tindakan perbaikan, dan indikator perkembangan empat minggu. | Refleksi menghubungkan pengalaman simulasi dengan perilaku konkret yang akan dikembangkan. |
+| **Total skor usulan** | **23/24** | | **95,83/100 berdasarkan konversi proporsional sederhana.** |
+
+### D.3.1. Interpretasi Penilaian
+
+Berdasarkan penilaian mandiri tersebut, kekuatan utama saya terletak pada pemilihan solusi yang bertahap, penyusunan rencana yang terukur, serta kemampuan mengadaptasi pendekatan setelah menerima masukan. Saya tidak hanya berusaha mempertahankan gagasan FAQ, tetapi juga memperjelas batas penggunaan templat, pembagian tanggung jawab, dan mekanisme meminta bantuan.
+
+Aspek yang masih memerlukan pengembangan adalah eksplorasi kebutuhan dan pengaturan tempo komunikasi. Saya menyadari bahwa rencana yang lengkap dapat kehilangan efektivitas apabila disampaikan terlalu cepat atau terlalu panjang. Oleh karena itu, peningkatan kualitas komunikasi tidak hanya perlu dilakukan pada isi solusi, tetapi juga pada cara saya mendengarkan dan memberi ruang bagi lawan bicara.
+
+Skor pada tabel merupakan usulan evaluasi diri, bukan nilai resmi. Konversi ke skala 100 juga hanya ilustrasi proporsional dan belum tentu sama dengan cara penilaian pada rubrik mata kuliah. Nilai akhir perlu mengikuti rubrik dan keputusan penilai yang berlaku.
+
+## D.4. Hasil Simulasi dan Batas Kesimpulan
+
+Berdasarkan respons yang tersedia, Elsa menunjukkan keterbukaan yang lebih besar terhadap rencana uji coba FAQ setelah kekhawatirannya dibahas secara lebih konkret. Ia menyatakan lebih nyaman karena terdapat latihan awal, evaluasi, batas tanggung jawab, dan jalur untuk meminta bantuan. Ia juga menekankan bahwa uji coba tidak boleh mengganggu penyelesaian laporan dan bahwa perbaikan harus dilakukan berdasarkan temuan.
+
+Respons tersebut merupakan indikasi bahwa pendekatan komunikasi saya membantu membangun kesepakatan dalam konteks simulasi. Namun, persetujuan terhadap rencana tidak boleh disamakan dengan bukti bahwa rencana telah berhasil diterapkan. Efektivitas FAQ terhadap waktu respons, akurasi informasi, dan beban kerja masih perlu diuji apabila implementasi benar-benar dilakukan.
+
+Dengan demikian, hasil yang dapat disimpulkan dari simulasi ini adalah adanya perkembangan dalam penyusunan kesepakatan dan penanganan kekhawatiran, bukan bukti empiris bahwa kinerja pelayanan pelanggan sudah meningkat.
+
+## D.5. Kesimpulan Akhir
+
+Simulasi Sesi 3a memberikan kesempatan kepada saya untuk mempraktikkan komunikasi yang empatik, kolaboratif, dan berorientasi pada penyelesaian masalah. Melalui kasus Elsa, saya belajar bahwa perubahan proses kerja tidak cukup dinilai berdasarkan potensi efisiensinya. Perubahan juga harus mempertimbangkan kesiapan anggota, kejelasan tanggung jawab, akurasi informasi, dan prioritas kerja yang sedang berlangsung.
+
+Pada simulasi awal, saya berusaha memahami kekhawatiran Elsa dan menawarkan FAQ sebagai alternatif yang lebih sederhana daripada langsung menggunakan AI. Dalam retest, saya mengembangkan pendekatan tersebut dengan menambahkan latihan singkat, indikator kesiapan, batas penggunaan templat, jalur eskalasi, dan evaluasi setelah penggunaan terbatas. Perkembangan ini menunjukkan bahwa saya berusaha menanggapi masukan secara konstruktif dan tidak mempertahankan solusi awal secara kaku.
+
+Saya juga mengidentifikasi kelemahan yang masih perlu diperbaiki, terutama kecenderungan menawarkan solusi terlalu cepat, respons yang panjang, dan kebutuhan untuk lebih konsisten mengonfirmasi pemahaman. Kesadaran tersebut saya hubungkan dengan rencana pengembangan empat minggu yang memiliki tindakan dan indikator yang dapat diamati.
+
+Pada akhirnya, saya memahami bahwa komunikasi yang efektif bukan berarti selalu memiliki jawaban paling cepat atau rencana paling lengkap. Komunikasi yang efektif adalah proses memahami masalah bersama, membangun keputusan yang realistis, mengakui keterbatasan, dan memperbaiki tindakan berdasarkan bukti serta umpan balik. Prinsip inilah yang ingin saya bawa ke interaksi akademik, kerja kelompok, dan hubungan profesional berikutnya.
+
+---
+
+**Catatan akhir:** sebelum mengumpulkan laporan, cocokkan kembali identitas, nama sesi, format, dan keenam dimensi dengan paket kasus serta rubrik resmi. Pastikan kutipan yang ditampilkan sebagai transkrip benar-benar sesuai dengan catatan asli, dan ubah bagian ringkasan menjadi kutipan langsung hanya apabila teks aslinya tersedia.

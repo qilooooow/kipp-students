@@ -1,0 +1,359 @@
+---
+title: "Laporan UTS KIPP 2026 — Sesi 3b"
+subtitle: "Kasus 3 — Menawarkan Solusi TI/AI yang Sesuai Kebutuhan"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Aqila Zahra Athaya |
+| NIM | 18225077 |
+| Kelas | K-01 |
+| Tanggal pelaksanaan | 14 Oktober 2026 |
+| Sesi | Sesi 3b — urutan 5 dari 5 |
+| Nomor/judul kasus | Kasus 3 — Menawarkan solusi TI/AI yang sesuai kebutuhan |
+| Nama dan ID target | Ali (K3-01) |
+| Versi bank/aturan penugasan | Bank 2.0; paket individual 2.0 |
+| Modalitas | Suara |
+| Status kasus | Kasus konseptual/fiktif |
+| Kelengkapan transkrip | Parsial. Kutipan yang tersedia ditandai sebagai kutipan langsung, sedangkan bagian yang hanya tersedia dalam ringkasan ditandai sebagai ringkasan. |
+
+# B) Kasus dan Tujuan
+
+## B.1 Deskripsi kasus
+
+Ali mengelola usaha kecil dengan tenaga kerja terbatas. Pesanan pelanggan masuk melalui WhatsApp. Ketika kondisi ramai, Ali perlu membalas pesan, menyiapkan pesanan, dan menangani pekerjaan operasional lainnya secara bersamaan. Akibatnya, pencatatan pesanan terkadang mengandalkan buku atau ingatan. Banyaknya pesan dapat menimbulkan risiko pesanan terlewat, terlambat diproses, atau tercatat secara tidak konsisten.
+
+Ali ingin pengelolaan usaha menjadi lebih teratur, tetapi belum yakin mampu menjalankan teknologi baru. Ia khawatir proses pencatatan tambahan akan menyita waktu, staf tidak konsisten memperbarui status pesanan, dan penggunaan AI justru menambah kerumitan.
+
+Tujuan mahasiswa bukan meyakinkan Ali agar menggunakan AI, melainkan memahami masalah operasionalnya, menggali kebutuhan dan keterbatasan, membandingkan pilihan yang sesuai, serta membantu Ali menentukan langkah awal yang realistis. Solusi harus mempertimbangkan manfaat, risiko, kemudahan penggunaan, waktu, pembagian tanggung jawab, dan kemampuan pengguna.
+
+## B.2 Tujuan komunikasi
+
+Tujuan komunikasi dalam simulasi ini adalah:
+
+1. Menggali alur pengelolaan pesanan yang berlangsung saat ini sebelum menawarkan solusi.
+2. Memvalidasi kekhawatiran Ali tanpa menganggap keraguan sebagai penolakan.
+3. Membedakan fungsi daftar pesanan, FAQ atau balasan cepat, spreadsheet, dan AI.
+4. Menawarkan langkah awal yang sederhana, terukur, dan dapat disesuaikan.
+5. Menjelaskan batas solusi secara jujur, termasuk risiko pesan yang terlewat dan beban pencatatan.
+6. Melibatkan Ali dalam menentukan cakupan uji coba, dukungan, dan indikator evaluasi.
+7. Memastikan keputusan untuk belum menggunakan AI tetap dihormati.
+
+Keberhasilan komunikasi tidak diukur dari persetujuan Ali untuk menggunakan teknologi tertentu. Keberhasilan lebih tepat dinilai dari apakah Ali memahami pilihan yang tersedia, dapat menjelaskan langkah yang disepakati, merasa cukup aman untuk menyampaikan kekhawatiran, dan memiliki kesempatan untuk menolak atau mengubah rencana.
+
+## B.3 Profil awal komunikator
+
+| Unsur | Analisis |
+|---|---|
+| SWOT subjektif | Mahasiswa berupaya menemukan solusi yang berguna tanpa langsung menganggap AI sebagai jawaban. Kekuatan yang terlihat adalah kesediaan menggali kebutuhan, membandingkan alternatif, dan menyusun langkah kecil. Area yang perlu diperbaiki adalah menjaga pesan tetap ringkas serta menggali kondisi awal dan frekuensi masalah dengan lebih terarah. |
+| Attitude | Mengutamakan pemahaman kebutuhan, kepedulian terhadap kondisi Ali, keterlibatan komunikan, dan keputusan tanpa paksaan. |
+| Knowledge | Memahami perbedaan fungsi daftar pesanan, FAQ atau balasan cepat, dan AI. Mahasiswa juga menyadari bahwa informasi stok serta status pesanan harus akurat dan AI tidak otomatis menjadi solusi terbaik. |
+| Skill | Mampu mengusulkan latihan, panduan singkat, pencatatan bertahap, dan indikator evaluasi. Keterampilan ini masih perlu dibuktikan melalui pelaksanaan nyata. |
+| Preferensi atau MBTI | Tidak ada informasi MBTI yang dapat dipastikan dari bahan yang tersedia. |
+| Peran dan konteks | Mahasiswa berperan sebagai komunikator yang membantu pemilik usaha menilai solusi operasional sesuai kebutuhan dan kapasitasnya. |
+
+Analisis tersebut merupakan penilaian berdasarkan bahan simulasi, bukan pengukuran psikologis formal. Kesimpulan tentang karakter pribadi tidak dibuat melebihi bukti yang tersedia.
+
+## B.4 Profil awal target dan rencana TAIDA
+
+Informasi mengenai Ali perlu diperlakukan sebagai dugaan sampai divalidasi melalui percakapan. Keraguan Ali tidak otomatis berarti ia menolak perubahan. Keraguan tersebut dapat berkaitan dengan keterbatasan waktu, kemampuan staf, beban kerja, atau ketidakpastian mengenai manfaat teknologi.
+
+| Tahap | Fokus | Strategi komunikasi | Bukti yang diharapkan |
+|---|---|---|---|
+| Target | Menemukan solusi yang sesuai dengan masalah operasional. | Menentukan tujuan bersama tanpa memaksakan adopsi AI. | Ali memahami dan ikut menentukan langkah berikutnya. |
+| Attention | Mengakui keraguan dan menarik perhatian pada masalah yang relevan. | Menggunakan pertanyaan terbuka serta pengakuan terhadap kekhawatiran. | Ali bersedia menjelaskan proses yang berlangsung. |
+| Interest | Memahami alur pesanan dan hambatan utama. | Menggali pencatatan, volume pesan, kondisi ramai, dan keterbatasan waktu. | Kebutuhan dan masalah dapat dirumuskan secara lebih konkret. |
+| Desire | Membantu Ali melihat kemungkinan perbaikan yang realistis. | Menjelaskan alternatif dan manfaat tanpa menutupi risiko. | Ali dapat mempertimbangkan pilihan berdasarkan kebutuhannya. |
+| Action | Menyusun langkah awal yang dapat dicoba. | Memberikan contoh, latihan, pembagian tanggung jawab, dan indikator evaluasi. | Terdapat rencana yang realistis dan dapat dievaluasi bersama. |
+
+Dalam kerangka ASK, tiga hal harus dibedakan. **Attitude** berkaitan dengan sikap dan kesediaan; **Knowledge** berkaitan dengan pemahaman prosedur; sedangkan **Skill** berkaitan dengan kemampuan menjalankan prosedur. Kesediaan mencoba tidak membuktikan bahwa keterampilan telah dikuasai atau bahwa solusi akan berhasil.
+
+# C) Skrip Percakapan
+
+## C.1 Catatan integritas transkrip
+
+Bagian ini menyajikan kutipan langsung yang tersedia dan ringkasan untuk bagian percakapan yang tidak tersedia secara verbatim. ID U dan AI merupakan ID referensi dalam laporan ini, bukan nomor pesan asli dari antarmuka chat.
+
+Ringkasan tidak boleh dianggap sebagai transkrip kata demi kata. Oleh karena itu, penilaian yang menggunakan ringkasan harus dibaca dengan mempertimbangkan keterbatasan bukti.
+
+## C.2 Tahap B — Perencanaan awal
+
+**U-B01 — Ringkasan perencanaan mahasiswa, bukan transkrip verbatim.**
+
+Mahasiswa menetapkan tujuan untuk memahami kebutuhan operasional Ali terlebih dahulu, memisahkan fakta dari asumsi, menggali proses yang berlangsung, dan mempertimbangkan beberapa alternatif. Alternatif tersebut mencakup daftar pesanan sederhana, FAQ atau balasan cepat, spreadsheet, dan AI apabila benar-benar dibutuhkan.
+
+Indikator keberhasilan yang direncanakan meliputi kebutuhan yang terkonfirmasi, konteks yang tergali, alternatif yang dibandingkan, keterlibatan Ali dalam keputusan, serta adanya tindak lanjut yang realistis. Mahasiswa juga merencanakan evaluasi terhadap pesanan yang terlewat, kelengkapan catatan, kemudahan penggunaan, dan beban kerja.
+
+## C.3 Tahap C — Simulasi awal
+
+**AI-C01 — Kutipan langsung Ali:**
+
+> Terima kasih, tetapi saya belum yakin bisa melakukannya.
+
+**U-C01 — Ringkasan respons mahasiswa.**
+
+Mahasiswa merespons dengan empati dan menanyakan hal yang membuat Ali merasa khawatir.
+
+**AI-C02 — Ringkasan respons Ali.**
+
+Ali ingin pengelolaan usaha lebih teratur, tetapi khawatir proses baru akan rumit, staf kesulitan menyesuaikan diri, dan dirinya belum memahami AI.
+
+**U-C02 — Kutipan langsung mahasiswa:**
+
+> Supaya saya bisa memahami situasimu dengan lebih tepat, boleh ceritakan bagaimana proses pengelolaan pesanan selama ini?
+
+**AI-C03 — Ringkasan respons Ali.**
+
+Pesanan masuk melalui WhatsApp. Saat ramai, Ali membalas pesan sambil melakukan pekerjaan lain. Pesanan terkadang dicatat di buku atau diingat. Banyak pesan yang datang bersamaan menimbulkan risiko kebingungan, pesanan ganda, atau pesanan yang tidak tercatat. Ali juga khawatir aplikasi tambahan justru menambah pekerjaan.
+
+**U-C03 — Ringkasan respons mahasiswa.**
+
+Mahasiswa mengusulkan daftar pesanan terpusat dengan informasi nama pelanggan, pesanan, waktu, dan status. Penerapan dapat dimulai pada pesanan baru selama beberapa hari. AI tidak diposisikan sebagai kebutuhan awal.
+
+**AI-C04 — Ringkasan respons Ali.**
+
+Ali khawatir staf tidak konsisten memperbarui status pesanan dan kesalahan masih dapat terjadi.
+
+**U-C04 — Ringkasan respons mahasiswa.**
+
+Mahasiswa mengusulkan uji coba selama satu minggu, format pencatatan yang sama, pembagian tanggung jawab, latihan contoh, dan pemeriksaan singkat. Evaluasi diarahkan pada pesanan yang terlewat, kelengkapan catatan, konsistensi status, dan beban kerja. Mahasiswa tidak menjanjikan bahwa kesalahan dapat dihilangkan sepenuhnya.
+
+**AI-C05 — Ringkasan respons Ali.**
+
+Ali khawatir pelatihan akan menyita waktu, terutama ketika usaha sedang ramai.
+
+**U-C05 — Ringkasan respons mahasiswa.**
+
+Mahasiswa mengusulkan panduan satu halaman, latihan sekitar 10–15 menit pada waktu yang lebih sepi, contoh praktik, dan pemeriksaan singkat. Metode dapat disesuaikan atau dihentikan jika justru menambah beban.
+
+**AI-C06 — Ringkasan respons Ali.**
+
+Ali menanyakan perbedaan daftar pesanan biasa dengan AI untuk menjawab pertanyaan pelanggan yang berulang.
+
+**U-C06 — Ringkasan respons mahasiswa.**
+
+Mahasiswa menjelaskan bahwa daftar pesanan digunakan untuk melacak pesanan, sedangkan FAQ atau balasan cepat membantu menjawab pertanyaan berulang. AI hanya menjadi pilihan lanjutan jika cara sederhana belum memadai. Informasi stok dan status pesanan harus tetap akurat; AI tidak boleh dianggap selalu mengetahui keadaan operasional terbaru.
+
+**AI-C07 — Ringkasan respons Ali.**
+
+Ali ingin mengetahui cara mengevaluasi apakah solusi benar-benar membantu.
+
+**U-C07 — Ringkasan respons mahasiswa.**
+
+Mahasiswa mengusulkan pengamatan terhadap pesanan yang terlewat atau terlambat, kelengkapan pencatatan, konsistensi status, kemudahan penggunaan, dan waktu atau beban kerja. Kondisi sebelum uji coba perlu dijadikan pembanding.
+
+**AI-C08 — Ringkasan respons Ali.**
+
+Ali menyatakan bersedia mencoba daftar pesanan dan meminta contoh atau demonstrasi. Ia belum membutuhkan AI, tetapi bersedia mempertimbangkan kembali setelah ada evaluasi.
+
+**U-C08 — Ringkasan respons mahasiswa.**
+
+Mahasiswa merangkum cakupan awal, kolom yang diperlukan, waktu uji coba, pembagian peran, panduan, dan indikator evaluasi. Ali diberi kesempatan untuk mengonfirmasi atau memperbaiki rencana.
+
+## C.4 Tahap D — Evaluasi sementara dan revisi
+
+**U-D01 — Ringkasan evaluasi mahasiswa.**
+
+Mahasiswa menilai bahwa pendekatan awal telah menunjukkan orientasi pada kebutuhan Ali, penjelasan alternatif, dan upaya mengurangi tekanan. Namun, terdapat beberapa hal yang perlu diperbaiki:
+
+1. Kondisi awal belum cukup terukur, khususnya frekuensi pesanan yang terlewat atau terlambat.
+2. Kesiapan waktu, perangkat, dan pembagian tanggung jawab perlu diperiksa lebih terarah.
+3. Pesan yang memuat terlalu banyak ide dapat menyulitkan Ali memahami langkah utama.
+4. Rencana evaluasi harus membandingkan kondisi sebelum dan sesudah uji coba.
+5. Persetujuan terhadap rencana belum membuktikan bahwa Ali mampu menjalankannya.
+
+**U-D02 — Kutipan pertanyaan revisi mahasiswa:**
+
+> Dalam satu minggu terakhir, kira-kira seberapa sering ada pesanan yang terlewat atau terlambat diproses, dan biasanya terjadi dalam situasi seperti apa?
+
+Pertanyaan ini digunakan untuk memperjelas kebutuhan baseline sebelum menilai keberhasilan solusi.
+
+**U-D03 — Ringkasan rencana perbaikan.**
+
+Mahasiswa merencanakan pertanyaan yang lebih terfokus, satu gagasan utama per giliran, rangkuman yang dapat dikoreksi Ali, pemeriksaan waktu dan kesiapan operasional, latihan satu atau dua contoh, serta evaluasi dengan indikator yang disepakati bersama.
+
+## C.5 Tahap E — Simulasi ulang
+
+**AI-E01 — Ringkasan kendala baru Ali.**
+
+Pada minggu berikutnya, tenaga bantuan Ali akan absen selama beberapa hari. Ali memiliki lebih sedikit waktu untuk mencatat setiap pesanan.
+
+**U-E01 — Ringkasan respons mahasiswa.**
+
+Mahasiswa mengakui bahwa situasi tersebut dapat menambah beban dan menanyakan apakah Ali masih dapat mencatat pesanan langsung atau perlu memprioritaskan pelanggan ketika kondisi ramai.
+
+**AI-E02 — Ringkasan respons Ali.**
+
+Ketika ramai, Ali harus menangani pelanggan, WhatsApp, dan persiapan pesanan. Pencatatan langsung mungkin tidak konsisten sehingga pesan terkadang baru ditinjau kembali setelah kondisi lebih tenang.
+
+**U-E02 — Ringkasan respons mahasiswa.**
+
+Mahasiswa mengusulkan agar pesan WhatsApp yang belum ditindaklanjuti diberi penanda, misalnya dengan fitur pin atau status belum dibaca jika sesuai. Pesan tersebut kemudian dipindahkan ke daftar ketika keadaan lebih tenang. Mahasiswa juga mengakui bahwa penanda dapat terlewat atau berubah sehingga pemeriksaan tetap diperlukan.
+
+**AI-E03 — Ringkasan respons Ali.**
+
+Ali menilai cara tersebut mungkin dilakukan, tetapi khawatir pesan yang sudah dibaca akan terlupakan, penanda berubah, atau tidak ada waktu untuk memeriksa daftar.
+
+**U-E03 — Ringkasan respons mahasiswa.**
+
+Mahasiswa mengusulkan pemeriksaan fleksibel setelah periode ramai. Pesan yang sudah ditandai diperiksa dan dibandingkan dengan daftar. Penanda baru dihapus setelah pesanan dicatat. Cara ini dapat diuji terlebih dahulu pada beberapa pesanan, lalu dievaluasi berdasarkan pesanan terlewat dan beban kerja.
+
+**AI-E04 — Ringkasan respons Ali.**
+
+Ali menyatakan pemeriksaan setelah kondisi ramai lebih realistis daripada menetapkan waktu yang kaku. Ia ingin melihat contoh pencatatan.
+
+**U-E04 — Ringkasan respons mahasiswa.**
+
+Mahasiswa memberi contoh hipotetis pelanggan bernama Rina yang memesan dua produk. Saat ramai, pesan Rina ditandai. Setelah kondisi lebih tenang, pesanan dicatat dengan nama pelanggan, rincian pesanan, waktu, dan status. Status dapat berupa “Belum diproses”, “Sedang diproses”, dan “Selesai”. Penanda baru dihapus setelah pencatatan dilakukan.
+
+Contoh Rina merupakan ilustrasi prosedur, bukan data pelanggan nyata.
+
+**AI-E05 — Ringkasan respons Ali.**
+
+Ali memahami contoh tersebut, tetapi menanyakan apakah pesan yang menumpuk dapat dicatat secara bertahap. Ia khawatir kesulitan menentukan prioritas dan munculnya pekerjaan tertunda.
+
+**U-E05 — Ringkasan respons mahasiswa.**
+
+Mahasiswa menjelaskan bahwa pesan yang belum dicatat harus tetap ditandai. Pesanan dapat diprioritaskan berdasarkan urgensi atau tenggat, lalu dipindahkan ke daftar secara bertahap. Pada pemeriksaan berikutnya, pesan yang masih ditandai perlu dibandingkan dengan daftar agar tidak ada yang terlewat. Uji coba dimulai dari satu atau dua contoh, kemudian beberapa pesanan nyata ketika kondisi memungkinkan. Tidak diperlukan aplikasi tambahan atau AI pada tahap ini.
+
+**AI-E06 — Kutipan langsung respons penutup Ali:**
+
+> Ya, saya setuju. Saya merasa lebih tenang karena sekarang saya tidak harus memaksakan pencatatan semua pesanan sekaligus ketika sedang sibuk. Saya juga memahami bahwa pesan yang belum masuk ke daftar harus tetap ditandai dan diperiksa kembali. Saya akan mulai dengan satu atau dua contoh latihan supaya saya terbiasa mengisi daftar dan memperbarui status pesanan. Setelah itu, saya akan mencoba mekanisme ini pada beberapa pesanan nyata ketika kondisi memungkinkan. Saya juga akan memperhatikan apakah ada pesanan yang terlewat, apakah pencatatannya mudah dilakukan, dan apakah cara ini justru menambah beban kerja. Saya masih belum yakin bisa menjalankannya dengan konsisten ketika usaha sedang ramai, tetapi sekarang saya tahu langkah awal yang bisa dicoba dan apa yang perlu diperiksa. Kalau ternyata mekanisme ini belum cocok, saya bersedia mengevaluasi dan menyederhanakannya lagi. Untuk saat ini, saya setuju untuk mencoba daftar pesanan dan penandaan WhatsApp terlebih dahulu. Saya belum membutuhkan AI atau aplikasi tambahan. Saya ingin memastikan cara sederhana ini benar-benar membantu sebelum mempertimbangkan pilihan lain.
+
+## C.6 Tahap F — Refleksi akhir
+
+**U-F01 — Ringkasan refleksi mahasiswa.**
+
+Mahasiswa menyimpulkan bahwa perubahan utama adalah bergeser dari fokus pada penawaran solusi menuju pemahaman terhadap keadaan dan kapasitas Ali. Pada simulasi awal, mahasiswa membahas daftar pesanan, panduan, dan AI. Pada uji ulang, rencana disesuaikan dengan absennya tenaga bantuan dan keterbatasan waktu.
+
+Mahasiswa mengidentifikasi bahwa langkah kecil, contoh konkret, penjelasan risiko, dan fleksibilitas dapat membantu Ali memahami pilihan. Namun, penandaan WhatsApp tetap memiliki risiko, pesan dapat menumpuk, dan keterampilan Ali belum dibuktikan melalui pelaksanaan nyata.
+
+**Pertanyaan refleksi wajib:**
+
+*Pesan apa yang membantu atau menghambat rasa dipercaya dan dipedulikan, dan apa bukti responsnya?*
+
+Pesan yang paling membantu adalah penegasan bahwa Ali tidak harus mencatat seluruh pesanan sekaligus ketika sedang sibuk, tetapi pesan yang belum dicatat harus tetap ditandai dan diperiksa. Pesan tersebut menunjukkan bahwa keterbatasan waktu Ali diperhatikan dan bahwa solusi tidak dipaksakan sebagai aturan yang kaku.
+
+Bukti responsnya terlihat dalam pernyataan Ali:
+
+> Saya merasa lebih tenang karena sekarang saya tidak harus memaksakan pencatatan semua pesanan sekaligus ketika sedang sibuk.
+
+Bukti lain adalah kesediaan Ali berlatih satu atau dua contoh, mencoba beberapa pesanan nyata, dan mengevaluasi kemudahan serta beban kerja. Respons ini menunjukkan keterbukaan dan kesiapan awal dalam simulasi, tetapi belum membuktikan kepercayaan penuh atau keberhasilan operasional.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## D.1 Hasil simulasi berdasarkan ASK
+
+| Dimensi | Hasil yang terlihat | Bukti | Batas interpretasi |
+|---|---|---|---|
+| Attitude | Ali tampak lebih tenang dan bersedia mencoba metode sederhana. | “Saya merasa lebih tenang karena sekarang saya tidak harus memaksakan pencatatan semua pesanan sekaligus ketika sedang sibuk.” | Tidak membuktikan perubahan sikap jangka panjang atau kepercayaan penuh. |
+| Knowledge | Ali memahami bahwa pesan yang belum masuk daftar harus tetap ditandai dan diperiksa kembali. | “Saya juga memahami bahwa pesan yang belum masuk ke daftar harus tetap ditandai dan diperiksa kembali.” | Pemahaman dalam percakapan belum membuktikan penerapan konsisten. |
+| Skill | Ali meminta latihan satu atau dua contoh sebelum mencoba pada beberapa pesanan nyata. | “Saya akan mulai dengan satu atau dua contoh latihan supaya saya terbiasa mengisi daftar dan memperbarui status pesanan.” | Keterampilan praktik belum diuji dan tidak boleh dianggap sudah dikuasai. |
+
+Respons Ali menunjukkan bahwa komunikasi membantu memperjelas langkah awal. Namun, hasil tersebut baru berupa pemahaman dan kesiapan dalam simulasi. Belum ada data penerapan untuk memastikan bahwa jumlah pesanan yang terlewat menurun atau beban kerja benar-benar berkurang.
+
+## D.2 Evaluasi stimulus dan respons
+
+| Stimulus atau tindakan komunikator | Respons yang terlihat | Evaluasi |
+|---|---|---|
+| Mengakui keraguan Ali dan menggali proses pengelolaan pesanan. | Ali menjelaskan penggunaan WhatsApp, buku, dan ingatan ketika ramai. | Membantu membuka konteks masalah sebelum memilih solusi. |
+| Membedakan daftar pesanan, FAQ/balasan cepat, dan AI. | Ali memahami bahwa AI bukan kebutuhan awal. | Membantu mencegah penggunaan teknologi yang tidak diperlukan. |
+| Menawarkan panduan, latihan, dan pembagian tanggung jawab. | Ali mempertimbangkan uji coba tetapi khawatir tentang waktu pelatihan. | Berguna, tetapi perlu menyesuaikan dukungan dengan kapasitas aktual. |
+| Mengadaptasi proses dengan penandaan WhatsApp dan pencatatan bertahap. | Ali menyatakan lebih tenang dan memahami langkah awal. | Menunjukkan respons yang lebih sesuai terhadap kendala baru. |
+| Menjelaskan indikator evaluasi dan kemungkinan menyederhanakan cara. | Ali bersedia memperhatikan pesanan terlewat, kemudahan, dan beban kerja. | Mendukung evaluasi yang realistis, tetapi hasil nyata masih harus dikumpulkan. |
+
+## D.3 Evaluasi kualitas relasi
+
+Kualitas relasi dinilai melalui tindakan yang dapat diamati, bukan dengan mengasumsikan perasaan batin Ali. Tindakan yang mendukung rasa dipedulikan meliputi pengakuan terhadap keterbatasan waktu, pemberian pilihan, penjelasan risiko, contoh konkret, dan penghormatan terhadap keputusan untuk belum menggunakan AI.
+
+Bukti yang paling jelas adalah Ali mengatakan bahwa ia merasa lebih tenang dan bersedia mencoba metode sederhana. Respons tersebut mendukung kesimpulan bahwa interaksi membantu meningkatkan kenyamanan dalam simulasi. Akan tetapi, persetujuan mencoba tidak sama dengan kepercayaan penuh. Ali tetap menyatakan keraguan mengenai konsistensi ketika usaha ramai, dan keraguan tersebut perlu dihormati sebagai informasi penting.
+
+## D.4 Evaluasi adaptasi dari simulasi awal ke uji ulang
+
+Perbedaan utama antara simulasi awal dan uji ulang adalah perubahan fokus dari rancangan daftar pesanan yang ideal menuju prosedur yang lebih sesuai dengan keterbatasan operasional.
+
+Pada simulasi awal, mahasiswa mengusulkan daftar terpusat, panduan, latihan, dan evaluasi. Pada uji ulang, muncul kendala baru berupa absennya tenaga bantuan selama beberapa hari. Mahasiswa kemudian mengadaptasi prosedur dengan penandaan pesan WhatsApp, pencatatan bertahap, pemeriksaan fleksibel setelah periode ramai, dan latihan contoh.
+
+Adaptasi tersebut menunjukkan bahwa solusi tidak diperlakukan sebagai aturan kaku. Mahasiswa juga tidak menjanjikan bahwa metode baru akan menghilangkan seluruh kesalahan. Risiko penanda terlewat dan penumpukan pesan tetap diakui.
+
+Hal yang masih perlu diperbaiki adalah memastikan kondisi awal lebih terukur, misalnya frekuensi pesanan yang terlewat dalam satu minggu terakhir, jumlah pesan saat periode ramai, perangkat yang tersedia, dan siapa yang bertanggung jawab memperbarui status. Pertanyaan sebaiknya diajukan secara bertahap agar Ali tidak menerima terlalu banyak informasi sekaligus.
+
+## D.5 Penilaian enam dimensi
+
+Skor berikut merupakan **usulan penilaian AI untuk moderasi dosen**, bukan nilai resmi. Penilaian didasarkan pada kutipan langsung yang tersedia dan ringkasan tahap lain. Karena transkrip lengkap tidak tersedia, dosen perlu memeriksa kesesuaian bukti dengan riwayat percakapan asli.
+
+| Dimensi | Skor | Bukti | Alasan |
+|---|---:|---|---|
+| Tujuan dan konteks | 4/4 | U-B01; U-C02: “Supaya saya bisa memahami situasimu dengan lebih tepat, boleh ceritakan bagaimana proses pengelolaan pesanan selama ini?”; U-D02: “Dalam satu minggu terakhir, kira-kira seberapa sering ada pesanan yang terlewat atau terlambat diproses, dan biasanya terjadi dalam situasi seperti apa?” | Tujuan berorientasi pada kebutuhan, bukan penggunaan AI. Mahasiswa juga mengidentifikasi kebutuhan baseline dan memperbaiki rencana evaluasi. |
+| Persepsi dan validasi profil/status | 4/4 | AI-C02 dan AI-E01–AI-E06 (ringkasan kendala); AI-E06: “Saya masih belum yakin bisa menjalankannya dengan konsisten ketika usaha sedang ramai...” | Mahasiswa tidak menganggap keraguan sebagai penolakan dan menyesuaikan rencana dengan keterbatasan waktu. Penilaian ini mencakup adaptasi lintas tahap, dengan batas bukti berupa transkrip parsial. |
+| Pemilihan dan urutan repertoar | 4/4 | U-C06 dan U-E03–U-E05 (ringkasan pembedaan alternatif dan penyesuaian prosedur) | Solusi sederhana diprioritaskan, risiko dijelaskan, dan AI tidak dipaksakan. Uji ulang menunjukkan penyesuaian langkah berdasarkan kendala baru. |
+| Eksekusi jelas, peduli, dan konsisten | 3/4 | U-C02; AI-E06: “Saya merasa lebih tenang karena sekarang saya tidak harus memaksakan pencatatan semua pesanan sekaligus ketika sedang sibuk.” | Ada pertanyaan terbuka, dukungan konkret, dan penghormatan pilihan. Namun, beberapa respons awal diringkas sebagai memuat banyak ide sekaligus dan kelengkapan eksekusi belum dapat diverifikasi dari transkrip lengkap. |
+| Evaluasi dan adaptasi | 4/4 | U-D02; AI-E06: “Saya juga akan memperhatikan apakah ada pesanan yang terlewat, apakah pencatatannya mudah dilakukan, dan apakah cara ini justru menambah beban kerja.” | Mahasiswa menyusun indikator, mengenali perlunya baseline, dan mengadaptasi metode pada kendala tenaga bantuan. Nilai ini menilai kualitas rencana, bukan keberhasilan implementasi. |
+| Refleksi dan lesson learned | 4/4 | U-F01; AI-E06: “Kalau ternyata mekanisme ini belum cocok, saya bersedia mengevaluasi dan menyederhanakannya lagi.” | Refleksi membedakan attitude, knowledge, dan skill; membahas stimulus efektif, risiko, bukti respons, serta tindak lanjut. Keterbatasannya, catatan refleksi yang tersedia berupa ringkasan. |
+| **Jumlah** | **23/24** | | **Nilai usulan AI = 23 ÷ 24 × 100 = 95,83/100. Menunggu moderasi dosen.** |
+
+Skor 23/24 menghasilkan 95,83/100, bukan 98. Dengan enam dimensi yang masing-masing menggunakan skor bulat 1–4, nilai tepat 98 tidak dapat diperoleh dari rumus tersebut. Skor tidak dinaikkan hanya untuk mencapai target angka. Penilaian akhir tetap menjadi kewenangan dosen dan dapat berubah setelah pemeriksaan bukti lengkap.
+
+## D.6 Refleksi akhir mahasiswa
+
+Pelajaran terpenting dari simulasi ini adalah bahwa komunikasi yang suportif tidak hanya ditunjukkan dengan menawarkan solusi, tetapi dengan menyesuaikan solusi terhadap kebutuhan, waktu, dan kapasitas orang yang akan menjalankannya.
+
+Pada awal simulasi, saya berfokus pada daftar pesanan, panduan, dan kemungkinan penggunaan AI. Dalam uji ulang, saya belajar bahwa rancangan yang baik tetap dapat menjadi tidak realistis ketika situasi operasional berubah. Ketika tenaga bantuan Ali absen, saya perlu mengubah prosedur agar tidak mengharuskannya mencatat seluruh pesanan pada saat yang sama ketika harus melayani pelanggan.
+
+Penandaan pesan WhatsApp, pencatatan bertahap, pemeriksaan setelah periode ramai, dan latihan satu atau dua contoh menjadi langkah awal yang lebih realistis. Namun, saya juga perlu mengakui risiko bahwa pesan yang ditandai dapat terlupakan atau menumpuk. Karena itu, solusi harus disertai prosedur pemeriksaan dan indikator evaluasi.
+
+Saya juga belajar membedakan kesediaan, pemahaman, dan keterampilan. Ali bersedia mencoba, memahami prinsip penandaan pesan, dan meminta latihan. Hal itu belum membuktikan bahwa ia mampu menjalankan prosedur secara konsisten. Keberhasilan baru dapat dinilai setelah ada pengalaman penerapan dan evaluasi bersama.
+
+Ke depan, saya akan menggunakan pertanyaan yang lebih terfokus, mengajukan satu gagasan utama per giliran, merangkum kebutuhan untuk dikoreksi, dan memastikan kondisi awal terukur sebelum menentukan indikator keberhasilan. Saya juga akan menjelaskan risiko secara terbuka, menghormati keputusan untuk tidak menggunakan AI, dan memperlakukan evaluasi sebagai kesempatan memperbaiki cara kerja, bukan mencari pihak yang salah.
+
+## D.7 Rencana tindak lanjut
+
+| Tindakan | Waktu atau urutan | Dukungan dan tanggung jawab | Indikator evaluasi |
+|---|---|---|---|
+| Berlatih mengisi satu atau dua contoh pesanan. | Pada waktu yang relatif sepi sebelum mencoba pesanan nyata. | Menggunakan panduan singkat dan contoh status. | Ali dapat mengisi informasi dan memperbarui status dengan benar pada contoh. |
+| Mencoba penandaan WhatsApp dan pencatatan bertahap. | Ketika kondisi memungkinkan, khususnya saat tenaga bantuan berkurang. | Pesan yang belum dicatat tetap ditandai dan diperiksa kembali. | Jumlah pesanan terlewat atau terlambat serta kelengkapan daftar. |
+| Melakukan pemeriksaan fleksibel setelah periode ramai. | Setelah periode sibuk atau pada waktu yang disepakati bersama. | Membandingkan pesan yang ditandai dengan daftar pesanan; penanda dihapus setelah pencatatan. | Konsistensi pencatatan dan status pesanan. |
+| Mengevaluasi beban dan kemudahan penggunaan. | Setelah tersedia pengalaman uji coba yang cukup. | Meminta umpan balik Ali dan menyesuaikan prosedur tanpa menyalahkan pengguna. | Kemudahan, waktu yang dibutuhkan, dan beban kerja yang dirasakan. |
+| Mempertimbangkan solusi tambahan bila diperlukan. | Hanya setelah cara sederhana dievaluasi. | Membandingkan manfaat dan risiko FAQ, balasan cepat, spreadsheet, atau AI sesuai kebutuhan. | Ada manfaat tambahan yang jelas dan terukur. |
+
+Tindak lanjut tersebut merupakan rencana hasil simulasi, bukan bukti bahwa penerapan telah dilakukan. Belum tersedia data lapangan untuk menyimpulkan bahwa pesanan terlewat berkurang, beban kerja menurun, atau keterampilan Ali telah meningkat.
+
+## D.8 Batas bukti dan validitas penilaian
+
+Ada tiga batas utama dalam laporan ini.
+
+Pertama, transkrip lengkap tidak tersedia pada konteks penyusunan. Sejumlah bagian ditulis sebagai ringkasan, bukan kutipan verbatim. ID yang digunakan adalah ID referensi laporan, bukan nomor pesan asli.
+
+Kedua, respons Ali merupakan bukti dari simulasi. Respons tersebut dapat digunakan untuk menilai pemahaman dan kesiapan yang ditampilkan dalam percakapan, tetapi tidak cukup untuk menyimpulkan perubahan psikologis yang mendalam atau keberhasilan jangka panjang.
+
+Ketiga, belum ada hasil implementasi nyata. Efektivitas solusi perlu dinilai melalui indikator yang disepakati dan pengalaman Ali setelah mencoba metode tersebut.
+
+Dengan batasan ini, skor dalam laporan merupakan usulan awal untuk moderasi dosen. Bukti perlu dicocokkan dengan percakapan asli apabila penilaian mensyaratkan transkrip lengkap.
+
+## D.9 Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Belum tersedia |
+| Sesi 1 | 18% | Belum tersedia dalam laporan ini |
+| Sesi 2a | 18% | Belum tersedia dalam laporan ini |
+| Sesi 2b | 18% | Belum tersedia dalam laporan ini |
+| Sesi 3a | 18% | Belum tersedia dalam laporan ini |
+| Sesi 3b | 18% | Usulan AI 95,83/100; menunggu moderasi dosen |
+| **Total** | **100%** | **Belum dihitung** |
+
+Rumus nilai akhir UTS:
+
+**Nilai akhir = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**
+
+Keterangan: M adalah nilai makalah pra-UTS, sedangkan S1, S2a, S2b, S3a, dan S3b adalah nilai masing-masing sesi pada skala 0–100.
+
+Nilai akhir UTS belum dihitung karena nilai makalah dan nilai sah kelima sesi belum tersedia. Nilai yang belum tersedia tidak dianggap nol dan bobot komponen tidak dinormalisasi ulang. Semua skor usulan AI memerlukan moderasi dosen.

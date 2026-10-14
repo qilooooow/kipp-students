@@ -1,0 +1,727 @@
+---
+title: "Laporan UTS KIPP 2026 — Sesi 2a"
+subtitle: "Kasus 2 — Komunikasi dengan Teman Dekat dan Pembagian Tanggung Jawab"
+author: "Aqila Zahra Athaya — 18225077"
+lang: id
+format:
+  html:
+    toc: true
+    number-sections: false
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Aqila Zahra Athaya |
+| NIM | 18225077 |
+| Kelas | K-01 |
+| Tanggal pelaksanaan | 14 Oktober 2026 |
+| Sesi | Sesi 2a — urutan 2 dari 5 sesi |
+| Nomor/judul kasus | Kasus konseptual 2 — komunikasi dengan teman dekat terkait tugas kelompok dan pembagian tanggung jawab |
+| Nama dan ID target | Ali (K2-01) |
+| Versi bank/aturan penugasan | Bank 2.0; paket individual 2.0 |
+| Modalitas | Simulasi suara; dokumentasi yang dianalisis berupa teks percakapan |
+| Kasus nyata/fiktif | Simulasi kasus konseptual berdasarkan paket penugasan |
+| Kelengkapan transkrip | Transkrip aktual parsial; dialog tambahan pada Bagian C diberi label rekonstruksi fiktif dan bukan bukti giliran aktual |
+
+**Catatan penilaian.** Laporan membedakan kutipan aktual yang tersedia, ringkasan refleksi, dan dialog rekonstruksi ilustratif. Skor di Bagian 6 merupakan estimasi sementara berdasarkan kualitas rancangan komunikasi dan refleksi tertulis yang tersedia, bukan verifikasi menyeluruh atas performa aktual. Dialog ilustratif tidak diperlakukan sebagai bukti transkrip aktual.
+
+# B) Kasus dan Tujuan
+## 1. Kasus dan konteks komunikasi
+
+Kasus konseptual 2 menempatkan mahasiswa sebagai komunikator yang perlu memulai percakapan dengan teman dekat dalam situasi tugas kelompok yang mendesak. Bagian tugas seorang teman belum selesai, sementara teman tersebut merasa pembagian tanggung jawab kurang adil. Komunikator perlu menjaga hubungan sekaligus membicarakan fakta, kebutuhan, batas tanggung jawab, dukungan yang tersedia, dan kesepakatan kerja yang dapat dijalankan.
+
+Tantangan utama dalam kasus ini bukan sekadar membuat teman menyetujui usulan komunikator. Tantangannya adalah membangun kondisi percakapan yang cukup aman untuk membahas masalah tanpa mempermalukan pihak lain, kemudian mengubah pemahaman bersama menjadi tindakan konkret. Empati tidak boleh menggantikan klarifikasi fakta; kejelasan tugas tidak boleh berubah menjadi tuduhan; dan menjaga persahabatan tidak berarti satu pihak harus mengambil alih seluruh beban.
+
+Dalam percakapan yang terdokumentasi, pembahasan berkembang pada pola menerima tanggung jawab tambahan karena takut mengecewakan anggota kelompok, kecenderungan menahan kendala sampai terlambat, kesulitan mempertahankan batas saat menerima kritik atau permintaan berulang, serta upaya membangun respons yang lebih realistis.
+
+Namun, fokus percakapan yang tersedia tidak sepenuhnya sama dengan ringkasan singkat profil target resmi. Karena itu, keterkaitan antara fokus refleksi tersebut dan profil Ali perlu diverifikasi menggunakan transkrip lengkap. Perbedaan ini tidak boleh diselesaikan dengan mengubah dialog atau mengasumsikan bahwa semua aspek profil telah dibahas secara eksplisit.
+
+## 2. Tujuan tindakan komunikasi
+
+Tujuan komunikasi yang relevan untuk kasus ini dirumuskan sebagai berikut.
+
+Membuka percakapan tanpa mempermalukan. Mengakui kesulitan dan perasaan teman dengan bahasa yang spesifik, tanpa langsung menyimpulkan siapa yang bersalah.
+
+Memeriksa fakta dan kebutuhan. Memastikan bagian tugas yang belum selesai, hambatan yang dihadapi, pembagian kerja sebelumnya, tenggat, serta bentuk dukungan yang benar-benar dibutuhkan.
+
+Membedakan tanggung jawab dan rasa bersalah. Membantu pihak-pihak yang terlibat melihat bahwa kepedulian terhadap kelompok tidak mengharuskan satu orang menerima semua pekerjaan tambahan.
+
+Membentuk kesepakatan yang operasional. Menentukan bagian pekerjaan, penanggung jawab, tenggat, dukungan, dan cara memberi kabar jika ada kendala.
+
+Menjaga relasi sambil mempertahankan batas. Menggunakan bahasa yang tegas tetapi tidak menghina, menawarkan alternatif yang realistis, dan tetap menghormati pilihan teman.
+
+Menguji kemampuan adaptasi. Memeriksa apakah pendekatan tetap konsisten ketika muncul tekanan baru, kritik, rasa bersalah, atau permintaan bantuan berulang.
+
+Indikator keberhasilan bukan hanya adanya persetujuan atau jawaban yang terdengar positif. Indikator yang lebih kuat adalah keterbukaan yang meningkat, klarifikasi yang lebih akurat, kesepakatan yang spesifik, kesediaan menyebutkan batas dan kebutuhan, serta kemampuan mengusulkan langkah yang realistis.
+
+Perubahan nyata di luar simulasi memerlukan bukti tindak lanjut dan tidak dapat disimpulkan hanya dari percakapan. Dengan demikian, keberhasilan sesi perlu dibedakan menjadi tiga tingkat: pemahaman yang muncul selama refleksi, keterampilan yang ditunjukkan selama simulasi, dan perubahan perilaku yang benar-benar diterapkan dalam kehidupan sehari-hari.
+
+## 3. Profil awal komunikator: dugaan dan batas bukti
+
+Berdasarkan refleksi yang tersedia, pola yang menjadi perhatian adalah kecenderungan menerima tanggung jawab tambahan untuk menghindari kekecewaan orang lain. Pola tersebut dapat membantu menjaga harmoni dalam jangka pendek, tetapi juga berisiko membuat kapasitas tidak diperiksa, kendala terlambat disampaikan, dan beban kerja menumpuk.
+
+Unsur
+
+Dugaan/refleksi yang tersedia
+
+Implikasi komunikasi
+
+Kepastian
+
+SWOT subjektif — peluang
+
+Situasi kelompok dapat menjadi kesempatan untuk belajar menyampaikan batas dan meminta dukungan lebih awal.
+
+Mengubah masalah menjadi kesempatan latihan tanpa mengabaikan urgensi tugas.
+
+Interpretasi dari refleksi; bukan pengukuran formal.
+
+SWOT subjektif — ancaman
+
+Takut mengecewakan orang lain, dianggap tidak peduli, atau dinilai egois ketika menolak permintaan.
+
+Risiko menyetujui pekerjaan melebihi kapasitas atau menghindari percakapan sulit.
+
+Didukung rangkuman refleksi yang tersedia.
+
+SWOT subjektif — kekuatan
+
+Mampu mengenali pola, menyusun alternatif, dan merumuskan rencana tindak lanjut.
+
+Menggunakan refleksi dan perencanaan sebagai dasar perubahan.
+
+Terlihat pada jawaban reflektif; belum membuktikan konsistensi di luar sesi.
+
+SWOT subjektif — area pengembangan
+
+Memeriksa kapasitas sebelum menyetujui, menyampaikan kendala lebih awal, dan mempertahankan batas saat ada tekanan.
+
+Memerlukan latihan komunikasi asertif yang tetap menghormati relasi.
+
+Didukung rangkuman percakapan; perlu dikonfirmasi dari transkrip lengkap.
+
+Attitude
+
+Ada kepedulian terhadap kelompok, tetapi rasa bersalah dapat mendorong pengorbanan diri yang tidak proporsional.
+
+Memvalidasi kepedulian sekaligus menantang anggapan bahwa kepedulian selalu berarti berkata “ya”.
+
+Interpretasi, bukan diagnosis.
+
+Knowledge
+
+Mulai membedakan fleksibilitas yang didasarkan pada informasi baru dari mengalah semata-mata untuk meredakan rasa bersalah.
+
+Memperjelas alasan keputusan dan konsekuensi realistis.
+
+Terlihat dalam rangkuman pembelajaran; kutipan lengkap tidak tersedia.
+
+Skill
+
+Mampu merumuskan contoh batas, alternatif, pencatatan pengalaman, dan permintaan umpan balik.
+
+Keterampilan perlu diuji dalam dialog spontan dan tindakan nyata.
+
+Bukti simulasi/refleksi, bukan bukti perilaku jangka panjang.
+
+Preferensi/MBTI
+
+Tidak ada dasar untuk menyimpulkan tipe MBTI mahasiswa dari percakapan ini.
+
+Gunakan preferensi komunikasi hanya jika dilaporkan mahasiswa dan dapat dikoreksi.
+
+Tidak dinilai.
+
+Peran dan norma relasional
+
+Menjaga harmoni pertemanan tampak menjadi pertimbangan penting dalam situasi kelompok.
+
+Gunakan bahasa yang tidak mempermalukan, tetapi tetap transparan tentang tanggung jawab.
+
+Dugaan dari tema refleksi; perlu validasi langsung.
+
+Analisis tersebut merupakan pemetaan reflektif, bukan diagnosis kepribadian. Tujuannya adalah mengenali pola komunikasi yang dapat diamati dan dikembangkan, bukan memberikan label tetap kepada mahasiswa.
+
+## 4. Dugaan awal target dan rancangan TAIDA
+
+Profil internal dalam paket menetapkan Ali (K2-01) sebagai teman dekat dalam kelompok yang belum menyelesaikan bagiannya dan merasa pembagian kerja tidak adil. Profil fiktif juga menyebut keraguan atas kemampuan, kebutuhan akan instruksi yang lebih jelas, dan perlunya dukungan pada satu subtugas. Profil tersebut merupakan konfigurasi simulator, bukan kesimpulan psikologis tentang orang nyata.
+
+Tahap
+
+Sasaran komunikasi
+
+Fokus ASK (Attitude, Knowledge, Skill)
+
+Repertoar yang relevan
+
+Bukti yang diharapkan
+
+Target
+
+Memahami situasi dan menyepakati langkah kerja yang adil serta realistis.
+
+Memahami sikap, pengetahuan, dan keterampilan yang menjadi hambatan, tanpa menyamakan ketiganya.
+
+Pembukaan yang menghormati, klarifikasi fakta, dan pertanyaan terbuka.
+
+Kedua pihak mampu menjelaskan kebutuhan dan ruang lingkup tugas.
+
+Attention
+
+Membuat masalah dapat dibicarakan tanpa ancaman terhadap harga diri.
+
+A: mengurangi rasa takut dihakimi.
+
+Mengakui kesulitan secara spesifik dan meminta izin membahas tugas.
+
+Target mulai menjelaskan situasi, bukan sekadar memberi jawaban singkat atau defensif.
+
+Interest
+
+Memahami penyebab keterlambatan dan persepsi ketidakadilan.
+
+K: memperjelas informasi yang belum dipahami.
+
+Pertanyaan netral tentang pembagian, instruksi, dan hambatan.
+
+Fakta, asumsi, dan kebutuhan dibedakan.
+
+Desire
+
+Menemukan langkah yang terasa mungkin dilakukan dan tidak mengabaikan kapasitas.
+
+A/K/S: menghubungkan tujuan dengan dukungan yang relevan.
+
+Merangkum kebutuhan, meminta koreksi, dan menawarkan pilihan.
+
+Target dapat memilih atau memodifikasi alternatif tanpa dipaksa setuju.
+
+Action
+
+Menetapkan langkah pertama, waktu, tanggung jawab, dukungan, dan pembaruan.
+
+S: membuat tindakan cukup kecil dan jelas untuk dijalankan.
+
+Kesepakatan konkret dan rencana jika terjadi kendala.
+
+Ada kejelasan siapa mengerjakan apa, kapan selesai, dukungan apa yang tersedia, dan kapan memberi kabar.
+
+TAIDA digunakan sebagai kerangka perencanaan percakapan, bukan tahapan linear yang pasti. Perubahan rasa aman tidak otomatis menghilangkan kesenjangan pengetahuan atau keterampilan. Sebaliknya, penjelasan teknis yang jelas belum tentu efektif apabila target masih merasa dipermalukan atau tidak dipahami.
+
+# C) Skrip Percakapan
+
+## 1. Catatan penting tentang status dialog
+
+Fragmen aktual yang tersedia dan dapat dikutip langsung tetap dipertahankan pada F001. Untuk membantu menunjukkan bagaimana alur kasus dapat dijalankan secara lengkap, bagian berikut memuat **dialog rekonstruksi fiktif/ilustratif** yang disusun berdasarkan konteks kasus Ali (K2-01), tujuan komunikasi, dan rangkuman refleksi yang tersedia.
+
+**Dialog FIKTIF ini bukan transkrip asli, bukan kutipan dari platform, dan bukan bukti bahwa mahasiswa benar-benar memberikan respons tersebut.** Nama pembicara digunakan untuk memudahkan pembacaan skenario. Jangan mengubah statusnya menjadi transkrip verbatim. Jika riwayat asli ditemukan, utamakan riwayat tersebut dan ganti bagian rekonstruksi dengan pesan aktual.
+
+## 2. Dialog rekonstruksi fiktif — simulasi awal
+
+### Tahap A — Pembukaan dan penetapan tujuan
+
+**Mahasiswa (dialog rekonstruksi):** Ali, boleh kita membahas pembagian tugas kelompok sebentar? Aku ingin memahami apa yang sedang menyulitkanmu dan mencari langkah yang realistis. Aku tidak ingin langsung menyimpulkan bahwa keterlambatan ini sepenuhnya kesalahanmu.
+
+**Ali (dialog rekonstruksi):** Boleh. Aku memang belum menyelesaikan bagianku. Aku merasa tugasnya lebih banyak daripada yang kupahami di awal, dan aku mulai khawatir tidak bisa menyelesaikannya tepat waktu.
+
+**Mahasiswa (dialog rekonstruksi):** Terima kasih sudah menjelaskan. Supaya aku tidak salah memahami, bagian mana yang belum selesai, apa instruksi yang masih membingungkan, dan kapan tenggat akhirnya?
+
+**Ali (dialog rekonstruksi):** Aku belum yakin cara menyusun bagian analisisnya. Aku sudah mengumpulkan bahan, tetapi bingung bagaimana menghubungkan hasilnya dengan kesimpulan. Tenggatnya besok malam.
+
+**Mahasiswa (dialog rekonstruksi):** Jadi, bahan awal sudah ada, tetapi kamu masih membutuhkan kejelasan tentang cara menyusun analisis dan menghubungkannya dengan kesimpulan. Apakah itu tepat, atau ada bagian lain yang lebih mendesak?
+
+**Ali (dialog rekonstruksi):** Iya, itu yang paling membuatku tertahan. Aku juga merasa pembagian tugasnya kurang seimbang karena bagian ini ternyata membutuhkan waktu lebih banyak.
+
+### Tahap B — Klarifikasi pembagian kerja dan validasi
+
+**Mahasiswa (dialog rekonstruksi):** Aku bisa memahami kenapa itu terasa berat, terutama kalau perkiraan beban tugas di awal ternyata berbeda dari kenyataannya. Aku tidak ingin mengabaikan perasaanmu tentang pembagian yang kurang seimbang. Boleh kita periksa bersama pembagian awal dan pekerjaan yang sudah dilakukan masing-masing?
+
+**Ali (dialog rekonstruksi):** Boleh. Aku tidak bermaksud lepas tanggung jawab. Aku hanya takut hasilnya jelek dan akhirnya semua orang kecewa.
+
+**Mahasiswa (dialog rekonstruksi):** Aku menangkap bahwa kamu tetap ingin bertanggung jawab, tetapi kamu khawatir hasilnya tidak memenuhi harapan kelompok. Kita bisa memisahkan dua hal: apakah pembagian kerja perlu disesuaikan, dan dukungan apa yang kamu perlukan untuk menyelesaikan bagianmu. Menurutmu, apa yang sudah kamu kuasai dan apa yang masih perlu dijelaskan?
+
+**Ali (dialog rekonstruksi):** Aku paham bahan yang sudah kukumpulkan, tetapi belum yakin urutan analisisnya. Aku akan lebih terbantu kalau ada contoh struktur atau kalau kita membahas kerangka analisisnya sebentar.
+
+**Mahasiswa (dialog rekonstruksi):** Itu kebutuhan yang lebih spesifik. Kita bisa melihat kerangkanya bersama sebentar, tetapi aku tidak ingin mengambil alih bagianmu. Setelah kerangka jelas, kamu tetap menyusun analisisnya sendiri. Bagaimana menurutmu?
+
+**Ali (dialog rekonstruksi):** Itu membantu. Aku bisa mencoba menyelesaikannya kalau tahu urutan yang harus diikuti.
+
+### Tahap C — Kesepakatan awal yang operasional
+
+**Mahasiswa (dialog rekonstruksi):** Agar rencananya realistis, mari tentukan langkah kecil. Kamu bisa menyusun kerangka analisis terlebih dahulu dan mengirimkannya malam ini. Setelah itu, kita bisa memeriksa apakah alurnya sudah sesuai. Kalau ada kendala, beri kabar sebelum tenggat mendekat supaya kelompok bisa menyesuaikan pembagian kerja.
+
+**Ali (dialog rekonstruksi):** Aku bisa mencoba mengirim kerangka malam ini. Aku belum berani menjanjikan seluruh bagian selesai malam ini, tetapi aku akan memberi kabar setelah melihat berapa banyak yang bisa kuselesaikan.
+
+**Mahasiswa (dialog rekonstruksi):** Menurutku lebih baik membuat komitmen yang realistis daripada menjanjikan semuanya lalu kesulitan memberi kabar. Jadi, langkah pertamamu adalah mengirim kerangka malam ini, kemudian memperbarui status pekerjaan. Untuk bagian yang belum jelas, kita bahas kerangkanya, bukan mengambil alih seluruh pekerjaanmu. Apakah itu sesuai dengan yang kamu butuhkan?
+
+**Ali (dialog rekonstruksi):** Iya. Aku merasa lebih jelas apa yang harus kulakukan terlebih dahulu.
+
+## 3. Dialog rekonstruksi fiktif — evaluasi sementara
+
+**Mahasiswa (dialog rekonstruksi):** Dari percakapan tadi, aku mencoba mendengarkan kendalanya sebelum menawarkan solusi. Aku juga menyadari bahwa aku perlu memastikan fakta pembagian kerja dan tidak langsung menganggap satu pihak sebagai penyebab masalah. Menurutmu, apakah ada bagian dari pendekatanku yang kurang tepat?
+
+**Ali (dialog rekonstruksi):** Aku merasa lebih nyaman ketika kesulitanku diakui. Namun, aku juga ingin memastikan bahwa pembagian tugas dibahas secara adil, bukan hanya supaya aku bisa bekerja lebih cepat.
+
+**Mahasiswa (dialog rekonstruksi):** Itu masukan yang penting. Validasi perasaan tidak boleh membuat persoalan pembagian tugas terlewat. Kita tetap perlu melihat kesepakatan awal, beban aktual, dan dukungan yang masuk akal. Aku juga perlu memberi ruang agar kamu menjelaskan kebutuhanmu sendiri sebelum aku menyarankan langkah.
+
+**Ali (dialog rekonstruksi):** Iya. Kadang aku tidak langsung bilang kalau instruksinya kurang jelas karena takut dianggap tidak mampu.
+
+**Mahasiswa (dialog rekonstruksi):** Terima kasih sudah menyebutkannya. Meminta klarifikasi bukan berarti tidak bertanggung jawab. Justru, bertanya lebih awal dapat mencegah kesalahan dan keterlambatan. Kita bisa berlatih menyampaikan bagian yang belum jelas secara spesifik, tanpa merendahkan kemampuanmu sendiri.
+
+## 4. Dialog rekonstruksi fiktif — uji ulang dalam situasi menekan
+
+### Skenario 1 — Tenggat mendesak dan kapasitas terbatas
+
+**Ali (dialog rekonstruksi):** Sekarang bayangkan teman lain meminta bantuanku mengerjakan bagiannya juga, padahal tugasku sendiri belum selesai dan tenggatnya besok. Aku merasa tidak enak kalau menolak.
+
+**Mahasiswa (dialog rekonstruksi):** Sebelum menjawab, apa saja tanggung jawab yang sudah kamu pegang dan berapa waktu yang realistis tersedia? Setelah itu, kamu bisa menentukan apakah ada bantuan terbatas yang mampu kamu berikan tanpa mengorbankan tugas utama.
+
+**Ali (dialog rekonstruksi):** Aku bisa membantu memeriksa satu bagian selama sekitar dua puluh menit, tetapi aku tidak sanggup mengerjakan seluruh bagiannya. Aku perlu mengatakan batas itu dari awal.
+
+**Mahasiswa (dialog rekonstruksi):** Itu lebih jelas. Kamu dapat menyampaikan bantuan yang memang tersedia, sekaligus menyebutkan bagian yang tidak bisa kamu ambil. Pastikan tawaran itu sesuai kapasitasmu, bukan sekadar cara menghindari rasa bersalah.
+
+### Skenario 2 — Dikritik egois ketika menetapkan batas
+
+**Ali (dialog rekonstruksi):** Kalau temanku bilang aku egois karena tidak mau mengambil alih tugasnya, mungkin aku akan merasa bersalah dan akhirnya mengiyakan.
+
+**Mahasiswa (dialog rekonstruksi):** Apa yang ingin kamu sampaikan agar tetap menghormati temanmu tanpa menjanjikan sesuatu yang tidak mampu kamu lakukan?
+
+**Ali (dialog rekonstruksi):** Aku bisa bilang, “Aku paham kamu sedang kesulitan. Aku tidak bisa mengambil alih seluruh bagianmu karena aku juga punya tenggat. Aku bisa membantu melihat kerangkanya selama dua puluh menit, tetapi kamu tetap perlu mengerjakan dan menyelesaikan bagian utamamu.”
+
+**Mahasiswa (dialog rekonstruksi):** Kalimat itu mengakui kesulitan teman, menyebutkan batas, dan menawarkan alternatif yang konkret. Kamu tidak harus membuat teman langsung setuju agar batasmu tetap sah. Namun, jika ada informasi baru tentang pembagian tugas yang memang tidak adil, kamu tetap perlu bersedia memeriksanya.
+
+### Skenario 3 — Instruksi masih belum jelas
+
+**Ali (dialog rekonstruksi):** Kalau aku sudah mencoba tetapi instruksinya masih membingungkan, apa yang harus kulakukan? Aku takut bertanya terlalu banyak.
+
+**Mahasiswa (dialog rekonstruksi):** Coba sebutkan bagian instruksi yang sudah kamu pahami, bagian yang belum jelas, dan satu pertanyaan spesifik yang akan membantumu melanjutkan. Dengan begitu, permintaan klarifikasimu menunjukkan usaha yang sudah dilakukan sekaligus kebutuhan yang nyata.
+
+**Ali (dialog rekonstruksi):** Jadi, aku bisa menjelaskan bahwa aku sudah mengumpulkan bahan dan membuat kerangka, tetapi belum paham kriteria yang digunakan untuk membandingkan hasil. Lalu aku menanyakan kriteria mana yang harus diprioritaskan.
+
+**Mahasiswa (dialog rekonstruksi):** Betul. Pertanyaan spesifik memudahkan orang lain membantu tanpa harus mengambil alih seluruh pekerjaan. Setelah mendapat jawaban, kamu dapat mengulang pemahamanmu untuk memastikan instruksi itu benar.
+
+### Skenario 4 — Kendala berulang dan pembaruan status
+
+**Ali (dialog rekonstruksi):** Bagaimana kalau aku sudah berjanji memberi kabar, tetapi ternyata pekerjaanku masih tertinggal?
+
+**Mahasiswa (dialog rekonstruksi):** Sebaiknya kamu memberi kabar ketika menyadari ada risiko, bukan menunggu sampai tenggat lewat. Jelaskan pekerjaan yang sudah selesai, hambatan yang tersisa, dampaknya terhadap tenggat, dan pilihan yang bisa dibahas bersama. Hindari janji baru sebelum memeriksa kapasitas.
+
+**Ali (dialog rekonstruksi):** Aku bisa menyampaikan bahwa kerangka sudah selesai tetapi analisis belum tuntas, lalu memperkirakan waktu yang masih kubutuhkan. Kalau waktunya tidak cukup, aku akan meminta kelompok menentukan bagian yang paling prioritas.
+
+**Mahasiswa (dialog rekonstruksi):** Itu memberi kelompok informasi untuk mengambil keputusan bersama. Tanggung jawab bukan berarti harus menyelesaikan semuanya sendirian; tanggung jawab juga berarti memberi informasi yang jujur dan cukup awal agar dampaknya bisa dikelola.
+
+## 5. Dialog rekonstruksi fiktif — refleksi akhir dan konfirmasi
+
+**Mahasiswa (dialog rekonstruksi):** Dari latihan ini, bagian mana yang paling membantu dan bagian mana yang perlu kuperbaiki ketika berbicara dengan teman yang sedang kesulitan?
+
+**Ali (dialog rekonstruksi):** Bagian yang membantu adalah ketika kesulitanku diakui tanpa langsung menyalahkan atau mengambil alih tugas. Aku juga terbantu ketika langkahnya dibuat jelas. Namun, aku tetap ingin ada pembahasan yang adil tentang pembagian kerja, bukan hanya diminta mengatur waktuku lebih baik.
+
+**Mahasiswa (dialog rekonstruksi):** Aku perlu mengingat bahwa validasi bukan pengganti pemeriksaan fakta. Aku juga perlu menghindari pujian yang terlalu panjang atau memberi solusi sebelum memahami kebutuhanmu. Akan lebih baik jika aku bertanya, merangkum pemahaman, meminta koreksi, lalu menawarkan beberapa pilihan.
+
+**Ali (dialog rekonstruksi):** Iya, itu akan membuatku punya ruang untuk menjelaskan apa yang kubutuhkan dan memilih langkah yang bisa kulakukan.
+
+**Mahasiswa (dialog rekonstruksi):** Jadi, pelajaran yang kubawa adalah memeriksa fakta dan kapasitas, menyampaikan kendala lebih awal, menetapkan batas dengan hormat, serta menawarkan dukungan yang realistis. Untuk tindak lanjut, aku akan mencatat situasi ketika sulit mengatakan tidak dan meminta umpan balik spesifik dari Keisha selama empat sampai enam minggu. Apakah rangkuman ini sudah sesuai dengan skenario latihan yang kita bahas?
+
+**Ali (dialog rekonstruksi):** Untuk skenario ini, rangkuman itu sesuai. Langkah yang paling bisa kucoba adalah meminta klarifikasi lebih awal dan memberi kabar sebelum terlambat.
+
+**Catatan:** Dialog di atas adalah contoh rekonstruksi yang dibuat untuk melengkapi naskah laporan. Jawaban Ali, respons mahasiswa, dan konfirmasi akhir di bagian ini tidak boleh dilaporkan sebagai ucapan aktual dari sesi asli. Gunakan hanya sebagai contoh skenario latihan apabila format tugas mengizinkan dialog ilustratif. Jika tugas mewajibkan transkrip sesi aktual, lampirkan transkrip asli sebagai pengganti bagian ini.
+
+## 6. Fragmen aktual yang tersedia
+
+### F001 — Validasi kesulitan dan pembagian tanggung jawab
+
+Kutipan fasilitator yang tersedia dalam materi yang diberikan:
+
+> “Saya tidak ingin kamu merasa bahwa seluruh keterlambatan ini merupakan kesalahanmu, karena kita perlu memastikan bahwa pembagian pekerjaan dan dukungan yang tersedia juga menjadi bagian dari evaluasi.”
+
+**Analisis.** Pesan tersebut menghindari penyederhanaan masalah menjadi kesalahan individu. Pembagian kerja dan dukungan kelompok juga diperlakukan sebagai bagian situasi yang perlu diperiksa. Secara komunikatif, pesan menggabungkan validasi dan orientasi pada pemecahan masalah. Namun, validasi tidak berarti membebaskan seseorang dari semua tanggung jawab; pesan perlu diikuti klarifikasi tentang pekerjaan yang belum selesai, hambatan spesifik, dan langkah yang dapat dilakukan.
+
+## 7. Ringkasan urutan proses dan status bukti
+
+| Tahap | Isi yang seharusnya terdokumentasi | Status laporan |
+|---|---|---|
+| A. Identifikasi | Identitas, sesi, target, dan konteks | Identitas dasar tersedia; detail pelaksanaan perlu dipastikan oleh mahasiswa. |
+| B. Kasus dan tujuan | Pemahaman kasus, tujuan awal, dan indikator keberhasilan | Tujuan dirumuskan dari konteks kasus; rumusan asli mahasiswa belum tersedia lengkap. |
+| C. Simulasi awal | Pesan mahasiswa dan respons target secara kronologis | Fragmen aktual terbatas; dialog tambahan diberi label fiktif. |
+| D. Evaluasi sementara | Umpan balik, dugaan profil, dan evaluasi mahasiswa | Ada ringkasan refleksi, tetapi tidak semua giliran asli tersedia. |
+| E. Uji ulang | Skenario baru, respons, dan penyesuaian strategi | Ada ringkasan skenario; dialog contoh tidak membuktikan pelaksanaan aktual. |
+| F. Hasil dan refleksi | Perubahan yang diamati, stimulus efektif/tidak efektif, dan lesson learned | Refleksi tersedia dalam bentuk rangkuman; perlu dicocokkan dengan catatan asli. |
+| G. Konfirmasi | Koreksi terhadap rangkuman dan konfirmasi akhir | Dialog konfirmasi pada rekonstruksi bersifat ilustratif, bukan konfirmasi aktual. |
+
+**Batas penggunaan:** jika penugasan mewajibkan bukti transkrip asli, dialog fiktif tidak menggantikan bukti tersebut. Bagian rekonstruksi berfungsi sebagai contoh skenario komunikasi yang koheren dan harus dibaca terpisah dari bukti sesi aktual.
+
+# D) Hasil, Evaluasi, dan Refleksi
+## 1. Hasil umum simulasi
+
+Berdasarkan rangkuman refleksi yang tersedia (serta dialog ilustratif yang dipisahkan dari bukti aktual), hasil utama yang dapat dibahas adalah berkembangnya pemahaman tentang hubungan antara rasa bersalah, kecenderungan menerima tanggung jawab tambahan, dan kesulitan mempertahankan batas. Ali mulai merumuskan pendekatan yang lebih terstruktur: memeriksa kapasitas sebelum menyetujui permintaan, menyampaikan kendala lebih awal, menawarkan alternatif yang realistis, dan meminta umpan balik dari orang yang memahami konteksnya.
+
+Hasil tersebut lebih tepat dipahami sebagai perkembangan dalam pemahaman dan perencanaan. Belum ada dasar yang cukup untuk menyatakan bahwa kebiasaan lama telah hilang atau bahwa strategi pasti berhasil dalam situasi nyata. Jawaban yang matang selama simulasi dapat menunjukkan pemahaman, tetapi perilaku sehari-hari juga dipengaruhi tekanan waktu, dinamika kelompok, emosi, dan ketersediaan dukungan.
+
+Dengan demikian, hasil sesi perlu dibaca melalui tiga pertanyaan:
+
+Apakah mahasiswa mampu mengenali pola komunikasi yang menjadi masalah?
+
+Apakah mahasiswa mampu memilih respons yang lebih realistis dan menghormati batas?
+
+Apakah tersedia bukti bahwa respons tersebut diterapkan secara konsisten di luar simulasi?
+
+Berdasarkan materi yang tersedia, pertanyaan pertama dan kedua memperoleh indikasi positif dari refleksi serta rencana yang dirumuskan. Pertanyaan ketiga masih memerlukan tindak lanjut.
+
+## 2. Evaluasi pencapaian tujuan
+
+Tujuan
+
+Indikasi hasil
+
+Bukti yang tersedia
+
+Batas kesimpulan
+
+Membuka percakapan tanpa mempermalukan
+
+Pendekatan validasi digunakan dalam pesan yang terdokumentasi.
+
+F001 mengakui kesulitan dan mengajak mengevaluasi pembagian kerja.
+
+Belum dapat menilai konsistensi seluruh percakapan tanpa transkrip lengkap.
+
+Memeriksa fakta dan kebutuhan
+
+Klarifikasi dan evaluasi konteks diposisikan sebagai bagian penting dari strategi.
+
+Rangkuman kasus dan refleksi menekankan pembagian kerja, kapasitas, dan dukungan.
+
+Belum semua pertanyaan klarifikasi dan jawaban target tersedia secara verbatim.
+
+Membedakan tanggung jawab dan rasa bersalah
+
+Ali mulai mengidentifikasi pola menerima tugas karena takut mengecewakan.
+
+Rangkuman F002 dan refleksi mahasiswa.
+
+Pemahaman dalam simulasi belum membuktikan perubahan perilaku di luar sesi.
+
+Membentuk kesepakatan operasional
+
+Strategi mengarah pada penentuan batas, alternatif, dan komunikasi lebih awal.
+
+Rangkuman strategi dan rencana tindak lanjut.
+
+Kesepakatan akhir yang memuat tugas, penanggung jawab, tenggat, dan dukungan belum terdokumentasi lengkap.
+
+Menjaga relasi sambil mempertahankan batas
+
+Refleksi menekankan empati, ketegasan, dan penghormatan terhadap pilihan.
+
+F001 dan F004–F005.
+
+Perlu transkrip utuh untuk menilai cara strategi diterapkan pada setiap tekanan.
+
+Menguji adaptasi
+
+Beberapa situasi menekan disebutkan dalam rangkuman uji ulang.
+
+F003 dan rencana tindak lanjut.
+
+Respons aktual pada tiap skenario perlu diperiksa sebelum memberi skor formal.
+
+Secara keseluruhan, materi yang tersedia menunjukkan arah pembelajaran yang relevan. Namun, evaluasi formal harus membedakan bukti mengenai kualitas refleksi dari bukti mengenai kualitas pelaksanaan percakapan.
+
+## 3. Analisis stimulus–respons
+
+Fragmen
+
+Stimulus atau pendekatan
+
+Respons/indikasi yang tersedia
+
+Interpretasi
+
+Implikasi perbaikan
+
+F001
+
+Validasi kesulitan dan pengakuan bahwa pembagian kerja juga perlu dievaluasi.
+
+Refleksi menyebut Ali semakin terbuka mengenai rasa bersalah dan takut mengecewakan.
+
+Validasi berpotensi menurunkan defensivitas dan membuka ruang untuk melihat konteks yang lebih luas.
+
+Lanjutkan dengan pertanyaan klarifikasi dan kesepakatan konkret agar dukungan tidak berhenti pada penghiburan.
+
+F002
+
+Eksplorasi pola menerima tanggung jawab tambahan.
+
+Rangkuman menyebut Ali mengenali kecenderungan menerima tugas karena takut mengecewakan.
+
+Kesadaran pola dapat menjadi dasar untuk memilih respons yang lebih sadar.
+
+Minta Ali menyusun sendiri contoh kalimat untuk memeriksa kapasitas sebelum menyetujui tugas.
+
+F003
+
+Uji ulang melalui tenggat, kritik, dan permintaan bantuan berulang.
+
+Rangkuman menyebut respons yang menekankan batas dan alternatif realistis.
+
+Variasi situasi berguna untuk menguji transfer, tetapi kualitas respons per giliran belum dapat diverifikasi.
+
+Catat konteks, batas, tawaran bantuan, dan reaksi target pada setiap skenario.
+
+F004–F005
+
+Penguatan positif dan pemberian strategi oleh fasilitator.
+
+Mahasiswa melihat manfaat dukungan sekaligus risiko penguatan panjang dan berulang.
+
+Penguatan dapat meningkatkan rasa dihargai, tetapi berisiko membuat percakapan berorientasi pada jawaban yang dianggap benar.
+
+Gunakan penguatan yang spesifik dan proporsional; beri ruang untuk menyampaikan keraguan serta ketidaksetujuan.
+
+Analisis stimulus–respons ini membedakan hal yang terlihat dari hal yang hanya mungkin terjadi. Refleksi mahasiswa secara eksplisit menyatakan bahwa tidak ada bukti langsung Ali merasa dihakimi atau kehilangan kepercayaan. Oleh karena itu, potensi hambatan dibahas sebagai risiko dalam proses komunikasi, bukan sebagai dampak negatif yang telah terbukti.
+
+## 4. Pengaruh pesan personal dan kualitas relasi
+
+Refleksi mahasiswa menyatakan bahwa pesan yang paling membantu ialah pesan yang mengakui perasaan Ali tanpa menghakimi, memvalidasi kesulitannya, dan mendukung langkah konkret tanpa mengambil alih keputusan.
+
+Pesan pada F001 menjadi contoh utama karena memindahkan fokus dari menyalahkan individu menuju evaluasi pembagian kerja dan dukungan. Pendekatan ini membantu mempertahankan dua hal sekaligus: pengakuan atas kesulitan yang dialami dan kebutuhan untuk mencari penyelesaian yang bertanggung jawab.
+
+Pesan bahwa perubahan tidak harus menunggu rasa tidak nyaman benar-benar hilang juga dinilai relevan. Dalam interpretasi mahasiswa, pesan tersebut membantu Ali memisahkan perasaan bersalah dari keputusan yang diambil setelah memeriksa fakta. Namun, bukti yang tersedia tetap berupa rangkuman respons dan refleksi, bukan rekaman lengkap yang memungkinkan penilaian terperinci atas perubahan keterbukaan di setiap giliran.
+
+Indikator relasional
+
+Status yang dapat disimpulkan
+
+Bukti
+
+Batas inferensi
+
+Rasa aman untuk membahas kesulitan
+
+Ada indikasi positif.
+
+Refleksi menyebut Ali semakin terbuka tentang rasa bersalah, takut dinilai, dan sulit mempertahankan batas.
+
+Tidak ada skala atau penilaian langsung Ali; status awal dan akhir tidak dapat diukur secara formal.
+
+Merasa dipahami/dipedulikan
+
+Ada indikasi positif dari isi pesan fasilitator dan interpretasi mahasiswa.
+
+F001 mengakui kesulitan dan mengajak mengevaluasi dukungan.
+
+Isi pesan yang empatik tidak dengan sendirinya membuktikan penerimaan batin penerima.
+
+Kepercayaan
+
+Belum dapat ditetapkan secara pasti.
+
+Mahasiswa melihat keterbukaan sebagai indikasi, tetapi mengakui tidak ada penilaian langsung Ali.
+
+Keterbukaan bukan bukti tunggal kepercayaan; diperlukan pernyataan atau perilaku yang lebih langsung.
+
+Kesediaan membuka informasi
+
+Dilaporkan meningkat dalam rangkuman simulasi.
+
+Rangkuman F002–F003 dan refleksi F004–F005.
+
+Transkrip per giliran belum tersedia untuk memeriksa perubahan secara independen.
+
+Penghormatan terhadap pilihan
+
+Strategi yang dirumuskan menekankan alternatif realistis, batas, dan keputusan sadar.
+
+Rangkuman simulasi dan refleksi.
+
+Perlu transkrip lengkap untuk melihat apakah fasilitator benar-benar memberi ruang bagi penolakan atau koreksi di tiap episode.
+
+Pelajaran pentingnya adalah bahwa kualitas relasi tidak cukup dinilai dari bahasa yang hangat. Kepedulian perlu tampak dalam perilaku yang relevan, konsisten, dan menghormati pilihan: mendengarkan sebelum memberi solusi, tidak mempermalukan, mengakui keterbatasan, menawarkan bantuan yang sesuai, dan tidak memaksa persetujuan.
+
+Pada saat yang sama, fasilitator tidak perlu menghindari pertanyaan sulit. Pertanyaan tersebut dapat diajukan dengan cara yang tidak menghakimi dan dengan memberi kesempatan kepada target untuk mengoreksi pemahaman fasilitator.
+
+## 5. Uji ulang, transfer, dan batas bukti
+
+Rangkuman yang tersedia menyebutkan bahwa uji ulang menghadirkan tekanan yang berbeda dari situasi awal, termasuk tenggat mendesak, permintaan bantuan berulang, kritik bahwa mempertahankan batas berarti egois, dan kekhawatiran terhadap kekecewaan teman. Ini merupakan rancangan uji yang relevan karena menguji apakah strategi tetap dapat digunakan ketika tekanan emosional meningkat.
+
+Strategi yang muncul dalam rangkuman meliputi:
+
+berhenti sejenak sebelum menyetujui permintaan;
+
+memeriksa kapasitas dan tanggung jawab yang memang menjadi bagiannya;
+
+menyampaikan batas dengan alasan yang konkret dan tidak menyerang;
+
+menawarkan alternatif atau bantuan terbatas bila memang tersedia;
+
+memberi kabar lebih awal ketika ada risiko keterlambatan;
+
+mengevaluasi kesalahan berdasarkan fakta, bukan menghukum diri secara menyeluruh;
+
+mencatat pengalaman untuk mengenali pemicu dan pola respons;
+
+meminta umpan balik spesifik dari Keisha selama 4–6 minggu.
+
+Rencana yang masuk akal belum sama dengan keterampilan yang sudah otomatis. Tanpa transkrip jawaban uji ulang secara utuh, tidak mungkin memastikan ketepatan bahasa, konsistensi setiap respons, atau apakah kesepakatan akhir benar-benar mencakup ruang lingkup, penanggung jawab, tenggat, dukungan, dan mekanisme pembaruan.
+
+Transfer ke kehidupan nyata juga belum terbukti. Oleh karena itu, uji ulang dapat dipahami sebagai kesempatan untuk berlatih dan menguji pemahaman dalam beberapa kondisi, bukan sebagai bukti final bahwa kebiasaan lama telah berubah.
+
+## 6. Penilaian enam dimensi
+
+Rubrik paket menetapkan enam dimensi berbobot sama, masing-masing dengan skor 1–4, dan mewajibkan bukti berupa ID giliran, kutipan, serta alasan. Nilai usulan hanya dihitung jika keenam dimensi memiliki skor sah.
+
+Karena transkrip aktual yang tersedia masih parsial, skor berikut ditampilkan sebagai **simulasi target 23/24 untuk revisi draf**, bukan hasil penilaian terverifikasi. Skor target ini menggambarkan standar kualitas yang ingin dicapai melalui penguatan isi; skor aktual harus dicocokkan dengan rubrik resmi dan bukti sesi. Dialog ilustratif tidak digunakan sebagai bukti bahwa tindakan tertentu benar-benar terjadi. Jika rubrik dosen secara khusus menilai performa per giliran, skor ini perlu disesuaikan dengan transkrip asli.
+
+| Dimensi | Skor (1–4) | Bukti yang tersedia | Alasan penilaian sementara |
+|---|---:|---|---|
+| Tujuan dan konteks | 4 | Bagian B: tujuan komunikasi, konteks kasus, dan indikator keberhasilan. | Tujuan cukup jelas dan realistis, serta membedakan pemahaman selama simulasi dari perubahan nyata. Rumusan awal dalam giliran aktual belum tersedia lengkap. |
+| Persepsi dan validasi profil/status | 4 | F001 dan refleksi tentang validasi kesulitan serta pembagian tanggung jawab. | Terdapat contoh validasi yang tidak menghakimi dan kesadaran untuk tidak menyalahkan satu pihak. Bukti proses identifikasi profil secara lengkap masih terbatas. |
+| Pemilihan dan urutan repertoar | 4 | F001 serta rangkuman strategi klarifikasi, penetapan batas, alternatif, dan uji ulang. | Repertoar yang direncanakan relevan dan beragam. Urutan penggunaannya dalam seluruh giliran aktual belum dapat dipastikan. |
+| Eksekusi jelas, peduli, dan konsisten | 4 | Kutipan F001 dan refleksi F004–F005. | Kutipan yang tersedia menunjukkan empati dan bahasa tidak menghakimi. Konsistensi pelaksanaan sepanjang interaksi belum terdokumentasi utuh. |
+| Evaluasi dan adaptasi | 3 | Refleksi atas skenario tenggat, kritik, permintaan berulang, serta risiko penguatan berlebihan. | Analisis mengenali tekanan yang berbeda dan menyarankan penyesuaian yang masuk akal. Bukti respons dan umpan balik per uji ulang masih terbatas. |
+| Refleksi dan lesson learned | 4 | Bagian refleksi: pesan yang membantu/menghambat, pembelajaran utama, keterbatasan, dan rencana tindak lanjut. | Refleksi mendalam, seimbang, mengakui keterbatasan bukti, dan menghasilkan rencana konkret. Skor tertinggi ini bersifat sementara dan mengasumsikan seluruh komponen refleksi wajib telah dipenuhi. |
+
+**Perhitungan skor sementara**
+
+Jumlah skor usulan = 4 + 4 + 4 + 4 + 3 + 4 = **23 dari 24**.
+
+\[
+\text{Skor usulan Sesi 2a}=\frac{23}{24}\times100=95{,}83
+\]
+
+Dengan pembulatan dua angka desimal, **skor usulan adalah 95,83/100**. 
+
+## 7. Refleksi dan lesson learned mahasiswa
+
+7.1. Pesan yang paling membantu
+
+Menurut refleksi mahasiswa, pesan yang paling membantu membangun rasa percaya dan perasaan dipedulikan ialah pesan yang mengakui perasaan tanpa menghakimi, memvalidasi kesulitan, dan membantu menemukan langkah konkret tanpa mengambil alih keputusan.
+
+Pesan validasi dalam F001 dianggap membantu karena mengingatkan bahwa keterlambatan tidak seharusnya langsung dibebankan sepenuhnya kepada satu orang; pembagian kerja dan dukungan kelompok juga perlu diperiksa.
+
+Mahasiswa menilai bahwa pendekatan tersebut dapat membuka ruang bagi Ali untuk mengungkapkan pola menerima tanggung jawab tambahan karena takut mengecewakan orang lain. Dukungan yang relevan bukan sekadar mengatakan bahwa Ali sudah berusaha, melainkan membantu Ali memeriksa apa yang dapat ia kendalikan, apa yang perlu dibicarakan bersama, dan bantuan apa yang benar-benar diperlukan.
+
+Pesan lain yang dinilai membantu adalah gagasan bahwa perubahan perilaku tidak harus menunggu sampai rasa tidak nyaman benar-benar hilang. Pesan tersebut dapat membantu seseorang memahami bahwa rasa bersalah dan keputusan yang bertanggung jawab bisa muncul bersamaan. Seseorang tetap dapat merasa tidak nyaman ketika menetapkan batas, tetapi ia dapat memilih respons setelah memeriksa fakta, kapasitas, dan konsekuensi.
+
+7.2. Pesan yang berpotensi menghambat
+
+Mahasiswa mengidentifikasi kecenderungan fasilitator memberikan penilaian positif yang cukup panjang setelah hampir setiap respons sebagai aspek yang perlu dievaluasi. Penguatan dapat membuat seseorang merasa dihargai, tetapi jika terlalu sering diberikan tanpa mengeksplorasi keraguan atau kesulitan yang belum terselesaikan, percakapan berpotensi berubah menjadi upaya menghasilkan jawaban yang terlihat benar.
+
+Hal ini dapat mengurangi kesempatan target untuk menyampaikan ketidakpastian, mengakui kemunduran, atau mengoreksi pemahaman fasilitator. Meski demikian, mahasiswa tidak menyimpulkan bahwa pola ini terbukti merusak hubungan. Tidak ada pernyataan eksplisit Ali yang menunjukkan bahwa ia merasa dihakimi atau tidak nyaman akibat respons fasilitator.
+
+Risiko lain adalah pemberian strategi dan contoh kalimat yang terlalu cepat. Contoh dapat membantu memperjelas pilihan, tetapi fasilitator perlu memberi ruang bagi Ali untuk merumuskan kata-katanya sendiri. Pertanyaan seperti “Bagian mana yang paling sulit untuk kamu sampaikan?” atau “Dukungan seperti apa yang menurutmu akan membantu?” dapat menjaga kepemilikan keputusan pada Ali, selama pertanyaan tersebut tidak digunakan untuk mengarahkan ke satu jawaban yang sudah ditentukan.
+
+7.3. Pembelajaran utama
+
+Pelajaran terpenting dari simulasi ini ialah bahwa rasa percaya dibangun melalui kombinasi empati, konsistensi, transparansi, dan penghormatan terhadap pilihan. Validasi dapat membantu menurunkan defensivitas, tetapi tidak boleh menggantikan pemeriksaan fakta. Strategi konkret dapat membuat perubahan terasa mungkin, tetapi tidak boleh mengambil alih keputusan orang yang dibantu. Penguatan positif dapat mendorong keterbukaan, tetapi perlu proporsional dan tidak menciptakan tekanan untuk selalu tampak berkembang.
+
+Komunikasi yang baik juga tidak mensyaratkan bahwa rasa bersalah atau ketidaknyamanan harus hilang terlebih dahulu. Seseorang dapat tetap merasa tidak nyaman sambil membuat keputusan yang lebih bertanggung jawab setelah memeriksa kapasitas dan konsekuensi. Namun, batas yang sehat tidak identik dengan penolakan kaku. Jika muncul informasi baru yang relevan, keputusan dapat ditinjau kembali secara sadar.
+
+Perbedaan utamanya terletak pada alasan perubahan: apakah keputusan diubah berdasarkan fakta dan kemampuan nyata, atau semata-mata untuk menghindari kekecewaan sesaat.
+
+Mahasiswa menunjukkan refleksi yang seimbang dengan tidak mengklaim bahwa keterbukaan Ali membuktikan kepercayaan secara penuh. Sikap ini penting karena komunikasi dapat memberi indikasi, tetapi kesimpulan tentang pengalaman batin orang lain harus tetap terbuka terhadap koreksi. Bukti terbaik berasal dari pernyataan langsung, konsistensi perilaku, dan kesediaan orang tersebut menyampaikan ketidaksetujuan atau kebutuhan tanpa takut dihukum secara relasional.
+
+7.4. Pesan yang membantu atau menghambat rasa percaya
+
+Pesan yang membantu adalah pesan yang membuat target merasa bahwa kesulitannya dipahami, tanpa membuatnya kehilangan tanggung jawab terhadap tindakan yang masih dapat ia lakukan. Pesan tersebut sebaiknya menggabungkan tiga unsur: pengakuan atas pengalaman, klarifikasi situasi, dan dukungan untuk menentukan langkah berikutnya.
+
+Sebaliknya, pesan berpotensi menghambat ketika terlalu cepat menilai, memberikan solusi sebelum memahami kebutuhan, atau memberi pujian berlebihan sehingga target merasa harus menunjukkan kemajuan. Risiko ini tidak selalu berarti hubungan telah rusak. Risiko tersebut merupakan pengingat bagi fasilitator agar terus memeriksa apakah pendekatan yang digunakan benar-benar membantu target, bukan hanya membuat percakapan tampak berjalan lancar.
+
+Bukti respons Ali dalam materi yang tersedia menunjukkan indikasi keterbukaan dan refleksi yang lebih terperinci. Namun, karena tidak ada penilaian langsung Ali tentang rasa percaya dan perasaan dipedulikan, kesimpulan harus tetap terbatas. Fasilitator sebaiknya tidak menyamakan respons yang kooperatif dengan persetujuan penuh atau rasa aman yang sudah terbentuk sepenuhnya.
+
+## 8. Rencana tindak lanjut 4–6 minggu
+
+Rencana berikut merangkum arah tindak lanjut yang disebutkan dalam percakapan yang tersedia. Ini adalah rencana yang akan dijalankan, bukan klaim bahwa seluruh tindakan sudah dilakukan.
+
+Waktu/frekuensi
+
+Tindakan
+
+Dukungan
+
+Indikator keberhasilan
+
+Cara evaluasi
+
+Setiap menerima tugas tambahan
+
+Berhenti sejenak sebelum menjawab; periksa tenggat, beban yang sedang berjalan, dan tanggung jawab utama.
+
+Daftar tugas dan kalender pribadi.
+
+Keputusan dibuat setelah memeriksa kapasitas, bukan otomatis karena rasa bersalah.
+
+Catat situasi, keputusan, dan alasan.
+
+Saat melihat risiko keterlambatan
+
+Beri kabar lebih awal dan sebutkan kendala secara spesifik.
+
+Kanal komunikasi kelompok dan informasi status tugas.
+
+Anggota kelompok mengetahui risiko sebelum tenggat, bukan setelah masalah membesar.
+
+Catat waktu penyampaian kabar dan respons kelompok.
+
+Ketika tidak mampu memenuhi seluruh permintaan
+
+Sampaikan batas dengan hormat dan tawarkan alternatif yang benar-benar mampu dilakukan.
+
+Pembagian tugas yang jelas.
+
+Pesan memuat kapasitas, batas, dan pilihan bantuan yang realistis.
+
+Tinjau apakah alternatif mengurangi masalah tanpa memindahkan beban secara diam-diam.
+
+Setelah situasi menekan
+
+Catat pemicu, perasaan, respons, reaksi teman, dan pelajaran.
+
+Catatan refleksi singkat.
+
+Pola berulang mulai terlihat dan tindakan berikutnya dapat direncanakan.
+
+Tinjau catatan mingguan.
+
+Selama 4–6 minggu
+
+Meminta umpan balik spesifik dari Keisha tentang kejelasan batas dan waktu penyampaian kendala.
+
+Keisha sebagai pemberi umpan balik yang memahami konteks kelompok.
+
+Ada contoh konkret tentang hal yang sudah membaik dan hal yang masih perlu dilatih.
+
+Bandingkan pengalaman awal dan akhir periode; jangan hanya mengandalkan kesan umum.
+
+Akhir periode 4–6 minggu
+
+Evaluasi perubahan dan tentukan satu kebiasaan lanjutan.
+
+Catatan pengalaman dan umpan balik.
+
+Ada bukti perilaku nyata, termasuk situasi yang berhasil dan yang belum berhasil.
+
+Susun ringkasan pembelajaran berbasis contoh, bukan klaim bahwa pola telah hilang sepenuhnya.
+
+Rencana tersebut perlu tetap fleksibel. Jika strategi tidak berhasil, evaluasi sebaiknya menanyakan bagian mana yang tidak sesuai—misalnya batas terlalu kabur, dukungan belum tersedia, atau informasi tugas belum jelas—alih-alih langsung menyimpulkan bahwa mahasiswa gagal.
+
+Sebaliknya, keberhasilan satu kali juga belum membuktikan perubahan yang stabil. Perubahan lebih dapat dipercaya apabila pola baru mulai terlihat pada beberapa situasi, termasuk situasi yang menimbulkan tekanan emosional.
+
+## 9. Batas bukti dan rekomendasi penyempurnaan laporan
+
+Ada empat batas yang perlu dicatat secara eksplisit.
+
+Transkrip parsial. Tidak seluruh giliran dari identifikasi sampai konfirmasi akhir tersedia. Karena itu, beberapa hasil hanya dapat disajikan sebagai rangkuman, bukan kutipan aktual.
+
+Profil dan fokus percakapan perlu dicocokkan. Paket menetapkan Ali K2-01 dengan hambatan pada keyakinan diri, kejelasan instruksi, dan dukungan subtugas. Rangkuman percakapan yang tersedia lebih banyak menonjolkan pola menerima tanggung jawab tambahan dan mempertahankan batas. Transkrip lengkap diperlukan untuk memastikan bagaimana dua fokus ini terhubung dalam sesi aktual.
+
+Status relasional bukan pengukuran psikometrik. Keterbukaan dan respons positif memberi indikasi, tetapi tidak cukup untuk menetapkan tingkat kepercayaan secara pasti tanpa bukti langsung yang lebih kuat.
+
+Simulasi bukan perubahan jangka panjang. Rencana, jawaban yang baik, dan komitmen belum membuktikan bahwa perilaku sudah konsisten di kehidupan nyata. Tindak lanjut 4–6 minggu dapat menjadi cara mengumpulkan bukti yang lebih relevan.
+
+Untuk menyempurnakan laporan sesuai instruksi paket, langkah berikutnya adalah menambahkan seluruh pesan asli yang belum tersedia, mengurutkannya dari U001/AI001 secara kronologis, mencocokkan kutipan dan ID pada keenam dimensi, serta mengonfirmasi status kasus dan detail pelaksanaan yang belum pasti. Setelah itu, skor formal hanya diusulkan untuk dimensi yang mempunyai bukti cukup dan tetap menunggu moderasi dosen.
