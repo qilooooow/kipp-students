@@ -249,4 +249,4 @@ Nama ZIP aktif, nama berkas yang diwajibkan, dan format tautan portfolio Minggu 
 
 **Konfirmasi akhir:** Belum tersedia bukti giliran konfirmasi akhir resmi yang dapat dicantumkan. Laporan ini siap ditinjau sebagai draf final berdasarkan materi yang tersedia, dengan status penilaian tetap menunggu verifikasi resmi.
 
-{{< include "../../includes/uts-penilaian.md" >}}
+<!-- File include uts-penilaian.md tidak digunakan. -->
