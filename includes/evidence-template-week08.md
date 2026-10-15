@@ -12,12 +12,12 @@
 
 Dokumen pendukung yang menjadi rujukan paket ini meliputi:
 
-- [Makalah Pra-UTS](UTS/paper.qmd)
-- [Laporan Sesi 1](UTS/hasil_1_18225077.qmd)
-- [Laporan Sesi 2a](UTS/hasil_2a_18225077.qmd)
-- [Laporan Sesi 2b](UTS/hasil_2b_18225077.qmd)
-- [Laporan Sesi 3a](UTS/hasil_3a_18225077.qmd)
-- [Laporan Sesi 3b](UTS/hasil_3b_18225077.qmd)
+- [Makalah Pra-UTS](UTS/paper.html)
+- [Laporan Sesi 1](UTS/hasil_1_18225077.html)
+- [Laporan Sesi 2a](UTS/hasil_2a_18225077.html)
+- [Laporan Sesi 2b](UTS/hasil_2b_18225077.html)
+- [Laporan Sesi 3a](UTS/hasil_3a_18225077.html)
+- [Laporan Sesi 3b](UTS/hasil_3b_18225077.html)
 
 Rekaman, transkrip verbatim, observer sheet, dan feedback eksternal hanya dapat dinyatakan sebagai evidence apabila benar-benar tersedia. Daftar dokumen di atas tidak dengan sendirinya membuktikan adanya artefak tambahan.
 

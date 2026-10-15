@@ -81,12 +81,12 @@ Bagian ini menjadi navigasi utama untuk membuka dokumen pendukung portfolio.
 
 | Tahap | Dokumen | Fokus | Tautan |
 |---|---|---|---|
-| Pra-UTS | Makalah Pra-UTS | Kajian dan refleksi berdasarkan instruksi makalah | [Buka makalah](UTS/paper.qmd) |
-| Sesi 1 | Laporan Sesi 1 | Refleksi dan analisis kasus sesi pertama | [Buka laporan](UTS/hasil_1_18225077.qmd) |
-| Sesi 2a | Laporan Sesi 2a | Komunikasi dengan teman dekat dan pembagian tanggung jawab | [Buka laporan](UTS/hasil_2a_18225077.qmd) |
-| Sesi 2b | Laporan Sesi 2b | Analisis komunikasi dan respons interpersonal | [Buka laporan](UTS/hasil_2b_18225077.qmd) |
-| Sesi 3a | Laporan Sesi 3a | Penerapan strategi komunikasi pada kasus | [Buka laporan](UTS/hasil_3a_18225077.qmd) |
-| Sesi 3b | Laporan Sesi 3b | Evaluasi strategi, hasil, dan batas bukti | [Buka laporan](UTS/hasil_3b_18225077.qmd) |
+| Pra-UTS | Makalah Pra-UTS | Kajian dan refleksi berdasarkan instruksi makalah | [Buka makalah](UTS/paper.html) |
+| Sesi 1 | Laporan Sesi 1 | Refleksi dan analisis kasus sesi pertama | [Buka laporan](UTS/hasil_1_18225077.html) |
+| Sesi 2a | Laporan Sesi 2a | Komunikasi dengan teman dekat dan pembagian tanggung jawab | [Buka laporan](UTS/hasil_2a_18225077.html) |
+| Sesi 2b | Laporan Sesi 2b | Analisis komunikasi dan respons interpersonal | [Buka laporan](UTS/hasil_2b_18225077.html) |
+| Sesi 3a | Laporan Sesi 3a | Penerapan strategi komunikasi pada kasus | [Buka laporan](UTS/hasil_3a_18225077.html) |
+| Sesi 3b | Laporan Sesi 3b | Evaluasi strategi, hasil, dan batas bukti | [Buka laporan](UTS/hasil_3b_18225077.html) |
 
 **Catatan keterlacakan:** nama file dan alamat tautan mengikuti struktur dokumen pendukung portfolio. Setiap dokumen menjadi rujukan bagi analisis, refleksi, dan bukti yang relevan dengan tahap masing-masing.
 
