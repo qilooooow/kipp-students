@@ -8,7 +8,7 @@ description: "Integrated performance Target–Attention–Interest."
 categories: [Assessment, UTS]
 subtitle: "Komunikasi Interpersonal, Refleksi Lintas Sesi, dan Asesmen Pribadi"
 author: "Aqila Zahra Athaya"
-date: "14 Oktober 2026"
+date: "2026-10-14"
 lang: id
 format:
   html:
@@ -43,18 +43,21 @@ Mengintegrasikan *person recognition*, *state recognition*, *repertoire*, *langu
 
 Kompetensi tersebut mencakup kemampuan mengenali orang dan keadaan secara tepat, memilih repertoar komunikasi yang sesuai, menggunakan bahasa yang jelas, memberikan respons yang relevan, serta menyesuaikan strategi berdasarkan situasi dan umpan balik.
 
-## Evidence wajib
+## ## Evidence wajib
 
-Evidence yang menjadi bagian dari paket UTS Minggu 8 meliputi:
+Paket UTS Minggu 8 menggunakan kerangka evidence berikut untuk menghubungkan kompetensi target dengan pelaksanaan, pengamatan, evaluasi, dan perbaikan performa komunikasi interpersonal.
 
-- Performance card dan initial state.
-- Rekaman/transcript serta observer sheet.
-- Feedback, replay, evidence improvement, dan reflection.
+- **Performance card dan initial state:** acuan target kompetensi dan kondisi awal yang hendak dievaluasi.
+- **Rekaman/transkrip dan observer sheet:** sumber untuk menelusuri pesan, strategi komunikasi, dan respons yang dapat diamati.
+- **Feedback dan replay:** bahan untuk meninjau kembali performa serta mengidentifikasi bagian yang perlu diperbaiki.
+- **Evidence improvement dan reflection:** dokumentasi perubahan, pembelajaran, serta rencana pengembangan berikutnya.
 
-Evidence tersebut digunakan untuk menghubungkan kompetensi target dengan pelaksanaan, pengamatan, evaluasi, dan perbaikan performa komunikasi. Analisis perlu membedakan rencana, tindakan yang benar-benar dilakukan, respons yang diamati, dan hasil yang didukung oleh bukti.
+Dokumen pendukung yang tersedia dalam portfolio ini meliputi makalah Pra-UTS dan lima laporan sesi UTS. Laporan tersebut menjadi rujukan analisis dan refleksi lintas sesi. Rekaman, observer sheet, dan feedback eksternal hanya dinyatakan tersedia apabila benar-benar tercantum atau dilampirkan dalam dokumen.
+
+Analisis membedakan rencana, tindakan yang tercatat, respons yang dilaporkan, dan hasil yang telah diverifikasi. Jika suatu artefak belum tersedia, keterbatasan tersebut perlu dinyatakan secara terbuka dan tidak digantikan oleh bukti yang dibuat-buat.
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 8](../examples/week-08.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+[Buka contoh fiktif Minggu 8](../examples/week-08.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Contoh tersebut merupakan ilustrasi, bukan evidence pribadi.
 :::
 
 {{< include ../includes/evidence-template-week08.md >}}
