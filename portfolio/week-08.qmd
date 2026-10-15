@@ -29,7 +29,7 @@ Portfolio ini disusun untuk mendokumentasikan paket UTS Performance Evidence Pac
 | Nama mahasiswa | Aqila Zahra Athaya |
 | NIM | 18225077 |
 | Kelas | K-01 |
-| Tanggal penyusunan | 15 Oktober 2026 |
+| Tanggal penyusunan | 14 Oktober 2026 |
 | Mata kuliah | KIPP |
 | Minggu | 8 |
 | Jenis paket | UTS Performance Evidence Package |
