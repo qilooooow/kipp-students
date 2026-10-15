@@ -1,64 +1,58 @@
-## Konteks performance
+## Konteks Performance
 
-**Tanggal dan setting:** 14 Oktober 2026 merupakan tanggal pelaksanaan UTS yang tercantum pada identitas laporan. Tempat, waktu spesifik, dan bentuk kegiatan perlu dilengkapi sesuai catatan pelaksanaan yang sebenarnya.
+**Tanggal:** 14 Oktober 2026, sesuai tanggal pelaksanaan UTS yang tercantum pada laporan.
 
-**Persons dan relationship:** Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+**Setting dan bentuk kegiatan:** Rujuk pada masing-masing laporan sesi. Jangan menganggap simulasi sebagai interaksi nyata di luar tugas.
 
-**Objective dan initial state:** Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+**Persons dan relationship:** Identifikasi pihak yang terlibat berdasarkan laporan terkait. Hindari mencantumkan informasi pribadi yang tidak diperlukan.
+
+**Objective dan initial state:** Tujuan dan kondisi awal perlu dijelaskan berdasarkan kasus, instruksi, atau catatan yang benar-benar tersedia.
 
 ## Evidence
 
-::: {.evidence-block}
-Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
-:::
+Dokumen pendukung yang menjadi rujukan paket ini meliputi:
 
-## Analisis komunikasi
+- [Makalah Pra-UTS](../UTS/paper.qmd)
+- [Laporan Sesi 1](../UTS/hasil_1_18225077.qmd)
+- [Laporan Sesi 2a](../UTS/hasil_2a_18225077.qmd)
+- [Laporan Sesi 2b](../UTS/hasil_2b_18225077.qmd)
+- [Laporan Sesi 3a](../UTS/hasil_3a_18225077.qmd)
+- [Laporan Sesi 3b](../UTS/hasil_3b_18225077.qmd)
 
-| Elemen | Evidence dan analisis |
+Rekaman, transkrip verbatim, observer sheet, dan feedback eksternal hanya dapat dinyatakan sebagai evidence apabila benar-benar tersedia. Daftar dokumen di atas tidak dengan sendirinya membuktikan adanya artefak tambahan.
+
+## Analisis Komunikasi
+
+| Dimensi | Analisis dan batas evidence |
 |---|---|
-| Person & character | Refleksi menekankan tanggung jawab, penghargaan terhadap perspektif orang lain, dan pentingnya menghindari asumsi sebelum melakukan klarifikasi. Bukti performa langsung tetap perlu dilampirkan jika tersedia. |
-| Objective & state | Tujuan komunikasi perlu dibedakan, misalnya untuk memahami masalah, menyampaikan pendapat, membagi tanggung jawab, atau mencapai kesepakatan. Kondisi interaksi perlu dipertimbangkan sebelum memilih strategi. |
-| Repertoire & language | Strategi yang dibahas meliputi active listening, pertanyaan klarifikasi, parafrasa, penyampaian ketidaksetujuan secara konstruktif, dan konfirmasi kesepakatan. Penerapan aktual harus dicocokkan dengan evidence yang tersedia. |
-| Response & adaptation | Refleksi menyoroti perlunya memeriksa pemahaman, memperjelas pesan, dan menyesuaikan pendekatan ketika terjadi kesalahpahaman. Klaim tentang keberhasilan adaptasi perlu didukung catatan atau observasi aktual. |
-| Agreement/action | Kesepakatan yang efektif perlu memperjelas pembagian tanggung jawab, tindakan berikutnya, dan tindak lanjut yang dapat diperiksa. |
-| Relationship outcome | Komunikasi perlu menjaga penghargaan terhadap pihak lain sekaligus mendukung penyelesaian tujuan. Dampak nyata terhadap hubungan tidak boleh diklaim tanpa evidence yang memadai. |
+| Person & Character | Refleksi menekankan pentingnya memahami perspektif, kebutuhan, tanggung jawab, dan konteks hubungan. Kesimpulan tentang orang lain perlu didasarkan pada informasi yang relevan, bukan asumsi semata. |
+| Objective & State | Tujuan komunikasi perlu dibedakan antara memahami masalah, menyampaikan pendapat, membagi tanggung jawab, dan mencapai kesepakatan. Kondisi awal harus merujuk pada informasi dalam laporan. |
+| Repertoire & Language | Strategi yang dipelajari mencakup mendengarkan aktif, pertanyaan klarifikasi, parafrasa, penyampaian pendapat secara konstruktif, dan konfirmasi kesepakatan. Penerapan aktual harus dicocokkan dengan isi laporan masing-masing. |
+| Response & Adaptation | Refleksi menekankan perlunya memeriksa pemahaman, memperjelas pesan, dan menyesuaikan pendekatan. Keberhasilan adaptasi tidak boleh diklaim tanpa bukti pendukung. |
+| Agreement & Action | Kesepakatan yang baik perlu memperjelas tanggung jawab, langkah berikutnya, dan tindak lanjut. Rencana tindakan tidak otomatis membuktikan tindakan telah dilakukan. |
+| Relationship Outcome | Komunikasi perlu menjaga penghargaan terhadap pihak lain sekaligus membantu penyelesaian masalah. Dampak nyata terhadap hubungan hanya dapat dinyatakan jika didukung evidence. |
 
 ## Penggunaan AI
 
-Nyatakan `Tidak menggunakan AI` atau jelaskan:
+AI digunakan sebagai alat bantu untuk menyusun, merapikan, dan meninjau struktur tulisan. Isi akhir tetap perlu diperiksa terhadap instruksi perkuliahan, laporan sesi, dan evidence yang tersedia. AI tidak menjadi bukti bahwa interaksi atau tindakan tertentu benar-benar terjadi.
 
-- alat dan peran AI;
-- prompt atau instruksi penting;
-- bagian output yang digunakan, diubah, atau ditolak;
-- pemeriksaan accuracy, privacy, dan authority;
-- apa yang tetap Anda pelajari sebagai manusia.
+## Feedback dan Tindak Lanjut
 
-## Feedback dan tindak lanjut
+**Feedback eksternal:** Tidak dinyatakan tersedia apabila belum ada catatan atau umpan balik nyata yang dapat diperiksa.
 
-**Feedback yang diterima:** Belum dicantumkan karena kutipan atau catatan feedback aktual belum tersedia pada bagian ini. Tambahkan feedback yang benar-benar diterima beserta konteksnya apabila tersedia.
+**Refleksi pribadi:** Gunakan bagian ini untuk mengidentifikasi strategi yang perlu diperbaiki berdasarkan evaluasi diri dan isi laporan. Refleksi pribadi tidak boleh disebut sebagai feedback dari dosen atau pengamat.
 
-**Adaptation/replay:** Jelaskan apa yang Anda ubah dan response setelah perubahan.
+**Replay dan adaptation:** Catat perubahan strategi setelah uji ulang hanya jika kegiatan tersebut benar-benar dilakukan dan didokumentasikan.
 
-**Next practice:** Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+**Next practice:** Pada percakapan berikutnya, latih satu perilaku yang spesifik: ajukan pertanyaan klarifikasi sebelum menawarkan solusi, parafrasekan pemahaman, lalu konfirmasikan apakah pemahaman tersebut tepat. Evaluasi penerapannya setelah ada pengalaman nyata.
 
-## Self-assessment
+## Self-Assessment dan Batas Penilaian
 
-| Dimensi | Skor 1–4 | Evidence singkat |
-|---|---:|---|
-| Person & Character | 4 | Refleksi mengenai sikap, tanggung jawab, dan penghargaan terhadap lawan bicara; sesuaikan dengan bukti konkret yang tersedia. |
-| Objective & State | 4 | Penjelasan tujuan komunikasi dan kondisi interaksi dalam refleksi lintas sesi; perlu dicocokkan dengan evidence aktual. |
-| Repertoire, Language & AI | 4 | Pembahasan strategi komunikasi, pilihan bahasa, dan penggunaan AI sesuai uraian laporan; perlu dicocokkan dengan evidence aktual. |
-| Response & Adaptation | 4 | Refleksi tentang respons, penyesuaian komunikasi, dan pembelajaran; perlu dicocokkan dengan evidence aktual. |
-| Agreement, Action & Relationship | 4 | Refleksi tentang kesepakatan, tindak lanjut, dan hubungan interpersonal; perlu dicocokkan dengan evidence aktual. |
+Skor pada bagian asesmen pribadi di halaman ini merupakan penilaian diri. Kesesuaiannya perlu diperiksa terhadap rubrik perkuliahan dan evidence yang tersedia.
 
-**Total:** 20 / 20 — Usulan penilaian diri, menunggu pencocokan dengan rubrik dan evidence aktual.
+### Assessment Dosen
 
-::: {.assessor-only}
-### Assessment dosen
-
-**Skor:** — / 20  
-**Evidence yang mendukung:** —  
-**Prioritas perbaikan:** —  
-**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
-:::
-
+- **Skor dosen:** Belum dicantumkan.
+- **Evidence yang mendukung:** Menunggu penilaian berdasarkan dokumen dan artefak yang tersedia.
+- **Prioritas perbaikan:** Disesuaikan dengan hasil evaluasi dosen.
+- **Keputusan akhir:** Menunggu penilaian dosen.

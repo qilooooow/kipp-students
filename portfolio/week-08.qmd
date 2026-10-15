@@ -8,7 +8,7 @@ description: "Integrated performance Target–Attention–Interest."
 categories: [Assessment, UTS]
 subtitle: "Komunikasi Interpersonal, Refleksi Lintas Sesi, dan Asesmen Pribadi"
 author: "Aqila Zahra Athaya"
-date: "2026-10-14"
+date: 2026-10-14
 lang: id
 format:
   html:
