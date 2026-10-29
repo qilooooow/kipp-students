@@ -1,4 +1,3 @@
-
 ---
 title: "Action & Agreement Challenge"
 week: 10
@@ -22,9 +21,18 @@ Kompetensi ini ditunjukkan melalui:
 5. Artefak tindakan yang sudah disusun dan diperiksa melalui desk-check.
 6. Response dan adaptation yang mengubah mekanisme solusi.
 7. State assessment yang membedakan persetujuan review dari persetujuan pilot.
+8. Evaluasi kritis terhadap kualitas evidence dan kebutuhan validasi eksternal.
 
 ::: {.callout-note title="Status Evidence dan Batas Klaim"}
-Portofolio ini adalah simulasi komunikasi dalam konteks Business Development Inkubator IT ITB. Dialog, pilihan target, review, dan agreement adalah role-play. Desk-check merupakan pemeriksaan logika terhadap tiga skenario dummy yang dijelaskan dalam dokumen, bukan hasil penggunaan sistem nyata. Tidak ada klaim bahwa koordinator atau pimpinan organisasi telah menyetujui pilot.
+
+Portofolio ini merupakan simulasi komunikasi dalam konteks Business Development Inkubator IT ITB. Dialog target, pilihan opsi, negosiasi, feedback reviewer, dan agreement yang ditampilkan merupakan role-play, bukan transkrip percakapan nyata.
+
+Desk-check merupakan pemeriksaan logika terhadap tiga skenario dummy yang dijelaskan dalam dokumen, bukan hasil penggunaan sistem nyata. Workflow dan test cases merupakan artefak rancangan yang didokumentasikan dalam portofolio.
+
+Belum ada klaim bahwa koordinator atau pimpinan organisasi telah melakukan walkthrough, memberikan persetujuan pilot, atau memvalidasi solusi secara operasional.
+
+Status evidence akan diperbarui apabila validasi nyata telah dilakukan. Penambahan dokumentasi simulasi tidak dianggap sebagai pengganti bukti pelaksanaan.
+
 :::
 
 ## 1. Konteks dan Continuity TAIDA
@@ -35,16 +43,16 @@ Dalam kegiatan Business Development, monitoring calon mitra membutuhkan informas
 
 Saya mengembangkan skenario solusi *partnership monitoring* untuk mengeksplorasi bagaimana informasi tersebut dapat ditampilkan dengan jelas tanpa menambah duplikasi pencatatan.
 
-Masalah operasional belum dinyatakan terbukti. Kasus ini digunakan sebagai latihan mengubah kebutuhan stakeholder menjadi langkah evaluasi yang realistis.
+Masalah operasional ini belum dinyatakan terbukti melalui observasi nyata. Karena itu, kasus digunakan sebagai latihan mengubah kebutuhan stakeholder menjadi langkah evaluasi yang realistis, terukur, dan dapat diperiksa.
 
 ### Continuity
 
 | Minggu | Tahap | Hasil Simulasi |
 |---|---|---|
-| 6 | Attention | Target bersedia mempertimbangkan evaluasi monitoring |
-| 7 | Interest | Target melihat manfaat overview, tetapi mempertanyakan workload dan reliability |
-| 9 | Desire | Target menginginkan monitoring jelas tanpa dua sumber status terpisah |
-| 10 | Action | Target perlu memilih langkah yang feasible sebelum pilot |
+| 6 | Attention | Target bersedia mempertimbangkan evaluasi monitoring. |
+| 7 | Interest | Target melihat manfaat overview, tetapi mempertanyakan workload dan reliability. |
+| 9 | Desire | Target menginginkan monitoring yang jelas tanpa dua sumber status terpisah. |
+| 10 | Action | Target perlu memilih langkah yang feasible sebelum mempertimbangkan pilot. |
 
 ### Desired State dari Minggu 9
 
@@ -54,62 +62,135 @@ Masalah operasional belum dinyatakan terbukti. Kasus ini digunakan sebagai latih
 
 **Conditional Desire — pending evidence.**
 
-Target dalam skenario menginginkan outcome, tetapi belum memberikan komitmen tindakan.
+Dalam skenario, target menginginkan outcome tersebut, tetapi keinginan itu belum otomatis menghasilkan tindakan operasional.
+
+Masih ada ketidakpastian mengenai sumber status resmi, authority untuk mengubah proses, data permission, update ownership, workload, dan feasibility workflow.
+
+Dengan demikian, tujuan tahap Action bukan langsung memperoleh persetujuan implementasi. Tujuannya adalah menentukan langkah berikutnya yang sesuai dengan kesiapan target dan tingkat ketidakpastian yang masih ada.
 
 ## 2. Desire–Action Gap
 
 ### Gap Statement
 
-Target telah menyatakan desired state, tetapi belum ada keputusan operasional karena sumber status resmi, authority, data permission, update ownership, dan feasibility belum dipastikan.
+Target dalam skenario telah menyatakan desired state, tetapi belum ada keputusan operasional karena sumber status resmi, authority, data permission, ownership, dan feasibility belum dipastikan.
 
 **Desired state tidak otomatis menghasilkan action.**
+
+Seseorang dapat menginginkan suatu outcome, tetapi tetap belum siap mengambil tindakan apabila risiko, kewenangan, atau konsekuensi perubahan proses belum jelas.
+
+Karena itu, saya perlu mengidentifikasi hambatan yang benar-benar mencegah perpindahan dari Desire menuju Action, bukan sekadar mengulangi manfaat solusi.
 
 ### Barrier Map
 
 | Barrier | Mengapa Menghambat Action | Bukti untuk Menguranginya |
 |---|---|---|
-| Approval authority | Review prototype belum tentu mengizinkan perubahan proses | Konfirmasi pihak berwenang |
-| Source of truth | Dua sumber status dapat menimbulkan double entry | Workflow mapping |
-| Data permission | Informasi calon mitra dapat bersifat terbatas | Access review |
-| Ownership | Status dapat menjadi stale tanpa PIC pembaruan | Responsibility mapping |
-| Workload | Proses baru dapat memperberat pekerjaan | Task-based walkthrough |
-| Unclear success criteria | Keputusan dapat bergantung pada opini | Evidence threshold dan decision rule |
+| Approval authority | Review prototype belum tentu mengizinkan perubahan proses. | Konfirmasi pihak yang berwenang. |
+| Source of truth | Dua sumber status dapat menimbulkan double entry. | Workflow mapping dan keputusan sumber status resmi. |
+| Data permission | Informasi calon mitra dapat bersifat terbatas. | Access review dan konfirmasi izin. |
+| Ownership | Status dapat menjadi stale tanpa PIC pembaruan. | Responsibility mapping. |
+| Workload | Proses baru dapat memperberat pekerjaan. | Task-based walkthrough. |
+| Unclear success criteria | Keputusan dapat bergantung pada opini. | Evidence threshold dan decision rule. |
 
 ### Barrier Prioritization
 
-**P1 — Authority:** Tidak ada pilot sebelum persetujuan pihak yang berwenang.
+**P1 — Authority**
 
-**P2 — Workflow:** Tidak ada klaim single-source sebelum alur pembaruan diperiksa.
+Tidak ada pilot sebelum pihak yang berwenang menyetujui perubahan proses.
 
-**P3 — Permission:** Tidak menggunakan data nyata untuk evaluasi awal.
+**P2 — Workflow**
+
+Tidak ada klaim single-source sebelum alur pembaruan diperiksa dan sumber status resmi ditentukan.
+
+**P3 — Permission**
+
+Data nyata tidak digunakan untuk evaluasi awal tanpa izin yang sesuai.
+
+**P4 — Ownership dan Workload**
+
+Rancangan perlu diperiksa untuk memastikan tanggung jawab pembaruan jelas dan proses tidak menciptakan pekerjaan ganda.
+
+**P5 — Success Criteria**
+
+Keputusan tidak cukup berdasarkan kesan bahwa dashboard terlihat bagus. Harus ada indikator yang dapat diperiksa, seperti kejelasan PIC, sumber status, dan kemampuan mengenali informasi yang perlu diverifikasi.
+
+### Barrier-to-Action Mapping
+
+| Barrier | Respons yang Tidak Tepat | Respons yang Lebih Tepat |
+|---|---|---|
+| Authority belum jelas | Langsung meminta pilot. | Mengidentifikasi pihak yang berwenang. |
+| Source of truth belum jelas | Mengasumsikan satu sumber telah disepakati. | Memetakan current workflow dan menetapkan decision gate. |
+| Data permission belum tersedia | Menggunakan data mitra sebagai contoh. | Menggunakan dummy data. |
+| Ownership belum jelas | Hanya menampilkan status di dashboard. | Menentukan siapa yang bertanggung jawab memperbarui status. |
+| Workload belum diketahui | Menganggap proses baru pasti lebih efisien. | Memeriksa langkah kerja melalui walkthrough. |
+| Success criteria belum jelas | Memutuskan berdasarkan opini. | Menetapkan kriteria evaluasi dan decision rule. |
+
+### Implication for Action
+
+Respons terhadap barrier harus sesuai dengan jenis masalahnya.
+
+Jika hambatannya adalah approval, saya perlu mengklarifikasi siapa yang dapat memberikan persetujuan.
+
+Jika hambatannya adalah workflow, saya perlu memetakan dan memeriksa alur pembaruan.
+
+Jika hambatannya adalah permission, saya perlu membatasi pengujian pada data dummy sampai izin tersedia.
+
+Jika hambatannya adalah workload, saya perlu menguji langkah kerja, bukan hanya memperlihatkan tampilan dashboard.
+
+Dengan demikian, langkah awal yang dipilih adalah evaluasi terbatas sebelum implementasi, bukan langsung menjalankan pilot.
 
 ## 3. Person dan Authority Map
 
 | Person / Role | Relevance | Authority | Responsibility | Boundary |
 |---|---|---|---|---|
-| Koordinator Business Development | Tinggi | Meninjau kebutuhan dan rancangan | Memberi feedback terhadap proses monitoring | Persetujuan review bukan otomatis izin pilot |
-| Pimpinan / penanggung jawab proses terkait | Tinggi | Calon pemberi approval perubahan operasional | Menentukan scope perubahan proses | Identitas pemberi approval final harus dikonfirmasi |
-| Pengelola akses data | Tinggi | Mengatur akses sesuai mandat | Memeriksa permission | Tidak otomatis menyetujui perubahan proses |
-| Staff BD / PIC | Tinggi | Memberi masukan pengguna | Menjalankan pembaruan jika disetujui | Tidak dapat memberi approval sendiri |
-| Saya — Staff BD | Tinggi | Mengusulkan rancangan | Menyusun prototype, test cases, dan dokumentasi | Tidak memiliki authority untuk menerapkan sistem sepihak |
+| Koordinator Business Development | Tinggi | Meninjau kebutuhan dan rancangan sesuai kewenangannya. | Memberi feedback terhadap proses monitoring. | Persetujuan review bukan otomatis izin pilot. |
+| Pimpinan atau penanggung jawab proses terkait | Tinggi | Calon pemberi approval perubahan operasional. | Menentukan scope perubahan proses sesuai mandatnya. | Identitas pemberi approval final harus dikonfirmasi. |
+| Pengelola akses data | Tinggi | Mengatur akses sesuai mandat. | Memeriksa permission. | Tidak otomatis menyetujui perubahan proses. |
+| Staff BD atau PIC | Tinggi | Memberi masukan sebagai pengguna. | Menjalankan pembaruan jika disetujui. | Tidak dapat memberikan approval di luar kewenangannya. |
+| Saya — Staff BD | Tinggi | Mengusulkan rancangan. | Menyusun workflow, test cases, dan dokumentasi. | Tidak memiliki authority untuk menerapkan sistem sepihak. |
 
 ### Simulated Authority Discovery
 
-> **Saya:** "Kak, kalau kita ingin mencoba alur monitoring ini, siapa yang perlu menyetujui perubahan prosesnya?"
->
-> **Target:** "Untuk review konsep aku bisa bantu. Tapi kalau sampai mengubah workflow tim atau menggunakan data mitra, perlu persetujuan pihak yang bertanggung jawab."
->
-> **Saya:** "Berarti kita bisa membahas walkthrough dummy data dulu, tanpa menganggap itu sebagai approval pilot?"
->
-> **Target:** "Iya, betul."
+**Saya:**
+
+"Kak, kalau kita ingin mencoba alur monitoring ini, siapa yang perlu menyetujui perubahan prosesnya?"
+
+**Target:**
+
+"Untuk review konsep aku bisa bantu. Tapi kalau sampai mengubah workflow tim atau menggunakan data mitra, perlu persetujuan pihak yang bertanggung jawab."
+
+**Saya:**
+
+"Berarti kita bisa membahas walkthrough dummy data dulu, tanpa menganggap itu sebagai approval pilot?"
+
+**Target:**
+
+"Iya, betul."
+
+*Catatan: dialog ini merupakan simulasi untuk menganalisis komunikasi dan authority, bukan kutipan dari percakapan nyata.*
+
+### Authority Analysis
+
+Dari simulasi tersebut, terdapat tiga peran yang perlu dibedakan:
+
+1. **Reviewer:** Memberi masukan terhadap rancangan dan kelayakan alur.
+2. **Approver:** Memberikan persetujuan terhadap perubahan proses sesuai kewenangannya.
+3. **Executor:** Menjalankan proses setelah keputusan dan izin yang diperlukan tersedia.
+
+Ketiganya tidak selalu merupakan orang yang sama.
+
+Kesalahan dalam memetakan authority dapat menghasilkan agreement yang terlihat jelas tetapi tidak dapat dijalankan. Sebagai contoh, koordinator mungkin dapat meninjau konsep, tetapi belum tentu dapat menyetujui penggunaan data mitra atau perubahan workflow seluruh tim.
 
 ### Authority Decision
 
-Saya membatasi usulan awal pada **review prototype dengan dummy data**.
+Saya membatasi usulan awal pada **review prototype menggunakan dummy data**.
 
-Persetujuan pilot belum diminta dan pemberi approval final perlu dikonfirmasi sebelum ada perubahan proses operasional.
+Langkah ini memungkinkan rancangan diperiksa tanpa langsung mengubah proses kerja atau menggunakan data calon mitra.
+
+Persetujuan pilot belum diminta. Pemberi approval final perlu dikonfirmasi sebelum ada perubahan proses operasional.
 
 ## 4. Options dan Trade-Off
+
+Saya menyusun tiga opsi karena belum ada cukup evidence untuk menyimpulkan bahwa pilot merupakan langkah terbaik.
 
 ### Option A — Dummy-Data Workflow Walkthrough
 
@@ -117,121 +198,227 @@ Persetujuan pilot belum diminta dan pemberi approval final perlu dikonfirmasi se
 
 **Duration:** Satu sesi sekitar 30 menit.
 
-**Evidence:** Kejelasan PIC, update flow, source of truth, dan indikator status lama.
+**Evidence yang dicari:**
 
-**Advantages:** Risiko rendah, reversible, tidak memerlukan data mitra nyata.
+- Kejelasan PIC.
+- Alur pembaruan status.
+- Kejelasan sumber status resmi.
+- Kemungkinan pencatatan ganda.
+- Kemampuan mengenali informasi yang sudah lama tidak diperbarui.
 
-**Limitations:** Tidak membuktikan performa dalam operasional nyata.
+**Advantages:**
+
+- Risiko data relatif rendah.
+- Tidak membutuhkan data calon mitra nyata.
+- Dapat mengidentifikasi kelemahan rancangan sebelum implementasi.
+- Hasil review dapat digunakan untuk menentukan revisi.
+
+**Limitations:**
+
+- Belum membuktikan performa dalam operasional nyata.
+- Hasil bergantung pada kualitas skenario dan feedback reviewer.
+- Tidak dapat menggantikan validasi penggunaan aktual.
 
 ### Option B — Limited Operational Pilot
 
-**Scope:** Sejumlah kecil calon mitra yang diizinkan.
+**Scope:** Sejumlah kecil calon mitra yang telah diizinkan.
 
-**Duration:** Lima hari kerja.
+**Duration:** Lima hari kerja sebagai rancangan awal.
 
-**Evidence:** Penggunaan aktual, workload, dan konsistensi status.
+**Evidence yang dicari:**
 
-**Advantages:** Evidence operasional lebih kuat.
+- Penggunaan aktual.
+- Beban kerja pengguna.
+- Konsistensi status.
+- Kemungkinan pencatatan ganda.
+- Kebutuhan perubahan workflow.
 
-**Limitations:** Memerlukan approval, permission, pembagian kerja, dan stop rule yang lebih ketat.
+**Advantages:**
+
+- Dapat menghasilkan evidence operasional yang lebih kuat.
+- Memungkinkan evaluasi terhadap proses yang benar-benar digunakan.
+- Dapat mengungkap masalah yang tidak muncul dalam simulasi.
+
+**Limitations:**
+
+- Membutuhkan approval dan permission.
+- Membutuhkan pembagian tanggung jawab.
+- Memiliki risiko dan konsekuensi operasional yang lebih besar.
+- Membutuhkan stop rule dan kriteria evaluasi yang jelas.
+
+Option B belum dapat dijalankan sebelum kewenangan, izin, dan batas implementasinya dikonfirmasi.
 
 ### Option C — Current Workflow Observation
 
 **Scope:** Memahami alur monitoring yang telah berjalan tanpa memperkenalkan prototype.
 
-**Duration:** Satu sesi observasi terbatas.
+**Duration:** Satu sesi observasi terbatas jika diizinkan.
 
-**Evidence:** Peta proses dan titik pencatatan.
+**Evidence yang dicari:**
 
-**Advantages:** Dapat mengklarifikasi current process dengan perubahan minimal.
+- Alur pencatatan saat ini.
+- Pihak yang memperbarui status.
+- Lokasi penyimpanan informasi.
+- Titik yang berpotensi menimbulkan duplikasi.
+- Hambatan dalam memperoleh informasi status.
 
-**Limitations:** Belum menguji solusi single-source monitoring.
+**Advantages:**
+
+- Dapat mengklarifikasi current process dengan perubahan minimal.
+- Membantu mengurangi asumsi mengenai proses yang sudah berjalan.
+- Tidak langsung memperkenalkan mekanisme baru.
+
+**Limitations:**
+
+- Belum menguji mekanisme solusi.
+- Tetap membutuhkan izin dan kesediaan pihak terkait.
+- Tidak secara langsung membuktikan bahwa workflow usulan lebih baik.
 
 ### Trade-Off Matrix
 
 | Kriteria | A — Walkthrough | B — Pilot | C — Observation |
 |---|---|---|---|
-| Menguji solution mechanism | Ya, secara simulasi | Ya, secara nyata | Tidak |
-| Kekuatan evidence operasional | Rendah | Tinggi | Rendah |
-| Risiko data | Rendah | Lebih tinggi | Bergantung akses |
-| Workload | Rendah | Sedang | Rendah |
-| Approval complexity | Relatif rendah | Tinggi | Bergantung scope |
-| Reversibility | Tinggi | Perlu prosedur penghentian | Tinggi |
+| Menguji solution mechanism | Ya, melalui evaluasi rancangan. | Ya, melalui penggunaan aktual. | Tidak secara langsung. |
+| Kekuatan evidence operasional | Rendah. | Tinggi jika dijalankan dengan benar. | Rendah. |
+| Risiko data | Rendah jika memakai dummy data. | Lebih tinggi. | Bergantung akses. |
+| Workload | Relatif rendah. | Sedang. | Relatif rendah. |
+| Approval complexity | Relatif rendah, tetapi tetap perlu izin yang sesuai. | Tinggi. | Bergantung scope. |
+| Reversibility | Tinggi. | Memerlukan prosedur penghentian. | Tinggi. |
+| Tujuan utama | Memeriksa feasibility awal. | Memvalidasi penggunaan nyata. | Memahami current workflow. |
 
 ### Recommendation
 
-Saya merekomendasikan **Option A** karena paling sesuai dengan kondisi target yang masih membutuhkan evidence feasibility.
+Saya merekomendasikan **Option A — Dummy-Data Workflow Walkthrough** sebagai langkah berikutnya.
 
-Option B tidak ditolak selamanya, tetapi belum proporsional untuk tahap saat ini.
+Alasannya, ketidakpastian utama masih berkaitan dengan feasibility workflow. Karena itu, pengujian terbatas lebih proporsional daripada langsung meminta pilot.
+
+Option A juga memungkinkan reviewer mengkritisi ownership, source of truth, dan double entry sebelum perubahan proses operasional dipertimbangkan.
+
+Option B tidak ditolak selamanya, tetapi belum menjadi langkah yang tepat sebelum rancangan diperiksa dan approval yang dibutuhkan dikonfirmasi.
+
+Option C tetap menjadi alternatif apabila current workflow belum cukup dipahami untuk merancang walkthrough yang relevan.
 
 ## 5. Negotiation dan Response
 
 ### Simulated Negotiation
 
-> **Saya:** "Kak, untuk langkah berikutnya ada tiga opsi. Kita bisa mulai dari walkthrough dummy data, langsung mengusulkan pilot terbatas dengan approval tambahan, atau observasi proses yang sekarang."
->
-> **Target:** "Aku belum mau langsung pilot. Kita belum tahu apakah alur update-nya memang praktis."
->
-> **Saya:** "Setuju. Kalau kita pilih walkthrough dummy data, kita bisa cek mekanismenya tanpa mengubah proses kerja tim."
->
-> **Target:** "Boleh, tapi jangan cuma memperlihatkan dashboard. Aku ingin jelas siapa yang update dan apakah ada pencatatan ganda."
->
-> **Saya:** "Berarti kriteria review-nya harus mencakup ownership dan double-entry test, bukan hanya kemudahan melihat status?"
->
-> **Target:** "Iya."
->
-> **Saya:** "Kalau begitu aku usulkan Option A dengan tiga test case. Aku siapkan diagram alur, dummy data, dan checklist. Hasilnya kita gunakan untuk menentukan apakah perlu revisi atau evaluasi berikutnya."
->
-> **Target:** "Oke, untuk review seperti itu bisa."
+**Saya:**
+
+"Kak, untuk langkah berikutnya ada tiga opsi. Kita bisa mulai dari walkthrough dummy data, mengusulkan pilot terbatas dengan approval tambahan, atau mengobservasi proses yang sekarang."
+
+**Target:**
+
+"Aku belum mau langsung pilot. Kita belum tahu apakah alur update-nya memang praktis."
+
+**Saya:**
+
+"Setuju. Kalau kita pilih walkthrough dummy data, kita bisa memeriksa mekanismenya tanpa mengubah proses kerja tim."
+
+**Target:**
+
+"Boleh, tapi jangan cuma memperlihatkan dashboard. Aku ingin jelas siapa yang update dan apakah ada pencatatan ganda."
+
+**Saya:**
+
+"Berarti kriteria review-nya harus mencakup ownership dan double-entry test, bukan hanya kemudahan melihat status?"
+
+**Target:**
+
+"Iya."
+
+**Saya:**
+
+"Kalau begitu aku usulkan Option A dengan tiga test case. Aku siapkan diagram alur, dummy data, dan checklist. Hasilnya kita gunakan untuk menentukan apakah perlu revisi atau evaluasi berikutnya."
+
+**Target:**
+
+"Oke, untuk review seperti itu bisa."
+
+*Catatan: seluruh percakapan di atas merupakan role-play, bukan bukti persetujuan dari target nyata.*
 
 ### Response Analysis
 
-| Element | Evidence |
-|---|---|
-| Target preference | Walkthrough sebelum pilot |
-| Main concern | Workflow harus praktis |
-| Hidden concern | Dashboard dapat terlihat baik meskipun proses input tetap buruk |
-| Adaptation | Menambahkan ownership dan double-entry test sebagai success criteria |
-| Agreement | Review dummy-data walkthrough |
-| Boundary | Tidak ada pilot approval |
+| Element | Evidence dalam Simulasi | Implikasi |
+|---|---|---|
+| Target preference | Walkthrough sebelum pilot. | Langkah awal perlu dibatasi. |
+| Main concern | Workflow harus praktis. | Perlu memeriksa proses, bukan hanya tampilan. |
+| Hidden concern | Dashboard dapat terlihat baik meskipun proses input tetap buruk. | Double-entry test perlu ditambahkan. |
+| Adaptation | Menambahkan ownership dan double-entry test. | Success criteria diperjelas. |
+| Agreement | Review dummy-data walkthrough. | Ada langkah evaluasi yang spesifik dalam skenario. |
+| Boundary | Tidak ada pilot approval. | Implementasi tetap membutuhkan keputusan terpisah. |
+
+### Negotiation Learning
+
+Saya belajar bahwa negosiasi tidak cukup dilakukan dengan meyakinkan target mengenai manfaat solusi.
+
+Saya perlu memahami alasan target belum siap mengambil tindakan, menyediakan opsi dengan trade-off yang jelas, lalu menyesuaikan usulan berdasarkan kekhawatiran yang muncul.
+
+Dalam skenario ini, kekhawatiran mengenai double entry mengubah kriteria evaluasi. Artinya, respons target memengaruhi rancangan tindakan, bukan hanya pilihan kata dalam percakapan.
+
+Saya juga tidak menganggap persetujuan terhadap walkthrough sebagai persetujuan terhadap pilot. Kedua tindakan memiliki scope, risiko, dan kebutuhan authority yang berbeda.
 
 ## 6. Explicit Agreement
 
 ### Agreement Record — Simulasi
 
-| Komponen | Kesepakatan |
+| Komponen | Kesepakatan dalam Skenario |
 |---|---|
-| Objective | Memeriksa feasibility single-source monitoring |
-| Selected Option | A — Dummy-Data Workflow Walkthrough |
-| Scope | Tiga skenario dummy |
-| Duration | Satu sesi 30 menit |
-| Preparation Owner | Saya sebagai Staff Business Development |
-| Review Owner | Koordinator Business Development |
-| Preparation Deadline | Tiga hari kerja setelah diskusi |
-| Deliverables | Workflow diagram, dummy test cases, risk checklist, review sheet |
-| Evidence | Hasil walkthrough, feedback, dan daftar revisi |
-| Success Criteria | PIC jelas, sumber status jelas, tidak ada double entry wajib, informasi lama dapat dikenali |
-| Data Boundary | Tidak menggunakan data calon mitra nyata |
-| Stop Rule | Hentikan jika perlu data tanpa izin atau mekanisme tidak dapat diuji tanpa risiko yang tidak diterima |
-| Review Point | Akhir sesi walkthrough |
-| Decision Point | Proceed to further evaluation, revise, atau stop |
-| Pilot Approval | Belum diminta; pemberi approval final harus dikonfirmasi sebelum pilot |
+| Objective | Memeriksa feasibility single-source monitoring. |
+| Selected Option | A — Dummy-Data Workflow Walkthrough. |
+| Scope | Tiga skenario dummy. |
+| Duration | Satu sesi sekitar 30 menit. |
+| Preparation Owner | Saya sebagai Staff Business Development. |
+| Review Owner | Koordinator Business Development sebagai reviewer yang diusulkan. |
+| Preparation Deadline | Tiga hari kerja setelah diskusi. |
+| Deliverables | Workflow diagram, dummy test cases, risk checklist, dan review sheet. |
+| Evidence yang Diharapkan | Hasil walkthrough, feedback reviewer, dan daftar revisi. |
+| Success Criteria | PIC jelas, sumber status jelas, tidak ada double entry wajib dalam alur yang diuji, dan informasi lama dapat dikenali. |
+| Data Boundary | Tidak menggunakan data calon mitra nyata. |
+| Stop Rule | Hentikan evaluasi jika diperlukan data tanpa izin atau mekanisme tidak dapat diuji tanpa risiko yang tidak diterima. |
+| Review Point | Akhir sesi walkthrough. |
+| Decision Point | Proceed to further evaluation, revise, atau stop. |
+| Pilot Approval | Belum diminta; pemberi approval final harus dikonfirmasi sebelum pilot. |
 
 ### Confirmation Dialogue
 
-> **Saya:** "Aku rangkum ya Kak. Kita mulai dari walkthrough tiga skenario dummy selama 30 menit. Aku menyiapkan workflow, test cases, dan risk checklist dalam tiga hari kerja. Kita fokus pada ownership, double entry, dan data reliability. Ini belum termasuk pilot atau penggunaan data nyata. Setelah review, kita putuskan apakah perlu revisi atau evaluasi lanjutan. Sudah sesuai?"
->
-> **Target:** "Iya, sesuai."
+**Saya:**
+
+"Aku rangkum ya, Kak. Kita mulai dari walkthrough tiga skenario dummy selama 30 menit. Aku menyiapkan workflow, test cases, dan risk checklist dalam tiga hari kerja. Kita fokus pada ownership, double entry, dan data reliability. Ini belum termasuk pilot atau penggunaan data nyata. Setelah review, kita putuskan apakah perlu revisi atau evaluasi lanjutan. Sudah sesuai?"
+
+**Target:**
+
+"Iya, sesuai."
+
+*Catatan: confirmation dialogue ini merupakan simulasi untuk menunjukkan struktur agreement yang eksplisit. Dialog tersebut tidak boleh dianggap sebagai konfirmasi dari koordinator nyata.*
 
 ### Agreement Interpretation
 
-Agreement memiliki scope, owner, deadline, deliverable, evidence, stop rule, dan decision point.
+Agreement yang dirancang memiliki:
 
-Namun, agreement tersebut merupakan hasil role-play dan belum menjadi komitmen organisasi yang sebenarnya.
+- Objective.
+- Scope.
+- Owner.
+- Deadline.
+- Deliverables.
+- Evidence yang diharapkan.
+- Success criteria.
+- Data boundary.
+- Stop rule.
+- Review point.
+- Decision point.
+- Approval boundary.
+
+Dengan demikian, agreement tidak hanya berbunyi "nanti kita coba", tetapi menjelaskan tindakan yang diusulkan, siapa yang bertanggung jawab, kapan persiapan dilakukan, dan bagaimana hasilnya akan dievaluasi.
+
+Namun, perlu dibedakan antara **agreement yang disimulasikan dalam portofolio** dan komitmen yang benar-benar disepakati oleh pihak organisasi.
+
+Struktur agreement dapat dinilai dari kelengkapannya, tetapi validitas eksternalnya masih memerlukan konfirmasi nyata.
 
 ## 7. Action Evidence — Artefak yang Dapat Diperiksa
 
-Bagian ini menunjukkan artefak konkret yang sudah dituliskan dalam portofolio, bukan hanya daftar hal yang akan dilakukan.
+Bagian ini menunjukkan artefak konkret yang telah didokumentasikan dalam portofolio, bukan hanya daftar hal yang akan dilakukan.
+
+Artefak tersebut menunjukkan proses analisis dan perbaikan desain. Namun, artefak konseptual tidak membuktikan bahwa walkthrough atau pilot telah dilakukan.
 
 ### Artifact A — Initial Workflow V3
 
@@ -253,353 +440,3 @@ Data Freshness Check
         +---- Current
         |
         +---- Needs Verification
-```
-
-**Finding:** Diagram awal mengasumsikan satu sumber status telah disepakati.
-
-Asumsi tersebut belum tervalidasi dan dapat menyebabkan masalah apabila tim masih menggunakan sumber pencatatan berbeda.
-
-### Artifact B — Dummy Test Dataset
-
-| Test ID | Partner | PIC | Initial Status | Event | Expected Status |
-|---|---|---|---|---|---|
-| TC-01 | Partner A | Staff 1 | Not Contacted | Initial outreach recorded | Contacted |
-| TC-02 | Partner B | Staff 2 | Waiting Response | Partner agrees to discussion | Discussion |
-| TC-03 | Partner C | Staff 1 | Waiting Response | No update within defined review window | Needs Verification |
-
-Semua partner, PIC, dan status adalah data dummy.
-
-### Artifact C — Desk-Check Test Results
-
-Desk-check dilakukan secara konseptual terhadap workflow tertulis. Hasil di bawah menunjukkan apakah logika rancangan telah mencakup kondisi uji, bukan hasil eksekusi software.
-
-| Test | Desk-Check Finding | Result |
-|---|---|---|
-| TC-01 | Alur dapat merepresentasikan perubahan status setelah outreach | Pass at conceptual level |
-| TC-02 | Alur dapat merepresentasikan perubahan Waiting Response ke Discussion | Pass at conceptual level |
-| TC-03 | Alur memuat Needs Verification, tetapi belum menetapkan aturan kapan status dianggap lama | Partial |
-| Source-of-truth check | Diagram mengasumsikan sumber status sudah disepakati | Fail |
-| Duplicate-entry check | Tidak ada bukti bahwa sumber tambahan tidak diperlukan | Not verified |
-
-### Desk-Check Interpretation
-
-Desk-check menunjukkan bahwa alur dasar perubahan status dapat dijelaskan.
-
-Namun, dua kelemahan utama teridentifikasi:
-
-1. Source of truth belum dikonfirmasi.
-2. Aturan data freshness belum cukup spesifik.
-
-Karena itu, rancangan **belum layak dinyatakan memenuhi seluruh success criteria**.
-
-### Artifact D — Risk Checklist
-
-| Risk | Control | Desk-Check Status |
-|---|---|---|
-| Multiple status sources | Source-of-truth decision gate | Missing in initial workflow |
-| Stale data | Explicit freshness rule | Needs revision |
-| Unclear ownership | PIC field | Represented conceptually |
-| Sensitive data | Dummy dataset | Satisfied for this document |
-| Premature pilot | Approval boundary | Explicitly documented |
-| Duplicate entry | Single-update process | Not verified |
-
-### Action Evidence Conclusion
-
-Artefak yang telah tersedia:
-
-- Workflow awal.
-- Dummy test dataset.
-- Hasil desk-check konseptual.
-- Risk checklist.
-- Temuan kelemahan yang spesifik.
-
-Evidence ini menunjukkan pekerjaan analisis dan revisi rancangan telah didokumentasikan, tetapi tidak membuktikan adanya pilot atau walkthrough bersama target nyata.
-
-## 8. Review, Response, dan Substantive Adaptation
-
-### Simulated Reviewer Objection
-
-> **Reviewer:** "Diagramnya langsung menyuruh PIC update satu sumber. Bagaimana kalau tim belum sepakat sumber mana yang resmi?"
->
-> **Saya:** "Berarti diagram ini terlalu cepat mengasumsikan source of truth sudah tersedia."
->
-> **Reviewer:** "Kalau begitu, bisa saja anggota tetap mencatat di chat dan sheet."
->
-> **Saya:** "Betul. Kita perlu decision gate sebelum workflow dilanjutkan."
->
-> **Reviewer:** "Terus indikator Needs Verification muncul berdasarkan apa?"
->
-> **Saya:** "Kita perlu menetapkan freshness rule yang disepakati. Untuk demonstrasi, aku bisa gunakan ambang ilustratif, tetapi tidak menganggapnya sebagai kebijakan tim."
-
-### Adaptation 1 — Source-of-Truth Gate
-
-Saya menambahkan keputusan eksplisit mengenai sumber status resmi.
-
-### Adaptation 2 — Freshness Rule
-
-Saya menambahkan aturan contoh:
-
-**Jika status belum diperbarui selama lebih dari lima hari kalender, tampilkan Needs Verification.**
-
-Angka lima hari digunakan untuk simulasi dan harus disesuaikan dengan kebutuhan operasional apabila evaluasi nyata dilakukan.
-
-### Revised Workflow V4
-
-```text
-Partner Communication
-        |
-        v
-Identify Relevant Status Update
-        |
-        v
-Is Official Status Source Agreed?
-        |
-        +---- NO ----> Map Current Workflow
-        |                    |
-        |                    v
-        |              Request Process Review
-        |                    |
-        |                    v
-        |                No Pilot
-        |
-        +---- YES ---> PIC Updates One Official Source
-                             |
-                             v
-                     Monitoring Reads Same Source
-                             |
-                             v
-                     Check Last Updated
-                             |
-                  +----------+----------+
-                  |                     |
-             <= 5 days              > 5 days
-                  |                     |
-                  v                     v
-               Current          Needs Verification
-                                        |
-                                        v
-                                  Confirm with PIC
-```
-
-### Adaptation Matrix
-
-| Aspect | Before Review | After Review |
-|---|---|---|
-| Source of truth | Assumed | Explicit decision gate |
-| Duplicate entry | Intended to avoid | Checked before proceeding |
-| Freshness | General indicator | Illustrative five-day rule |
-| Missing approval | Not operationalized | No pilot when source/authority unresolved |
-| Decision quality | Workflow looked complete | Limitations explicitly recognized |
-
-### Why Adaptation Is Substantive
-
-Saya mengubah dua bagian mekanisme:
-
-1. **Workflow governance:** Proses tidak dilanjutkan sebelum sumber status resmi ditentukan.
-2. **Data validation logic:** Informasi lama dikenali menggunakan aturan yang eksplisit.
-
-Perubahan tersebut berasal dari kelemahan yang ditemukan dalam desk-check dan objection pada simulasi review.
-
-## 9. Re-Check After Adaptation
-
-Saya memeriksa ulang rancangan V4 secara konseptual menggunakan skenario yang sama.
-
-### Revised Desk-Check Results
-
-| Test | Revised Finding | Result |
-|---|---|---|
-| TC-01 | Status Contacted dapat dicatat jika sumber resmi sudah ditentukan | Conditional Pass |
-| TC-02 | Perubahan ke Discussion dapat direpresentasikan melalui satu alur status | Conditional Pass |
-| TC-03 | Status lebih dari lima hari ditandai Needs Verification dalam aturan simulasi | Pass at conceptual level |
-| Source-of-truth check | Workflow berhenti jika sumber resmi belum disepakati | Pass at conceptual level |
-| Duplicate-entry check | Desain mensyaratkan satu sumber, tetapi belum terbukti pada proses nyata | Not verified |
-| Pilot authorization | Tidak ada pilot sebelum approval | Pass at design level |
-
-### Re-Check Interpretation
-
-Rancangan V4 lebih baik dibandingkan V3 karena dua kelemahan logika telah ditangani.
-
-Namun, **hasil konseptual tidak sama dengan bukti usability atau feasibility operasional**.
-
-Karena itu, keputusan yang tepat tetap melakukan walkthrough sebelum mengusulkan pilot.
-
-### Decision After Desk-Check
-
-**Decision: Revise completed at design level; proceed only to authorized walkthrough, not operational pilot.**
-
-## 10. State Assessment
-
-### Initial State
-
-**Conditional Desire — pending evidence.**
-
-### State After Simulated Negotiation
-
-**Action Agreement for Limited Review.**
-
-### Supporting Signals
-
-| Signal | Meaning |
-|---|---|
-| Target memilih Option A | Preferensi terhadap tindakan tertentu |
-| Target menyepakati scope | Batas evaluasi jelas |
-| Target menerima owner dan deadline | Komitmen simulasi menjadi spesifik |
-| Target menetapkan success criteria | Evaluasi memiliki standar |
-| Target belum menyetujui pilot | Komitmen tetap terbatas |
-
-### Final State
-
-**Limited Action Agreement — walkthrough pending.**
-
-Saya tidak mengklaim bahwa walkthrough telah dilakukan.
-
-Action yang dapat dibuktikan dalam dokumen adalah penyusunan dan revisi artefak konseptual. Agreement dengan target masih merupakan simulasi.
-
-## 11. Evidence Traceability
-
-| Required Evidence | Section | Evidence Type |
-|---|---|---|
-| Desire–action gap | 2 | Gap analysis |
-| Barrier map | 2 | Barrier table |
-| Authority map | 3 | Role and authority table |
-| Options | 4 | Three options |
-| Trade-off | 4 | Comparison matrix |
-| Negotiation | 5 | Simulated dialogue |
-| Explicit agreement | 6 | Agreement record |
-| Owner/deadline | 6 | Defined |
-| Action evidence | 7 | Workflow, dataset, desk-check |
-| Review | 8 | Simulated reviewer objection |
-| Adaptation | 8 | Revised workflow V4 |
-| Re-check | 9 | Conceptual test results |
-| State assessment | 10 | Limited Action Agreement |
-| AI critical use | 13 | Method and limitations |
-| Self-assessment | 14 | Five dimensions |
-
-### Evidence Chain
-
-**Desire → Barrier Discovery → Authority Mapping → Options → Negotiation → Agreement → Prepared Artifacts → Desk-Check Findings → Adaptation → Re-Check → Limited Action State.**
-
-## 12. Refleksi Pribadi
-
-Pada tahap Action, saya memahami bahwa ketertarikan dan keinginan target belum otomatis menghasilkan tindakan.
-
-Target dapat menginginkan monitoring yang lebih jelas, tetapi tetap memiliki alasan untuk menunda implementasi ketika authority, workflow, dan permission belum pasti.
-
-Saya belajar bahwa *desire–action gap* perlu dipecah menjadi barrier yang spesifik.
-
-Jika hambatannya adalah approval, maka respons yang tepat bukan memperpanjang pitch mengenai manfaat solusi.
-
-Jika hambatannya adalah workflow, maka respons yang tepat adalah menguji mekanisme pembaruan.
-
-Jika hambatannya adalah permission, maka respons yang tepat adalah membatasi penggunaan data sampai izin diperoleh.
-
-Saya juga memahami pentingnya authority mapping.
-
-Koordinator dapat menjadi reviewer yang relevan, tetapi tidak otomatis memiliki kewenangan untuk mengizinkan seluruh perubahan proses.
-
-Dengan membedakan reviewer, approver, dan executor, saya dapat menghindari agreement yang tidak realistis.
-
-Pembelajaran berikutnya adalah bahwa negosiasi perlu menyediakan pilihan yang benar-benar berbeda.
-
-Saya membandingkan walkthrough dummy data, pilot terbatas, dan observasi workflow.
-
-Setiap opsi memiliki konsekuensi terhadap evidence, workload, risiko, dan approval.
-
-Saya memilih merekomendasikan walkthrough karena lebih sesuai dengan state target dan ketidakpastian yang masih ada.
-
-Saya juga belajar bahwa agreement tidak cukup berbunyi "nanti kita coba".
-
-Agreement harus memiliki scope, owner, deadline, deliverable, evidence, stop rule, dan decision point.
-
-Bagian yang paling penting bagi saya adalah perbedaan antara rencana tindakan dan action evidence.
-
-Saya menyusun workflow, dummy test cases, risk checklist, dan desk-check agar ide tidak berhenti sebagai janji.
-
-Melalui desk-check, saya menemukan bahwa rancangan awal belum memiliki source-of-truth decision gate dan freshness rule yang jelas.
-
-Saya kemudian merevisi workflow agar kedua kelemahan tersebut ditangani.
-
-Hal ini menunjukkan bahwa action evidence tidak harus selalu memperlihatkan hasil yang sempurna. Temuan kegagalan juga dapat menjadi evidence yang berguna apabila menghasilkan adaptation yang jelas.
-
-Namun, saya tetap membedakan desk-check konseptual dari pengujian nyata.
-
-Saya tidak menganggap bahwa rancangan sudah layak diterapkan hanya karena seluruh jalur logikanya dapat dijelaskan.
-
-Sebagai seseorang yang tertarik pada Business Development dan Product Management, pembelajaran ini penting karena proses mengubah ide menjadi tindakan memerlukan koordinasi stakeholder, kejelasan keputusan, dan disiplin dalam memvalidasi asumsi.
-
-Ke depan, saya ingin lebih konsisten memeriksa authority, mengembangkan opsi, dan mendokumentasikan evidence sebelum meminta komitmen yang lebih besar.
-
-## 13. Penggunaan AI dan Critical Evaluation
-
-### AI Assistance
-
-AI digunakan untuk:
-
-1. Menyusun alternatif barrier dan authority map.
-2. Membandingkan options dan trade-off.
-3. Mengembangkan pertanyaan negosiasi.
-4. Memeriksa kelengkapan agreement.
-5. Membuat skenario desk-check.
-6. Mengidentifikasi kemungkinan kelemahan workflow.
-7. Membantu merumuskan adaptation.
-8. Mengevaluasi konsistensi state assessment.
-
-### AI Limitations
-
-AI tidak dapat memberikan approval organisasi.
-
-AI juga tidak dapat memastikan bahwa workflow bebas double entry tanpa memeriksa proses kerja yang sebenarnya.
-
-Hasil desk-check konseptual tidak boleh diperlakukan sebagai bukti implementasi.
-
-### Human Judgment
-
-Saya mempertahankan tiga keputusan:
-
-- Tidak menggunakan data nyata tanpa izin.
-- Tidak meminta pilot sebelum authority jelas.
-- Tidak menyatakan solusi berhasil sebelum workflow diuji.
-
-Dengan demikian, AI digunakan untuk memperbaiki kualitas rancangan dan penalaran, bukan menggantikan evidence aktual.
-
-## 14. Self-Assessment
-
-| Dimensi | Skor | Evidence Singkat |
-|---|---:|---|
-| Person & Character | 4 | Authority, responsibility, dan approval boundary dibedakan. Target tidak diminta menyetujui pilot di luar kewenangannya. |
-| Objective & State | 4 | Desire–action gap konkret, barrier diprioritaskan, dan final state dibatasi pada Limited Action Agreement. |
-| Repertoire, Language & AI | 4 | Tiga opsi dan trade-off, negosiasi berbasis risiko, agreement confirmation, serta evaluasi kritis AI. |
-| Response & Adaptation | 4 | Reviewer objection dan desk-check findings menghasilkan source-of-truth gate serta freshness rule. |
-| Agreement, Action & Relationship | 4 | Agreement eksplisit, artefak workflow dan test cases tersedia, desk-check serta re-check terdokumentasi, dengan batasan pelaksanaan dinyatakan. |
-
-**Total Self-Assessment: 20/20 — Target Kompetensi Maksimal.**
-
-### Justifikasi per Dimensi
-
-**Person & Character — 4/4**
-
-Saya membedakan target reviewer, calon approver, pengelola akses, pengguna, dan pemilik usulan. Saya menyesuaikan permintaan tindakan dengan authority masing-masing.
-
-**Objective & State — 4/4**
-
-Saya mengidentifikasi barrier yang mencegah perpindahan dari Desire menuju Action dan memilih langkah terbatas yang sesuai dengan tingkat kesiapan target. Saya tidak menyamakan review agreement dengan pilot approval.
-
-**Repertoire, Language & AI — 4/4**
-
-Saya menggunakan options, trade-off, negotiation dialogue, agreement confirmation, dan desk-check untuk mendukung keputusan. Saya membatasi penggunaan AI pada evaluasi rancangan dan tidak menggunakannya untuk mengklaim hasil nyata.
-
-**Response & Adaptation — 4/4**
-
-Saya mengidentifikasi kelemahan workflow dan menambahkan source-of-truth decision gate serta freshness rule. Perubahan tersebut memperbaiki mekanisme, bukan sekadar wording.
-
-**Agreement, Action & Relationship — 4/4**
-
-Saya menyusun agreement yang memiliki scope, owner, deadline, deliverable, evidence, stop rule, dan review point. Saya juga mendokumentasikan artefak dan hasil desk-check konseptual serta membedakannya dari pengujian operasional.
-
-### Self-Assessment Boundary
-
-Skor 20/20 merupakan target berdasarkan kelengkapan dan kualitas rancangan simulasi. Nilai aktual dapat berbeda jika assessor mewajibkan bukti pelaksanaan atau persetujuan nyata.
-
-::: {.callout-important title="Key Learning"}
-Action bukan sekadar memperoleh persetujuan verbal. Action membutuhkan identifikasi barrier, kejelasan authority, negosiasi opsi yang realistis, agreement yang eksplisit, serta evidence yang dapat diperiksa. Rancangan yang baik juga harus mampu menunjukkan kelemahan, melakukan adaptation, dan menetapkan batas sebelum implementasi.
-:::
